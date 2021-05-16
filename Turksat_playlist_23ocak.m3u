@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 ,Covid 19
+https://www.youtube.com/embed/live_stream?channel=UCDGiCfCZIV5phsoGiPwIcyQ&rel=0&autoplay=1&showinfo=0
+#EXTINF:-1 ,Covid 19+
+https://esriturkiye.maps.arcgis.com/apps/opsdashboard/index.html#/c601fac93fe8443eab28c02fd81f6831
 #EXTINF:-1 ,TRT1 HD
 http://tv-trt1.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 ,FOX TV SD
