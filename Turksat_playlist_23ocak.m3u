@@ -5,6 +5,8 @@ http://tv-trt1.live.trt.com.tr/master_720.m3u8
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/72
 #EXTINF:-1 ,STAR TV HD TR
 http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
+#EXTINF:-1 ,ATV
+https://ecanlitv2.etvserver.com/live_sd/atv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xNi8yMDIxIDY6MDM6NTQgQU0maGFzaF92YWx1ZT05Z3BNblhzRG1YaGx1OGsreXZZL09nPT0mdmFsaWRtaW51dGVzPTU=
 #EXTINF:-1 ,KANAL D SD
 https://2122248074.duhnet.tv/S2/HLS_LIVE/kanaldnp/track_3_750/playlist.m3u8
 #EXTINF:-1 ,KANAL 7 HD
@@ -27,8 +29,6 @@ http://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
 http://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
 #EXTINF:-1 ,TV EM
 http://win1.yayin.com.tr/TVEM/TVEM/chunklist.m3u8
-#EXTINF:-1 ,AKSiYON HD
-https://d1vftv9up76vki.cloudfront.net/out/v1/6f27e3bde7274af6b06befa08cd839d7/master.m3u8
 #EXTINF:-1 ,KOMEDi HD
 https://d20aqhpvpegrs2.cloudfront.net/out/v1/d9da7879327241d3831f39b61016a353/master.m3u8
 #EXTINF:-1 ,AFYON TURK HD
