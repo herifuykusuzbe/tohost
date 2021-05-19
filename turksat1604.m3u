@@ -3,24 +3,26 @@
 http://tv-trt1.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 ,TRT 4K
 http://buyutecaltinda.dyndns.tv:54981/stream/TRT4K.m3u8
+#EXTINF:-1 ,KANAL D
+https://av.livestreamlive.xyz/hls/kanald.m3u8
+#EXTINF:-1 ,SHOW TV HD
+https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
+#EXTINF:-1 ,STAR TV HD
+http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
 #EXTINF:-1 ,ATV
 http://yayin2.tvizlehd.com/atv720.m3u8
 #EXTINF:-1 ,ATV AVRUPA
 http://iptvmasterlink.dyndns.org:5566/Entry/atvavrupa_yeni.m3u8
 #EXTINF:-1 ,FOX TV
 https://av.livestreamlive.xyz/hls/fox.m3u8
-#EXTINF:-1 ,STAR TV HD
-http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
-#EXTINF:-1 ,EURO STAR
-http://xrklj56s.rocketcdn.com/eurostar.smil/chunklist_b1828000_sltur.m3u8
-#EXTINF:-1 ,SHOW TV HD
-https://tv.ensonhaber.com/tv/tr/showtv/index.m3u8
-#EXTINF:-1 ,KANAL D
-https://av.livestreamlive.xyz/hls/kanald.m3u8
-#EXTINF:-1 ,EURO D
-https://2122248074.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
+#EXTINF:-1 ,NTV HD TR
+http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
 #EXTINF:-1 ,TV8 HD
 http://149.255.152.66:8080/tv8hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,EURO STAR
+http://xrklj56s.rocketcdn.com/eurostar.smil/chunklist_b1828000_sltur.m3u8
+#EXTINF:-1 ,EURO D
+https://2122248074.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
 #EXTINF:-1 ,TV8 SD
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/74
 #EXTINF:-1 ,TV8,5 SD
@@ -241,8 +243,6 @@ http://snmtv.ozelip.com:2052/kesteltv/kesteltv/playlist.m3u8
 http://iptvmasterlink.dyndns.org:5566/Entry/minikago_yeni.m3u8
 #EXTINF:-1 ,MiNiKA COCUK
 http://iptvmasterlink.dyndns.org:5566/Entry/minikacocuk_yeni.m3u8
-#EXTINF:-1 ,NTV HD TR
-http://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
 #EXTINF:-1 ,HABER TURK HD YEDEK
 https://tv.ensonhaber.com/tv/tr/haberturk/index.m3u8
 #EXTINF:-1 ,HABER GLOBAL HD YEDEK
