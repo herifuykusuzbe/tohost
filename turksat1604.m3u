@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 ,TRT1-Turksat.Org.com
+#EXTINF:-1 ,TRT1
 http://tv-trt1.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 ,TRT 4K
 http://buyutecaltinda.dyndns.tv:54981/stream/TRT4K.m3u8
-#EXTINF:-1 ,ATV HD YEDEK
+#EXTINF:-1 ,ATV
 http://yayin2.tvizlehd.com/atv720.m3u8
 #EXTINF:-1 ,ATV AVRUPA
 http://iptvmasterlink.dyndns.org:5566/Entry/atvavrupa_yeni.m3u8
 #EXTINF:-1 ,FOX TV
 https://av.livestreamlive.xyz/hls/fox.m3u8
-#EXTINF:-1 ,STAR TV HD TR
+#EXTINF:-1 ,STAR TV HD
 http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
 #EXTINF:-1 ,EURO STAR
 http://xrklj56s.rocketcdn.com/eurostar.smil/chunklist_b1828000_sltur.m3u8
@@ -23,9 +23,9 @@ https://2122248074.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8
 http://149.255.152.66:8080/tv8hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,TV8 SD
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/74
-#EXTINF:-1 ,TV8 BUCUK SD
+#EXTINF:-1 ,TV8,5 SD
 https://av.livestreamlive.xyz/hls/tv85.m3u8
-#EXTINF:-1 ,BEYAZ TV HD YEDEK
+#EXTINF:-1 ,BEYAZ TV HD
 https://tv.ensonhaber.com/tv/tr/beyaztv/index.m3u8
 #EXTINF:-1 ,KANAL 7 HD
 https://live.kanal7.com/live/kanal7LiveDesktop/index.m3u8
@@ -45,7 +45,7 @@ https://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist_b1428000_sltur.m3u8
 #EXTINF:-1 ,TLC HD
 http://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
-#EXTINF:-1 ,TLC HD YEDEK
+#EXTINF:-1 ,TLC HD
 https://tv.ensonhaber.com/tv/tr/tlc/index.m3u8
 #EXTINF:-1 ,TGRT EU
 https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
