@@ -11,14 +11,8 @@ http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/8660
 http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6914
 #EXTINF:-1 ,Show TV FHD TR
 http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/8656
-#EXTINF:-1 ,Show TV HD TR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/8071
-#EXTINF:-1 ,Show Max TR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/8644
-#EXTINF:-1 ,Kanal D FHD TR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/6864
-#EXTINF:-1 ,Kanal D HD TR
-http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/8671
+#EXTINF:-1 ,Kanal D TR
+https://kdlive.duhnet.tv/S2/HLS_LIVE/kanaldnp/track_4_1000/playlist.m3u8
 #EXTINF:-1 ,Star TV FHD TR
 http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/12834
 #EXTINF:-1 ,Star TV TR
