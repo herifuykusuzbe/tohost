@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1 ,TR: TRT 1 FHD
+https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 ,TR| SHOW HD
+http://ultimateiptv.me:8080/amira/amira123/10152
+#EXTINF:-1 ,TR| FOX FHD
+http://ultimateiptv.me:8080/amira/amira123/10155
+#EXTINF:-1 ,TR| ATV HD
+http://ultimateiptv.me:8080/amira/amira123/10154
 #EXTINF:-1 ,TR| BEIN SPORTS HABER FHD
 http://ultimateiptv.me:8080/amira/amira123/10043
 #EXTINF:-1 ,TR| BEIN SPORTS HABER
@@ -101,8 +109,6 @@ http://ultimateiptv.me:8080/amira/amira123/10134
 http://ultimateiptv.me:8080/amira/amira123/10143
 #EXTINF:-1 ,TR| TGRT HABER
 http://ultimateiptv.me:8080/amira/amira123/10123
-#EXTINF:-1 ,TR| SHOW HD
-http://ultimateiptv.me:8080/amira/amira123/10152
 #EXTINF:-1 ,TR| SHOW MAX
 http://ultimateiptv.me:8080/amira/amira123/10247
 #EXTINF:-1 ,TR| SHOW TV FHD
@@ -115,8 +121,6 @@ http://ultimateiptv.me:8080/amira/amira123/10131
 http://ultimateiptv.me:8080/amira/amira123/10124
 #EXTINF:-1 ,TR| ATV FHD
 http://ultimateiptv.me:8080/amira/amira123/10153
-#EXTINF:-1 ,TR| ATV HD
-http://ultimateiptv.me:8080/amira/amira123/10154
 #EXTINF:-1 ,TR| HABER TURK HD
 http://ultimateiptv.me:8080/amira/amira123/10127
 #EXTINF:-1 ,TR| HALK TV
@@ -207,8 +211,6 @@ http://ultimateiptv.me:8080/amira/amira123/10102
 http://ultimateiptv.me:8080/amira/amira123/10101
 #EXTINF:-1 ,TR| TRT MUZIK
 http://ultimateiptv.me:8080/amira/amira123/10100
-#EXTINF:-1 ,TR| FOX FHD
-http://ultimateiptv.me:8080/amira/amira123/10155
 #EXTINF:-1 ,TR| FOX LIFE HD
 http://ultimateiptv.me:8080/amira/amira123/10176
 #EXTINF:-1 ,TR| SINEMA TV 2 HD
@@ -343,8 +345,6 @@ http://ultimateiptv.me:8080/amira/amira123/10259
 http://ultimateiptv.me:8080/amira/amira123/10260
 #EXTINF:-1 ,TR| TRT OKUL
 http://ultimateiptv.me:8080/amira/amira123/10261
-#EXTINF:-1 ,TR: TRT 1 FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/97584
 #EXTINF:-1 ,TR: TRT 1 HD
 http://oznvip.mnepro.com:8080/ishak08/ishak0808/46517
 #EXTINF:-1 ,TR: TRT 2 FHD
