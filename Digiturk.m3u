@@ -4,7 +4,7 @@ https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 ,TR: KANAL D FHD
 https://kdlive.duhnet.tv/S2/HLS_LIVE/kanaldnp/track_4_1000/playlist.m3u8
 #EXTINF:-1 ,TR| SHOW HD
-https://ciner-live.ercdn.net/showtv/showtv_720p.m3u8
+https://ciner-live.ercdn.net/showtv/showtv_720p.m3u8?e=1625327530&st=CTVEh1zmTURBG7iv2J6kaA&tv=1
 #EXTINF:-1 ,TR: STAR TV FHD
 https://dogus.daioncdn.net/startv/startv_720p.m3u8
 #EXTINF:-1 ,TR| FOX FHD
