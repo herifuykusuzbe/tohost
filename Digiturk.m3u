@@ -1,8 +1,12 @@
 #EXTM3U
 #EXTINF:-1 ,TR: TRT 1 FHD
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
+#EXTINF:-1 ,TR: KANAL D FHD
+https://kdlive.duhnet.tv/S2/HLS_LIVE/kanaldnp/track_4_1000/playlist.m3u8
 #EXTINF:-1 ,TR| SHOW HD
-http://ultimateiptv.me:8080/amira/amira123/10152
+https://ciner-live.ercdn.net/showtv/showtv_720p.m3u8
+#EXTINF:-1 ,TR: STAR TV FHD
+https://dogus.daioncdn.net/startv/startv_720p.m3u8
 #EXTINF:-1 ,TR| FOX FHD
 http://ultimateiptv.me:8080/amira/amira123/10155
 #EXTINF:-1 ,TR| ATV HD
@@ -353,16 +357,12 @@ http://oznvip.mnepro.com:8080/ishak08/ishak0808/46520
 http://oznvip.mnepro.com:8080/ishak08/ishak0808/97585
 #EXTINF:-1 ,TR: ATV HD
 http://oznvip.mnepro.com:8080/ishak08/ishak0808/46524
-#EXTINF:-1 ,TR: STAR TV FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/97588
 #EXTINF:-1 ,TR: STAR TV HD
 http://oznvip.mnepro.com:8080/ishak08/ishak0808/46525
 #EXTINF:-1 ,TR: SHOW TV FHD
 http://oznvip.mnepro.com:8080/ishak08/ishak0808/97586
 #EXTINF:-1 ,TR: SHOW TV HD
 http://oznvip.mnepro.com:8080/ishak08/ishak0808/46526
-#EXTINF:-1 ,TR: KANAL D FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/97587
 #EXTINF:-1 ,TR: KANAL D HD
 http://oznvip.mnepro.com:8080/ishak08/ishak0808/46527
 #EXTINF:-1 ,TR: FOX TV FHD
