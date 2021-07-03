@@ -4,13 +4,15 @@ https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
 #EXTINF:-1 ,TR: KANAL D FHD
 https://kdlive.duhnet.tv/S2/HLS_LIVE/kanaldnp/track_4_1000/playlist.m3u8
 #EXTINF:-1 ,TR| SHOW HD
-https://mn-nl.mncdn.com/blutv_showtv/smil:show_sd.smil/chunklist_b2064000.m3u8
+http://hscg.moppie.info:7444/SeningiBeliYnca667/IhangetP00asat999/4
 #EXTINF:-1 ,TR: STAR TV FHD
-http://85.132.44.99:1935/turktv/startv.sdp/playlist.m3u8
+http://hscg.moppie.info:7444/SeningiBeliYnca667/IhangetP00asat999/3
 #EXTINF:-1 ,TR| FOX FHD
-https://foxtv-live-ad.ercdn.net/foxtv/foxtv_720p.m3u8
+http://hscg.moppie.info:7444/SeningiBeliYnca667/IhangetP00asat999/7
 #EXTINF:-1 ,TR| ATV HD
-http://canli.ecanlitvizle.com/org3/atv_me/playlist.m3u8
+http://hscg.moppie.info:7444/SeningiBeliYnca667/IhangetP00asat999/15476
+#EXTINF:-1 ,TR: TV 8 HD
+http://hscg.moppie.info:7444/SeningiBeliYnca667/IhangetP00asat999/15432
 #EXTINF:-1 ,TR| BEIN SPORTS HABER FHD
 http://ultimateiptv.me:8080/amira/amira123/10043
 #EXTINF:-1 ,TR| BEIN SPORTS HABER
