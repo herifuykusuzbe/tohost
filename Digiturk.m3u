@@ -1,8 +1,7 @@
 #EXTM3U
 #EXTINF:-1 ,TR: TRT 1 FHD
 https://tv-trt1.medya.trt.com.tr/master_1080.m3u8
-#EXTINF:-1 ,TR: KANAL D FHD
-https://kdlive.duhnet.tv/S2/HLS_LIVE/kanaldnp/track_4_1000/playlist.m3u8
+
 #EXTINF:-1 ,TR: KANALD HD
 http://hscg.moppie.info:7444/SeningiBeliYnca667/IhangetP00asat999/5
 #EXTINF:-1 ,TR| SHOW HD
