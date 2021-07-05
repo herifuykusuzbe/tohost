@@ -1,5 +1,5 @@
 #EXTM3U
-C#EXTINF:-1 group-title="Türk Filmleri"&"Dram",Müslüm
+C#EXTINF:-1 group-title="Türk Filmleri""Dram",Müslüm
 https://hdfilmizle.pw/hls/406510e2a410fe9371ff701fbabed795/406510e2a410fe9371ff701fbabed795.m3u8
 C#EXTINF:-1 ,Sen Hiç Ateşböceği Gördün Mü?
 https://hdfilmizle.pw/hls/74c1aa904d6fc6eed68a5b312abc1358/74c1aa904d6fc6eed68a5b312abc1358.m3u8
@@ -48,7 +48,8 @@ C#EXTINF:-1 group-title="Animasyon",Pinokyo izle (2019)
 https://hdfilmizle.pw/hls/2e5cc154f575263f33b2f617c8258f8b/2e5cc154f575263f33b2f617c8258f8b.m3u8
 #EXTINF:-1 group-title="Animasyon",Tom ve Jerry
 https://hdfilmizle.pw/hls/d80a56538778928c5b0c41a881efa272/d80a56538778928c5b0c41a881efa272.m3u8
-
+C#EXTINF:-1 group-title="Animasyon",Kafadar Ayılar: Film
+https://user-content-opn-344-vid.moly.cloud/hls/xqx2pn5ej5okjiqbth2sniaswllhuayfc6hvq42ikgkfj2p6gvpjr67szn7q/index-v1-a1.m3u8
 
 
 
@@ -100,7 +101,8 @@ C#EXTINF:-1 group-title="Komedi",Kimsesiz Çocuk Remi izle (2018)
 https://srv6.filmmodu.xyz/tt6741368/720p.tr.m3u8
 C#EXTINF:-1 group-title="Komedi",Büyük Lebowski izle (1998)
 https://s23.rapidrame.com/hls/zojdn524wuknuemgnzavuxupttfmqc5w7te4esvh7dqg4t7fjirbrtr5owfa/index-v1-a1.m3u8
-
+C#EXTINF:-1 group-title="Komedi",Yarın Yokmuş Gibi
+https://user-content-transit-c-427-vid.moly.cloud/hls/xqx2phkgjzokjiqbth5snkcgxwv3rt2qyxebnwv7agzd4ivkelkmzphsglha/index-v1-a1.m3u8
 
 
 C#EXTINF:-1 group-title="Biyografi",Karanlık Sular izle (2019)
@@ -118,8 +120,8 @@ https://hdfilmizle.pw/hls/4988f287b8a53b1463eda123dd517568/4988f287b8a53b1463eda
 
 
 
-C#EXTINF:-1 ,
-C#EXTINF:-1 ,
+
+
 C#EXTINF:-1 ,
 
 
