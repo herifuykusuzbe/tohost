@@ -1,389 +1,423 @@
 #EXTM3U
-#EXTINF:-1,TR: TRT 1 HD
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/1
-#EXTINF:-1,TR: ATV HD
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/2
-#EXTINF:-1,TR: STAR TV HD
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/4
-#EXTINF:-1,TR: KANALD HD
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/3
-#EXTINF:-1,TR: SHOW TV HD
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/5
-#EXTINF:-1,TR: FOX TV HD
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/6
-#EXTINF:-1,TR: KANAL7 HD
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/9
-#EXTINF:-1,TR: BEYAZ TV HD
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/10
-#EXTINF:-1,TR: TV8 HD
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/7
-#EXTINF:-1,TR: TV8.5 HD
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/8
-#EXTINF:-1,TR: A2 HD
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/205
-#EXTINF:-1,TR: A PARA HD
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/4454
-#EXTINF:-1,TR: TRT 2
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/3203
-#EXTINF:-1,TR: TRT 4K - UHD
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/11810
-#EXTINF:-1,TR: 360 HD
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/3219
-#EXTINF:-1,TR: TV4 HD
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/3217
-#EXTINF:-1,TR: TEVE 2
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/3286
-#EXTINF:-1,TR: UCANKUS TV HD
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/4706
-#EXTINF:-1,TR: SHOWMAX
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/3260
-#EXTINF:-1,TR: TRT 1  - Hevc
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/190
-#EXTINF:-1,TR: ATV - Hevc
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/12334
-#EXTINF:-1,TR: STAR TV - Hevc
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/12336
-#EXTINF:-1,TR: KANALD - Hevc
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/12335
-#EXTINF:-1,TR: SHOW - Hevc
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/194
-#EXTINF:-1,TR: FOX TV - Hevc
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/12337
-#EXTINF:-1,TR: TV8 - Hevc
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/12338
-#EXTINF:-1,TR: TRT 1
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/3284
-#EXTINF:-1,TR: ATV
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/191
-#EXTINF:-1,TR: STAR
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/193
-#EXTINF:-1,TR: FOX
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/195
-#EXTINF:-1,TR: TV8
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/196
-#EXTINF:-1,TR: KANAL D
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/192
-#EXTINF:-1,TR: SHOW TV
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/3285
-#EXTINF:-1,TR: TRT HABER HD
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/11
-#EXTINF:-1,TR: HABERTURK HD
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/12
-#EXTINF:-1,TR: A HABER HD
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/13
-#EXTINF:-1,TR: CNNTURK HD
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/14
-#EXTINF:-1,TR: TV 100
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/3197
-#EXTINF:-1,TR: TGRT HABER
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/18
-#EXTINF:-1,TR: TVNET HD
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/19
-#EXTINF:-1,TR: NTV HD
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/15
-#EXTINF:-1,TR: TV 24 HD
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/16
-#EXTINF:-1,TR: ULKE TV HD
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/17
-#EXTINF:-1,TR: TELE1
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/3226
-#EXTINF:-1,TR: GLOBAL HABER HD
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/3227
-#EXTINF:-1,TR: BLOOMBERG HD
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/229
-#EXTINF:-1,TR: ULUSAL TV
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/3205
-#EXTINF:-1,TR: HALK TV
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/9354
-#EXTINF:-1,TR: KRT HD
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/3218
-#EXTINF:-1,TR: CEM TV
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/3269
-#EXTINF:-1,TR: YOL TV
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/10975
-#EXTINF:-1,TR: TRT DIYANET HD
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/3307
-#EXTINF:-1,TR: VaV Tv
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/12628
-#EXTINF:-1,TR: KANAL AVRUPA
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/5098
-#EXTINF:-1,TR: YESILCAM 1
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/3240
-#EXTINF:-1,TR: YESILCAM 2
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/3241
-#EXTINF:-1,TR: YESILCAM 3
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/10818
-#EXTINF:-1,TR: YESILCAM 4
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/10819
-#EXTINF:-1,TR: SINEMATV YERLI HD
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/10820
-#EXTINF:-1,TR: SINEMATV YERLI 2 HD
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/10821
-#EXTINF:-1,TR: KEMAL SUNAL TV
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/3245
-#EXTINF:-1,TR: KEMAL SUNAL TV 2
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/10835
-#EXTINF:-1,TR: SINEMA 2020 Yerli
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/9673
-#EXTINF:-1,TR: MOVIESMART TURK HD
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/3228
-#EXTINF:-1,TR: BEIN MOVIES TURK
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/4429
-#EXTINF:-1,TR: MovieSmart Classic Türk
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/3467
-#EXTINF:-1,TR: MAX TURK
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/6300
-#EXTINF:-1,TR: MAX VIZYON 2
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/6301
-#EXTINF:-1,TR: MAX VIZYON 3
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/6302
-#EXTINF:-1,TR: MAX HINT FILMLERI
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/6303
-#EXTINF:-1,TR: MOVIESMART PREMIUM
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/4422
-#EXTINF:-1,TR: BEIN MOVIES ACTION
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/4890
-#EXTINF:-1,TR: BEIN MOVIES ACTION 2
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/4891
-#EXTINF:-1,TR: MOVIESMART PLATIN 2
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/4420
-#EXTINF:-1,TR: MOVIESMART PLATIN
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/4421
-#EXTINF:-1,TR: MOVIESMART GOLD
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/4419
-#EXTINF:-1,TR: MOVIESMART FESTIVAL
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/4418
-#EXTINF:-1,TR: BEIN MOVIES
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/4427
-#EXTINF:-1,TR: MOVIESMART FAMILY
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/4417
-#EXTINF:-1,TR: MOVIESMART COCUK
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/4425
-#EXTINF:-1,TR: MOVIESMART ACTION
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/4423
-#EXTINF:-1,TR: BEIN MOVIES SERIES COMEDY
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/4428
-#EXTINF:-1,TR: BEIN MOVIES SCFI
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/4430
-#EXTINF:-1,TR: BEIN MOVIES HD PREMIERE
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/4426
-#EXTINF:-1,TR: BEIN MOVIES PREMIERE 2
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/4892
-#EXTINF:-1,TR: MAX AKSIYON 1
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/10822
-#EXTINF:-1,TR: MAX AKSIYON 2
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/10823
-#EXTINF:-1,TR: CINE OFFICE 1
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/10824
-#EXTINF:-1,TR: CINE OFFICE 2
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/10825
-#EXTINF:-1,TR: CINE OFFICE 3
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/10826
-#EXTINF:-1,TR: CINE OFFICE 4
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/10827
-#EXTINF:-1,TR: CINE OFFICE 5
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/10828
-#EXTINF:-1,TR: SINEMATV 1001
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/10831
-#EXTINF:-1,TR: SINEMATV 1002
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/10832
-#EXTINF:-1,TR: SINEMATV KOMEDI
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/10833
-#EXTINF:-1,TR: SINEMATV KOMEDI 2
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/10834
-#EXTINF:-1,TR: FX
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/5176
-#EXTINF:-1,TR: LOCA1
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/3243
-#EXTINF:-1,TR: LOCA2
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/3244
-#EXTINF:-1,TR: FILMBOX1
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/3229
-#EXTINF:-1,TR: FILMBOX2
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/3230
-#EXTINF:-1,TR: FILMBOX3
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/3231
-#EXTINF:-1,TR: FILMBOX4
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/3232
-#EXTINF:-1,TR: FILMBOX5
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/3233
-#EXTINF:-1,TR: FILMBOX6
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/3234
-#EXTINF:-1,TR: FILMBOX7
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/3235
-#EXTINF:-1,TR: FILMBOX8
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/3236
-#EXTINF:-1,TR: FILMBOX9
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/3237
-#EXTINF:-1,TR: FILMBOX10
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/3238
-#EXTINF:-1,TR: FILMBOX KOMEDI
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/3239
-#EXTINF:-1,TR: BEIN IZ TV
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/3535
-#EXTINF:-1,TR: AV TV
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/3536
-#EXTINF:-1,TR: Yaban Tv
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/13064
-#EXTINF:-1,TR: TGRT BELGESEL
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/20
-#EXTINF:-1,TR: TRT BELGESEL HD
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/21
-#EXTINF:-1,TR: TLC
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/9352
-#EXTINF:-1,TR: NAT GEO HD
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/22
-#EXTINF:-1,TR: DISCOVERY SICIENCE HD
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/27
-#EXTINF:-1,TR: DISCOVERY CHANNEL TURKEY
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/25
-#EXTINF:-1,TR: DISCOVERY SHOWCASE HD TURKISH
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/26
-#EXTINF:-1,TR: NAT GEO WILD HD
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/23
-#EXTINF:-1,TR: NAT GEO PEOPLE HD
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/24
-#EXTINF:-1,TR: HISTORY HD
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/28
-#EXTINF:-1,TR: BBC EARTH HD
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/29
-#EXTINF:-1,TR: ANIMAL PLANET HD
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/33
-#EXTINF:-1,TR: DA VINCI LEARNING
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/35
-#EXTINF:-1,TR: DTX
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/31
-#EXTINF:-1,TR: DMAX HD
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/32
-#EXTINF:-1,TR: TRT MUZIK HD
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/3259
-#EXTINF:-1,TR: NR1 TURK HD
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/3257
-#EXTINF:-1,TR: NR1 HD
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/3258
-#EXTINF:-1,TR: POWER TURK HD
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/239
-#EXTINF:-1,TR: KRAL TV
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/3256
-#EXTINF:-1,TR: KRAL POP
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/3255
-#EXTINF:-1,TR: DREAMTURK HD
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/237
-#EXTINF:-1,TR: TRT COCUK HD
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/3220
-#EXTINF:-1,TR: NILOYA
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/3287
-#EXTINF:-1,TR: OGGY vs
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/13065
-#EXTINF:-1,TR: PJ MASKS
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/13066
-#EXTINF:-1,TR: MINIKA GO SD
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/219
-#EXTINF:-1,TR: MINIKA COCUK SD
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/221
-#EXTINF:-1,TR: FILMBOX ANIMATION
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/3242
-#EXTINF:-1,TR: MAX ANIMATION
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/6304
-#EXTINF:-1,TR: MAX ANIMATION 2
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/6305
-#EXTINF:-1,TR: MAX ANIMASYON 1
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/10829
-#EXTINF:-1,TR: MAX ANIMASYON 2
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/10830
-#EXTINF:-1,TR: Disney Channel SD
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/220
-#EXTINF:-1,TR: LALEGUL TV
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/4709
-#EXTINF:-1,TR: EKIN TV
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/4707
-#EXTINF:-1,TR: SEMERKANT HD
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/4848
-#EXTINF:-1,TR: KABE CANLI
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/4847
-#EXTINF:-1,TR: KUDUS TV
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/4708
-#EXTINF:-1,TR: EKOTURK SD
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/209
-#EXTINF:-1,TR: YILDIZ TV
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/3199
-#EXTINF:-1,TR: VATAN TV
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/3213
-#EXTINF:-1,TR: MELTEM TV
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/3200
-#EXTINF:-1,TR: TV1
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/3268
-#EXTINF:-1,TR: SPORTSTV SD
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/206
-#EXTINF:-1,TR: ON4
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/3262
-#EXTINF:-1,TR: KANAL 43
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/3263
-#EXTINF:-1,TR: BeiN GURME
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/3265
-#EXTINF:-1,TR: DRT DENIZLI
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/3264
-#EXTINF:-1,TR: DOST
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/3266
-#EXTINF:-1,TR: AKIT TV HD
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/3267
-#EXTINF:-1,TR: AKILLI TV
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/3261
-#EXTINF:-1,TR: MAVIKARADENIZ
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/3201
-#EXTINF:-1,TR: EGETURK
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/3202
-#EXTINF:-1,TR: BENGUTURK SD
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/218
-#EXTINF:-1,TR: BEIN SPORTS HABER HD
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/41
-#EXTINF:-1,TR: Bein Life On match UHD
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/9355
-#EXTINF:-1,TR: BEIN SPORT 1 4K
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/12324
-#EXTINF:-1,TR: BEIN SPORTS 1 HD
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/42
-#EXTINF:-1,TR: BEIN SPORTS 1
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/44
-#EXTINF:-1,TR: BEIN SPORTS 2 HD
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/45
-#EXTINF:-1,TR: BEIN SPORTS 2
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/46
-#EXTINF:-1,TR: BEIN SPORTS 3 HD
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/47
-#EXTINF:-1,TR: BEIN SPORTS 3
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/48
-#EXTINF:-1,TR: BEIN SPORTS 4 HD
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/49
-#EXTINF:-1,TR: BEIN SPORTS MAX 1
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/50
-#EXTINF:-1,TR: BEIN SPORTS MAX 2
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/51
-#EXTINF:-1,TR: TIVIBU SPOR
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/52
-#EXTINF:-1,TR: TIVIBUSPOR1 HD
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/3221
-#EXTINF:-1,TR: TIVIBUSPOR2 HD
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/3222
-#EXTINF:-1,TR: TIVIBUSPOR3 HD
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/3223
-#EXTINF:-1,TR: TIVIBUSPOR4 HD
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/3224
-#EXTINF:-1,TR: SMART SPORT 1 HD
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/53
-#EXTINF:-1,TR: Smart Spor 2
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/9353
-#EXTINF:-1,TR: S SPORT HD
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/54
-#EXTINF:-1,TR: S SPORT 2
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/5365
-#EXTINF:-1,TR: TRT SPOR 4K
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/36
-#EXTINF:-1,TR: TRT SPOR2 HD
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/3282
-#EXTINF:-1,TR: A SPOR HD
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/38
-#EXTINF:-1,TR: FB TV
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/3283
-#EXTINF:-1,TR: GSTV HD
-http://iptv.tusiptveu.com:8085/orhan170918/0PnwUGDP05/3818
+#EXTM3U
+#EXTINF:0,[TR&] MOVIE SMART TURK HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/159.ts
+#EXTINF:0,[TR&] MOVIE SMART PREMIUM HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/160.ts
+#EXTINF:0,[TR&] MOVIE SMART PREMIUM 2 HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/161.ts
+#EXTINF:0,[TR&] MOVIE SMART GOLD HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/163.ts
+#EXTINF:0,[TR&] MOVIE SMART FEST HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/164.ts
+#EXTINF:0,[TR&] MOVIE SMART FAMILY HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/165.ts
+#EXTINF:0,[TR&] MOVIE SMART CLASSIC HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/166.ts
+#EXTINF:0,[TR&] MOVIE SMART ACTION HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/162.ts
+#EXTINF:0,[TR&] BeinMOVIES Yesilcam
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/118.ts
+#EXTINF:0,[TR&] beIN SERIES VICE HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/158.ts
+#EXTINF:0,[TR&] beIN SERIES SCI-FI HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/157.ts
+#EXTINF:0,[TR&] beIN SERIES DRAMA HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/156.ts
+#EXTINF:0,[TR&] beIN SERIES COMEDY HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/155.ts
+#EXTINF:0,[TR&] beIN MOVIES TURK HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/148.ts
+#EXTINF:0,[TR&] beIN MOVIES STARS HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/153.ts
+#EXTINF:0,[TR&] beIN MOVIES PREMIERE HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/149.ts
+#EXTINF:0,[TR&] beIN MOVIES PREMIERE 2 HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/150.ts
+#EXTINF:0,[TR&] beIN MOVIES FAMILY HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/154.ts
+#EXTINF:0,[TR&] beIN MOVIES ACTION HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/151.ts
+#EXTINF:0,[TR&] beIN MOVIES ACTION 2 HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/152.ts
+#EXTINF:0,[TR] Filmbox PREMIERE
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2791.ts
+#EXTINF:0,[TR&] FiLMBOXHD YESILCAM
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/117.ts
+#EXTINF:0,[TR&] FiLMBOXHD YERLi
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/116.ts
+#EXTINF:0,[TR&] FiLMBOXHD SCI-FI
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/126.ts
+#EXTINF:0,[TR&] FiLMBOXHD KORKU
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/124.ts
+#EXTINF:0,[TR&] FiLMBOXHD KEMAL SUNAL TV
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/119.ts
+#EXTINF:0,FILMBOX ZEKI & METIN TV http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2796.ts
+#EXTINF:0,FILMBOX TARIK AKAN TV http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2797.ts
+#EXTINF:0,FILMBOX SENER SEN TV http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2795.ts
+#EXTINF:0,FILMBOX KADIR INANIR TV http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2798.ts
+#EXTINF:0,FILMBOX ILYAS SALMAN TV http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2799.ts
+#EXTINF:0,FILMBOX CUNEYT ARKIN TV http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2800.ts
+#EXTINF:0,[TR&] FiLMBOXHD FANTASTiK
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/123.ts
+#EXTINF:0,[TR&] FiLMBOXHD DRAM
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/125.ts
+#EXTINF:0,[TR&] FiLMBOXHD AKSiYON
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/122.ts
+#EXTINF:0,[TR&] FiLMBOXHD AiLE
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/121.ts
+#EXTINF:0,[TR&] FILMBOX SINEVIZYON INFO
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/127.ts
+#EXTINF:0,[TR&] FILMBOX SINEVIZYON 1
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/128.ts
+#EXTINF:0,[TR&] FILMBOX SINEVIZYON 2
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/129.ts
+#EXTINF:0,[TR&] FILMBOX SINEVIZYON 3
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/130.ts
+#EXTINF:0,[TR&] FILMBOX SINEVIZYON 4
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/131.ts
+#EXTINF:0,[TR&] FILMBOX SINEVIZYON 5
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/132.ts
+#EXTINF:0,[TR&] FILMBOX SINEVIZYON 6
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/133.ts
+#EXTINF:0,[TR&] FILMBOX SINEVIZYON 7
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/134.ts
+#EXTINF:0,[TR&] FILMBOX SINEVIZYON 8
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/135.ts
+#EXTINF:0,[TR&] FILMBOX SINEVIZYON 9
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/136.ts
+#EXTINF:0,[TR&]  FILMBOX SINEVIZYON 10
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/137.ts
+#EXTINF:0,[TR&] FILMBOX SINEVIZYON 11
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/138.ts
+#EXTINF:0,[TR&] FILMBOX SINEVIZYON 12
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/139.ts
+#EXTINF:0,[TR&] FILMBOX SINEVIZYON 13
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/140.ts
+#EXTINF:0,[TR&] FILMBOX SINEVIZYON 14
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/141.ts
+#EXTINF:0,[TR&] FILMBOX SINEVIZYON 15
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/142.ts
+#EXTINF:0,[TR&] FILMBOX SINEVIZYON 16
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/143.ts
+#EXTINF:0,[TR&] FILMBOX SINEVIZYON 17
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/144.ts
+#EXTINF:0,[TR&] FILMBOX SINEVIZYON 18
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/145.ts
+#EXTINF:0,[TR&] FILMBOX SINEVIZYON 19
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/146.ts
+#EXTINF:0,[TR&] FILMBOX SINEVIZYON 20
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/147.ts
+#EXTINF:0,[TR&] SMART COCUK HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/169.ts
+#EXTINF:0,[TR&] SiNEMA TV YERLi HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/170.ts
+#EXTINF:0,[TR&] SiNEMA TV KOMEDi HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/174.ts
+#EXTINF:0,[TR&] SiNEMA TV HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/171.ts
+#EXTINF:0,[TR&] SiNEMA TV AKSiYON HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/172.ts
+#EXTINF:0,[TR&] SiNEMA TV AiLE HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/173.ts
+#EXTINF:0,[TR&] DIZI SMART PREMIUM HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/167.ts
+#EXTINF:0,[TR&] DiZi SMART MAX HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/168.ts
+#EXTINF:0,[TR] Bein Series Vice
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2404.ts
+#EXTINF:0,[TR] BeinMOVIES Premiere
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2402.ts
+#EXTINF:0,[TR] BeinMOVIES Premiere 3
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2401.ts
+#EXTINF:0,[TR] BeinMOVIES Action 2
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2403.ts
+#EXTINF:0,[TR] bein MOVIES Animation
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2405.ts
+#EXTINF:0,[TR] BeinMOVIES Yesilcam
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2400.ts
+#EXTINF:0,[TR] Box Office DUAL
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2399.ts
+#EXTINF:0,[TR] Box Office 2 DUAL
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2398.ts
+#EXTINF:0,[TR] Box Office 3 DUAL
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2397.ts
+#EXTINF:0,[TR] Moviesmart Türk
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2394.ts
+#EXTINF:0,[TR] Moviesmart Action
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2396.ts
+#EXTINF:0,[TR] SINEMA TV2
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2385.ts
+#EXTINF:0,[TR] Sinema TV Komedi
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2386.ts
+#EXTINF:0,[TR] Sinema TV Aksiyon
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2387.ts
+#EXTINF:0,[TR] Sinema Aksiyon 2
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2391.ts
+#EXTINF:0,[TR] Sinema TV Aile
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2388.ts
+#EXTINF:0,[TR] Sinema TV 1002
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2389.ts
+#EXTINF:0,[TR] Sinema TV
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2390.ts
+#EXTINF:0,[TR] SINEMA 1001
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2392.ts
+#EXTINF:0,[TR] Tivibu Türk
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2384.ts
+#EXTINF:0,[TR] Vizioon Premiere
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2379.ts
+#EXTINF:0,[TR] Vizioon Premiere 2
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2378.ts
+#EXTINF:0,[TR] Vizioon Festival DUAL TR DE ENG FR
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2380.ts
+#EXTINF:0,[TR] Vizion Animasyon
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2381.ts
+#EXTINF:0,[TR] Vizion Aile
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2382.ts
+#EXTINF:0,[TR] Vip Cinema
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2383.ts
+#EXTINF:0,[TR] Box Office HD DUAL
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2424.ts
+#EXTINF:0,[TR] BoxOFFICE 2 HD DUAL
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2425.ts
+#EXTINF:0,[TR] BoxOFFICE 3 HD DUAL
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2426.ts
+#EXTINF:0,[TR] Vip NETFLIX  DUAL TR DE ENG FR
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2419.ts
+#EXTINF:0,[TR] Sinema Yerli
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2422.ts
+#EXTINF:0,[TR] Sinema Yerli 2
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2421.ts
+#EXTINF:0,[TR] Saban TV
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2393.ts
+#EXTINF:0,[TR] Sener Sen
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2423.ts
+#EXTINF:0,[TR] Yesilcam Classic HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2420.ts
+#EXTINF:0,[TR] Türk Sinema  Classic
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2395.ts
+#EXTINF:0,[TR] Musicbox
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2416.ts
+#EXTINF:0,[TR] ATV HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2.ts
+#EXTINF:0,[TR] ATV AVRUPA
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/3.ts
+#EXTINF:0,[TR] STAR TV HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/4.ts
+#EXTINF:0,[TR] SHOW HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/6.ts
+#EXTINF:0,[TR] SHOW TÜRK
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/7.ts
+#EXTINF:0,[TR] KANAL D HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/8.ts
+#EXTINF:0,[TR] FOX HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/11.ts
+#EXTINF:0,[TR] TRT1 HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/12.ts
+#EXTINF:0,[TR] TV 8 HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/10.ts
+#EXTINF:0,[TR] TV8.5 HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/17.ts
+#EXTINF:0,[TR] BEYAZ TV HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/14.ts
+#EXTINF:0,[TR] KANAL 7 HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/13.ts
+#EXTINF:0,[TR] TRT 2 HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/22.ts
+#EXTINF:0,[TR] A2
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/16.ts
+#EXTINF:0,[TR] SHOW MAX
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/21.ts
+#EXTINF:0,[TR] Teve 2 HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/15.ts
+#EXTINF:0,[TR] 360 HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/35.ts
+#EXTINF:0,[TR] TLC HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/18.ts
+#EXTINF:0,[TR] TV100 HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/52.ts
+#EXTINF:0,[TR] A HABER HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/27.ts
+#EXTINF:0,[TR] TRT HABER HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/25.ts
+#EXTINF:0,[TR] TGRT HABER
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/36.ts
+#EXTINF:0,[TR] TGRT
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/19.ts
+#EXTINF:0,[TR] CNN TÜRK HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/30.ts
+#EXTINF:0,[TR] NTV HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/31.ts
+#EXTINF:0,[TR] HABER TÜRK HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/28.ts
+#EXTINF:0,[TR] TELE 1
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/44.ts
+#EXTINF:0,Skylive Belcika
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2103.ts
+#EXTINF:0,[TR] BLOOMBERG HT HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/34.ts
+#EXTINF:0,[TR] BENGÜTÜRK
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/23.ts
+#EXTINF:0,[TR] ÜLKE TV HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/24.ts
+#EXTINF:0,[TR] 24 HABER HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/32.ts
+#EXTINF:0,[TR] AKiT TV HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/46.ts
+#EXTINF:0,[TR] Haber GLOBAL
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/29.ts
+#EXTINF:0,[TR] HALK TV
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/33.ts
+#EXTINF:0,[TR] ULUSAL KANAL
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/26.ts
+#EXTINF:0,[TR] TVNET
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/49.ts
+#EXTINF:0,[TR] TRT MÜZhttp://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/53.ts
+#EXTINF:0,[TR] POWER TV HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/55.ts
+#EXTINF:0,[TR] POWER TÜRK HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/54.ts
+#EXTINF:0,[TR] NUMBER ONE TURK
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/58.ts
+#EXTINF:0,[TR] NUMBER ONE HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/57.ts
+#EXTINF:0,[TR] DREAM TÜRK
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/56.ts
+#EXTINF:0,[TR] UCANKUS TV
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/47.ts
+#EXTINF:0,Vision TV  Turkiye Panorama
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/1569.ts
+#EXTINF:0,Vision FM ARABESK
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2587.ts
+#EXTINF:0,Vision FM POP&SLOW
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2590.ts
+#EXTINF:0,Vision FM POP&SLOW 2
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2591.ts
+#EXTINF:0,Ferdi Tayfur TV
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2612.ts
+#EXTINF:0,ORhan Gencebay TV
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2610.ts
+#EXTINF:0,Ibrahim TATLISES TV
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2611.ts
+#EXTINF:0,[TR] TV 4 HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/48.ts
+#EXTINF:0,[TR] TV 5
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/40.ts
+#EXTINF:0,[TR] Arti TV
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/43.ts
+#EXTINF:0,[TR] KANAL 42
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/39.ts
+#EXTINF:0,[TR] BRT 1 HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/41.ts
+#EXTINF:0,[TR] BRT 2
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/42.ts
+#EXTINF:0,[TR] KRT TV HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/38.ts
+#EXTINF:0,[TR] TV KAYSERhttp://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/37.ts
+#EXTINF:0,[TR] TV EM
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/51.ts
+#EXTINF:0,### http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/115.ts
+#EXTINF:0,[TR] DMAX HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/99.ts
+#EXTINF:0,[TR] TRT BELGESEL HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/104.ts
+#EXTINF:0,[TR] TGRT BELGESEL
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/105.ts
+#EXTINF:0,[TR] NAThttp://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/112.ts
+#EXTINF:0,[TR] NAT GEO WILD HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/113.ts
+#EXTINF:0,[TR] LOVE NATURE
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/101.ts
+#EXTINF:0,[TR] DISCOVERY CHANNEL TR
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/110.ts
+#EXTINF:0,[TR] DiSCOVERY Science HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/100.ts
+#EXTINF:0,[TR] HISTORY HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/111.ts
+#EXTINF:0,[TR] BBC Earth HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/109.ts
+#EXTINF:0,[TR] ANIMAL PLANET HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/108.ts
+#EXTINF:0,[TR] ID X
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/106.ts
+#EXTINF:0,[TR] 24 KiTCHEN
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/103.ts
+#EXTINF:0,[TR] VIASAT HISTORY
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/102.ts
+#EXTINF:0,[TR] BeiN iZ HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/107.ts
+#EXTINF:0,[TR] beIN GURME
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/98.ts
+#EXTINF:0,[TR] Yaban TV
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2793.ts
+#EXTINF:0,[TR] FX HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2794.ts
+#EXTINF:0,[TR] AKILLI TV
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/114.ts
+#EXTINF:0,### http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/97.ts
+#EXTINF:0,[TR] CARTOON NETWORK
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/82.ts
+#EXTINF:0,[TR] TRT ÇOCUK HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/83.ts
+#EXTINF:0,[TR] Mhttp://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/84.ts
+#EXTINF:0,[TR] Mhttp://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/85.ts
+#EXTINF:0,[TR] Dhttp://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/86.ts
+#EXTINF:0,[TR] NiCKELODEON TR
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/87.ts
+#EXTINF:0,[TR] NICK jR.
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/88.ts
+#EXTINF:0,[TR] Da Vinci Kids
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2792.ts
+#EXTINF:0,[TR] Baby TV TR
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/89.ts
+#EXTINF:0,[TR] CBEEBIES
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/90.ts
+#EXTINF:0,[TR] DISNEY XD HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/92.ts
+#EXTINF:0,[TR] DISNEY JR
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/91.ts
+#EXTINF:0,[TR] BOOMERANG
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/93.ts
+#EXTINF:0,[TR] Kral SAKIR
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2583.ts
+#EXTINF:0,[TR] PIRIL
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2581.ts
+#EXTINF:0,[TR] Pijamaskeliler
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2580.ts
+#EXTINF:0,[TR] Limon ile Zeytin
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2582.ts
+#EXTINF:0,[TR] Istanbul Muhafizlari
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2584.ts
+#EXTINF:0,[TR] Elif ve Arkadaslari
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2585.ts
+#EXTINF:0,[TR] Booba
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2586.ts
+#EXTINF:0,Johnny TEST Cocuk
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2613.ts
+#EXTINF:0,Ay Ay Ayiciklar COCUK
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2614.ts
+#EXTINF:0,Masa & Koca AYI TV
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/1034.ts
+#EXTINF:0,Masa & Koca AYI TV 2
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2620.ts
+#EXTINF:0,Kucuk Kamyon LEO Cocuk
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2619.ts
+#EXTINF:0,Cry Bebies COCUK
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2642.ts
+#EXTINF:0,Sirinler TV
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/1037.ts
+#EXTINF:0,Caillou TV
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/1047.ts
+#EXTINF:0,Caillou TV 2
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/1048.ts
+#EXTINF:0,Sevimli Dostlar TV
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/1209.ts
+#EXTINF:0,[TR] PEPE TV
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2428.ts
+#EXTINF:0,PEPE TV 2
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2627.ts
+#EXTINF:0,[TR] NiloyaTV
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2377.ts
+#EXTINF:0,[TR] ZAROK TV
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/96.ts
+#EXTINF:0,### http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/207.ts
