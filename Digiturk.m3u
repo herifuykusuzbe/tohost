@@ -1,777 +1,291 @@
 #EXTM3U
-#EXTINF:-1,TR: TRT 1 FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/97584
-#EXTINF:-1,TR: TRT 1 HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46517
-#EXTINF:-1,TR: TRT 2 FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46520
-#EXTINF:-1,TR: ATV FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/97585
-#EXTINF:-1,TR: ATV HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46524
-#EXTINF:-1,TR: STAR TV FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/97588
-#EXTINF:-1,TR: STAR TV HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46525
-#EXTINF:-1,TR: SHOW TV FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/97586
-#EXTINF:-1,TR: SHOW TV HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46526
-#EXTINF:-1,TR: KANAL D FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/97587
-#EXTINF:-1,TR: KANAL D HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46527
-#EXTINF:-1,TR: FOX TV FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/97589
-#EXTINF:-1,TR: FOX TV HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46528
-#EXTINF:-1,TR: TV8 FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/97590
-#EXTINF:-1,TR: TV 8 HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46529
-#EXTINF:-1,TR: TV8.5 FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/97591
-#EXTINF:-1,TR: TV 8.5 HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46531
-#EXTINF:-1,TR: A2 FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/97595
-#EXTINF:-1,TR: A2 HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46532
-#EXTINF:-1,TR: BEYAZ TV FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/97592
-#EXTINF:-1,TR:  BEYAZ TV HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46533
-#EXTINF:-1,TR: KANAL 7 FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/97593
-#EXTINF:-1,TR: KANAL 7 HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46534
-#EXTINF:-1,TR: TEVE 2 FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/97594
-#EXTINF:-1,TR: TEVE 2 HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46535
-#EXTINF:-1,TR: ARTI TV FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/102759
-#EXTINF:-1,TR: SHOW MAX
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46536
-#EXTINF:-1,TR: ATV AVRUPA
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46537
-#EXTINF:-1,TR: SHOW TURK
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46539
-#EXTINF:-1,TR: KANAL 7 AVRUPA FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/106686
-#EXTINF:-1,TR: TV 8 INT
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46541
-#EXTINF:-1,TR: TV NET HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46542
-#EXTINF:-1,TR: AKILLI TV
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46544
-#EXTINF:-1,TR: TRT 4K 
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46518
-#EXTINF:-1,TR: TRT AVAZ HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/102758
-#EXTINF:-1,TR: TRT EBATV İLKOKUL
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46521
-#EXTINF:-1,TR: TRT EBATV ORTAOKUL
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46522
-#EXTINF:-1,TR: TRT EBATV LİSE
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46523
-#EXTINF:-1,TR: bEIN SPORTS HABER HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/104616
-#EXTINF:-1,TR: beIN SPORTS 1 Feed 4K 5Mbit
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/143135
-#EXTINF:-1,TR: BEIN SPORTS 1 Feed FHD 5Mbit
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/101354
-#EXTINF:-1,TR: BEIN SPORTS 2 Feed FHD 4Mbit
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/107240
-#EXTINF:-1,TR: bEIN SPORTS 1 FHD*
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/4285
-#EXTINF:-1,TR: beIN SPORTS 1 FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/132337
-#EXTINF:-1,TR: beIN SPORTS 1 HD*
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/130648
-#EXTINF:-1,TR: bEIN SPORTS 1 HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/4283
-#EXTINF:-1,TR: bEIN SPORTS 1 SD 
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/106688
-#EXTINF:-1,TR: bEIN SPORTS 2 FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/4288
-#EXTINF:-1,TR: bEIN SPORTS 2 HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/4292
-#EXTINF:-1,TR: bEIN SPORTS 2 SD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/143133
-#EXTINF:-1,TR: bEIN SPORTS 3 FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/4289
-#EXTINF:-1,TR: bEIN SPORTS 3 HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/4293
-#EXTINF:-1,TR: bEIN SPORTS 3 SD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/144009
-#EXTINF:-1,TR: bEIN SPORTS 4 FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/4290
-#EXTINF:-1,TR: bEIN SPORTS 4 HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/4294
-#EXTINF:-1,TR: bEIN SPORTS 4 SD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/144010
-#EXTINF:-1,TR: bEIN SPORTS MAX 1 Full HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/4298
-#EXTINF:-1,TR: bEIN SPORTS MAX 2 Full HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/4300
-#EXTINF:-1,TR: TiViBUSPOR 1 FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46813
-#EXTINF:-1,TR: TiViBUSPOR 2 FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46814
-#EXTINF:-1,TR: TiViBUSPOR 3 FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46815
-#EXTINF:-1,TR: TiViBUSPOR 4 FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/147414
-#EXTINF:-1,TR: S-SPORT 1+ FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46819
-#EXTINF:-1,TR: S-SPORT 1 HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46820
-#EXTINF:-1,TR: S-SPORT 2 FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46821
-#EXTINF:-1,TR: S-SPORT 2 HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/77912
-#EXTINF:-1,TR: SPORT SMART FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46823
-#EXTINF:-1,TR: SPORT SMART HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46824
-#EXTINF:-1,TR: SPORT SMART 2 FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/144293
-#EXTINF:-1,TR: TRT SPOR YILDIZ FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/145817
-#EXTINF:-1,TR: TRT SPOR YILDIZ HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/145818
-#EXTINF:-1,TR: TRT SPOR FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46832
-#EXTINF:-1,TR: TRT SPOR HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46833
-#EXTINF:-1,TR: TRT SPOR 2 HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46834
-#EXTINF:-1,TR: A SPOR FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46835
-#EXTINF:-1,TR: A SPOR HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46836
-#EXTINF:-1,TR: FIGHTBOX FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/111499
-#EXTINF:-1,TR: NBA TV FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46828
-#EXTINF:-1,TR: NBA TV HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46829
-#EXTINF:-1,TR: SPORTSTV HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46831
-#EXTINF:-1,TR: FB TV  HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46840
-#EXTINF:-1,TR: GS TV HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46841
-#EXTINF:-1,TR: TJK TV HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46842
-#EXTINF:-1,TR: Afyon Türk TV
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46664
-#EXTINF:-1,TR: Akit TV
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46680
-#EXTINF:-1,TR: Aksaray Kanal 68
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46644
-#EXTINF:-1,TR: ANADOLU DERNEK TV
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46632
-#EXTINF:-1,TR: ANTALYA Kanal V
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46646
-#EXTINF:-1,TR: AV TV
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46673
-#EXTINF:-1,TR: Can TV
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46684
-#EXTINF:-1,TR: CEM TV HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46633
-#EXTINF:-1,TR: Denizli DEHA TV
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46649
-#EXTINF:-1,TR: EGE Turk TV
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46668
-#EXTINF:-1,TR: Er TV
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46670
-#EXTINF:-1,TR: ESKİŞEHİR KANAL 26
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46653
-#EXTINF:-1,TR: FMTV
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46688
-#EXTINF:-1,TR: GAZIANTEP GRT TV
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46634
-#EXTINF:-1,TR: GAZIANTEP OLAY TV
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46635
-#EXTINF:-1,TR: HRT
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46637
-#EXTINF:-1,TR: Sivas Vizyon TV
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46669
-#EXTINF:-1,TR: Kahramanmaraş AKSU TV
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46679
-#EXTINF:-1,TR: KANAL ANTALYA
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46543
-#EXTINF:-1,TR: Karadeniz BRTV
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46655
-#EXTINF:-1,TR: Kayseri KAY TV
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46656
-#EXTINF:-1,TR: Kayseri Kent TV
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46659
-#EXTINF:-1,TR: Kayseri Life TV
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46657
-#EXTINF:-1,TR: Kayseri Olay Türk TV
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46658
-#EXTINF:-1,TR: KONYA KON TV
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46672
-#EXTINF:-1,TR: KUDUS TV
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46687
-#EXTINF:-1,TR: Malatya ERTV
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46642
-#EXTINF:-1,TR: Mavi Karadeniz
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46660
-#EXTINF:-1,TR: Meltem TV
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46686
-#EXTINF:-1,TR: Mersin İçel TV
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46674
-#EXTINF:-1,TR: SAT 7 TURK
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46690
-#EXTINF:-1,TR: Sivas
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46638
-#EXTINF:-1,TR: Sivas VIZYON 58 TV
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46639
-#EXTINF:-1,TR: TEK RUMELİ TV
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46682
-#EXTINF:-1,TR: Trabzon Haber 61 TV HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46662
-#EXTINF:-1,TR: TV 52
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46681
-#EXTINF:-1,TR: Tvo TV
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46654
-#EXTINF:-1,TR: VIZYON 58
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46666
-#EXTINF:-1,TR: Yildiz EN TV
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46631
-#EXTINF:-1,TR: Zonguldak Kanal Z
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46663
-#EXTINF:-1,TR: Çanakkale Boğaz TV
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46665
-#EXTINF:-1,TR: ÇANAKKALE TON TV
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46641
-#EXTINF:-1,TR: Şanlıurfa Kanal URFA
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46677
-#EXTINF:-1,TR: Ucankus
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/104529
-#EXTINF:-1,TR: EDESSA TV
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/106358
-#EXTINF:-1,TR: LINE TV
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/106359
-#EXTINF:-1,TR: Yol Tv
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/148428
-#EXTINF:-1,TR: TRT Belgesel HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46593
-#EXTINF:-1,TR: TLC TV FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46568
-#EXTINF:-1,TR: DMAX FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46578
-#EXTINF:-1,TR: DMAX HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46579
-#EXTINF:-1,TR: History FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46582
-#EXTINF:-1,TR: BBC Earth HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46571
-#EXTINF:-1,TR: DISCOVERY CHANNEL FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46574
-#EXTINF:-1,TR: DISCOVERY SCIENCE FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46575
-#EXTINF:-1,TR: National Geographic FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46585
-#EXTINF:-1,TR: National Geographic HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/111491
-#EXTINF:-1,TR: NAT GEO WILD FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46586
-#EXTINF:-1,TR: Nat Geo Wild HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46587
-#EXTINF:-1,TR: OUTDOOR HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46591
-#EXTINF:-1,TR: BEIN GURME HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46572
-#EXTINF:-1,TR: beIN IZ FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46573
-#EXTINF:-1,TR: Animaux
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46569
-#EXTINF:-1,TR: 24 KiTCHEN FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46570
-#EXTINF:-1,TR: DA VINCI LEARNING
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/111498
-#EXTINF:-1,TR: DISCOVERY IDX FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46576
-#EXTINF:-1,TR: DISCOVERY IDX HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46577
-#EXTINF:-1,TR: ViASAT HiSTORY FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46580
-#EXTINF:-1,TR: YABAN TV HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46581
-#EXTINF:-1,TR: TGRT BELGESEL
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46588
-#EXTINF:-1,TR: INSIGHT TV HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46589
-#EXTINF:-1,TR: LOVE NATURE HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46590
-#EXTINF:-1,TR: FAST & FUN FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46692
-#EXTINF:-1,TR: Viasat Explorer FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/98289
-#EXTINF:-1,TR: Automoto La Chaîne
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/98290
-#EXTINF:-1,TR: TRT HABER HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46548
-#EXTINF:-1,TR: HABER TURK FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46549
-#EXTINF:-1,TR: A HABER HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46550
-#EXTINF:-1,TR: A NEWS FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46551
-#EXTINF:-1,TR: A PARA FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46552
-#EXTINF:-1,TR: CNN TURK HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46553
-#EXTINF:-1,TR: GLOBAL HABER HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46554
-#EXTINF:-1,TR: NTV HABER HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46555
-#EXTINF:-1,TR: NTV HABER FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/112643
-#EXTINF:-1,TR: TELE 1
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46556
-#EXTINF:-1,TR: TV100 HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46557
-#EXTINF:-1,TR: TV100 Ekonomi
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/141506
-#EXTINF:-1,TR: HALK TV HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46558
-#EXTINF:-1,TR: ULUSAL KANAL
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46559
-#EXTINF:-1,TR: Bloomberg HT
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46560
-#EXTINF:-1,TR: KANAL 24 HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46561
-#EXTINF:-1,TR: KRT TV HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46562
-#EXTINF:-1,TR: 360 HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46563
-#EXTINF:-1,TR: TGRT HABER FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46564
-#EXTINF:-1,TR: ULKETV FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46565
-#EXTINF:-1,TR: UZAY HABER
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46566
-#EXTINF:-1,TR: EKONOMI GOLD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/143399
-#EXTINF:-1,TR: EKONOMI CRYPTO
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/143400
-#EXTINF:-1,TR: BlueTV Netflix 1 HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/145587
-#EXTINF:-1,TR: BlueTV Netflix 2 HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/145588
-#EXTINF:-1,TR: BlueTV Netflix 3 HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/145589
-#EXTINF:-1,TR: BlueTV Netflix 4 HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/145591
-#EXTINF:-1,TR: BlueTV Netflix 5 HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/145590
-#EXTINF:-1,TR: Cinemaximum Komedi HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46763
-#EXTINF:-1,TR: Cinemaximum Dram HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46768
-#EXTINF:-1,TR: Cinemaximum Korku HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46769
-#EXTINF:-1,TR: Cinemaximum Aksiyon HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46762
-#EXTINF:-1,TR: Cinemaximum Dövüş HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46767
-#EXTINF:-1,TR: Cinemaximum Bilim Kurgu HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46764
-#EXTINF:-1,TR: Cinemaximum Romantik HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46770
-#EXTINF:-1,TR: Cinemaximum Yerli 1 HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/147951
-#EXTINF:-1,TR: Cinemaximum Yerli 2 HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/147952
-#EXTINF:-1,TR: Cinemaximum Yerli 3 HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/147953
-#EXTINF:-1,TR: BEIN MOVIES ACTION FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46694
-#EXTINF:-1,TR: beIN MOVIES ACTION 2 FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46695
-#EXTINF:-1,TR: BEIN MOVIES FAMILY FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46696
-#EXTINF:-1,TR: BEIN MOVIES PREMIER FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46697
-#EXTINF:-1,TR: beIN MOVIES PREMIERE 2 FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46698
-#EXTINF:-1,TR: beIN MOVIES STARS FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46699
-#EXTINF:-1,TR: beIN MOVIES TURK FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46700
-#EXTINF:-1,TR: bEIN SERIES COMEDY FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46701
-#EXTINF:-1,TR: bEIN SERIES DRAMA FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46702
-#EXTINF:-1,TR: bEIN SERIES SCFI FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46703
-#EXTINF:-1,TR: BEIN SERIES VICE FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46705
-#EXTINF:-1,TR: MOVİESMART CLASSİC FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46707
-#EXTINF:-1,TR: MOVİESMART PREMİUM 2 FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46714
-#EXTINF:-1,TR: MOVİESMART PREMİUM FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46715
-#EXTINF:-1,TR: MOVİESMART TURK FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46716
-#EXTINF:-1,TR: YEŞİLÇAM INFO BILGILENDIRME
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/146014
-#EXTINF:-1,TR: YEŞİLÇAM SALON 1 HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/146015
-#EXTINF:-1,TR: YEŞİLÇAM SALON 2 HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/146016
-#EXTINF:-1,TR: YEŞİLÇAM SALON 3 HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/146017
-#EXTINF:-1,TR: YEŞİLÇAM SALON 4 HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/146018
-#EXTINF:-1,TR: YEŞİLÇAM SALON 5 HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/146019
-#EXTINF:-1,TR: YEŞİLÇAM SALON 6 HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/146020
-#EXTINF:-1,TR: YEŞİLÇAM SALON 7 HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/146021
-#EXTINF:-1,TR: YEŞİLÇAM SALON 8 HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/146022
-#EXTINF:-1,TR: YEŞİLÇAM SALON 9 HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/146023
-#EXTINF:-1,TR: YEŞİLÇAM SALON 10 HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/146024
-#EXTINF:-1,TR: Kemal Sunal TV 1
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46739
-#EXTINF:-1,TR:  Kemal Sunal TV 2
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/97312
-#EXTINF:-1,TR: Kemal Sunal TV 3 
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/97313
-#EXTINF:-1,TR: ENO Yesilcam 1
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46720
-#EXTINF:-1,TR: ENO Yesilcam 2
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46772
-#EXTINF:-1,TR: ENO Yesilcam 3
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/54064
-#EXTINF:-1,TR: BOSS Yesilcam
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/53911
-#EXTINF:-1,TR: SINEMA AKSIYON 2 HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46721
-#EXTINF:-1,TR: SINEMA TV 1001 FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46722
-#EXTINF:-1,TR: SINEMA TV 1002 FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/113915
-#EXTINF:-1,TR: SINEMA TV ACTION FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46726
-#EXTINF:-1,TR: SINEMA TV AILE FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46727
-#EXTINF:-1,TR: SİNEMA TV FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/142730
-#EXTINF:-1,TR: SINEMA TV 2 FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/142729
-#EXTINF:-1,TR: SINEMA TV KOMEDI FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46730
-#EXTINF:-1,TR: SINEMA TV YERLI  FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46732
-#EXTINF:-1,TR: DIZI SMART MAX FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46735
-#EXTINF:-1,TR: DIZI SMART PREMIUM HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46736
-#EXTINF:-1,TR: DIZI SMART MAX HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46737
-#EXTINF:-1,TR: FOX CRIME HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46740
-#EXTINF:-1,TR: REDBOX ACTIE 1 HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46773
-#EXTINF:-1,TR: REDBOX MIX 1 HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46775
-#EXTINF:-1,TR: REDBOX BILIMKURGU 1 HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46776
-#EXTINF:-1,TR: REDBOX SINEMA TURK 1 HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46779
-#EXTINF:-1,TR: FX FHD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46791
-#EXTINF:-1,TR: BOSS MOVIES 1 HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/53901
-#EXTINF:-1,TR: BOSS MOVIES 2 HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/53902
-#EXTINF:-1,TR: BOSS MOVIES 3 HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/53903
-#EXTINF:-1,TR: BOSS MOVIES 4 HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/53904
-#EXTINF:-1,TR: BOSS MOVIES 5 HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/53905
-#EXTINF:-1,TR: Cinemaximum INFO
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/132591
-#EXTINF:-1,TR: Cinemaximum HD 1
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/125329
-#EXTINF:-1,TR: Cinemaximum HD 2
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/125330
-#EXTINF:-1,TR: Cinemaximum HD 3
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/125331
-#EXTINF:-1,TR: Cinemaximum HD 4
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/125332
-#EXTINF:-1,TR: Cinemaximum HD 5
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/125333
-#EXTINF:-1,TR: Cinemaximum HD 6
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/125334
-#EXTINF:-1,TR: Cinemaximum HD 7
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/125335
-#EXTINF:-1,TR: Cinemaximum HD 8
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/125336
-#EXTINF:-1,TR: Cinemaximum HD 9
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/125337
-#EXTINF:-1,TR: Cinemaximum HD 10
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/125338
-#EXTINF:-1,TR: Cinemaximum HD 11
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/125339
-#EXTINF:-1,TR: Cinemaximum HD 12
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/125340
-#EXTINF:-1,TR: Cinemaximum HD 13
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/125341
-#EXTINF:-1,TR: Cinemaximum HD 14
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/125342
-#EXTINF:-1,TR: Cinemaximum HD 15
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/125343
-#EXTINF:-1,TR: Netflix Salon Bilgilendirme
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/125344
-#EXTINF:-1,TR: Netflix HD 1
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/125345
-#EXTINF:-1,TR: Netflix HD 2
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/125346
-#EXTINF:-1,TR: Netflix HD 3
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/125347
-#EXTINF:-1,TR: Netflix HD 4
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/125348
-#EXTINF:-1,TR: Netflix HD 5
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/125349
-#EXTINF:-1,TR: Netflix HD 6
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/125350
-#EXTINF:-1,TR: Netflix HD 7
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/125351
-#EXTINF:-1,TR: Netflix HD 8
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/125352
-#EXTINF:-1,TR: Netflix HD 9
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/125353
-#EXTINF:-1, TR: Netflix HD 10
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/125354
-#EXTINF:-1,TR: ENO VIZYON 1
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/143192
-#EXTINF:-1,TR: ENO VIZYON 2
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/143193
-#EXTINF:-1,TR: ENO VIZYON 3
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/143194
-#EXTINF:-1,TR: ENO VIZYON 4
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/143195
-#EXTINF:-1,TR: ENO VIZYON 5
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/143196
-#EXTINF:-1,TR: ENO TURK 1
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/143197
-#EXTINF:-1,TR: ENO TURK 2
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/143198
-#EXTINF:-1,TR: ENO TURK 3
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/143199
-#EXTINF:-1,TR: ENO TURK 4
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/143200
-#EXTINF:-1,TR: ENO TURK 5
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/143201
-#EXTINF:-1,TR: ENO AKSiYON 1
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/143202
-#EXTINF:-1,TR: ENO AKSiYON 2
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/143203
-#EXTINF:-1,TR: ENO AKSiYON 3
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/143204
-#EXTINF:-1,TR: ENO MACERA 1
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/143205
-#EXTINF:-1,TR: ENO MACERA 2
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/143206
-#EXTINF:-1,TR: ENO MACERA 3
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/143207
-#EXTINF:-1,TR: ENO AILE 1
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/143208
-#EXTINF:-1,TR: ENO AILE 2
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/143209
-#EXTINF:-1,TR: ENO WESTERN 1
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/143210
-#EXTINF:-1,TR: ENO BILIM KURGU 1
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/143211
-#EXTINF:-1,TR: ENO BILIM KURGU 2
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/143212
-#EXTINF:-1,TR: ENO HINT 1
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/143213
-#EXTINF:-1,TR: ENO HINT 2
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/143214
-#EXTINF:-1,TR: SINEVIZYON 1
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/143215
-#EXTINF:-1,TR: SINEVIZYON 2
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/143216
-#EXTINF:-1,TR: SINEVIZYON 3
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/143217
-#EXTINF:-1,TR: SINEVIZYON 4
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/143218
-#EXTINF:-1,TR: SINEVIZYON 5
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/143219
-#EXTINF:-1,TR: SINEVIZYON 6
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/143220
-#EXTINF:-1,TR: SINEVIZYON 7
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/143221
-#EXTINF:-1,TR: SINEVIZYON 8
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/143222
-#EXTINF:-1,TR: SINEVIZYON 9
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/143223
-#EXTINF:-1,TR: SINEVIZYON 10
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/143224
-#EXTINF:-1,TR: BlueTV Cukur HD ( Sezon 1 )
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/145582
-#EXTINF:-1,TR: BlueTV Cukur HD ( Sezon 2 )
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/145583
-#EXTINF:-1,TR: BlueTV Cukur HD ( Sezon 3 )
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/145584
-#EXTINF:-1,TR: BlueTV Cukur HD ( Sezon 4 )
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/145585
-#EXTINF:-1,TR: BlueTV Sıfır Bir HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/145586
-#EXTINF:-1,TR: BlueTV Güldür Güldür HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/145592
-#EXTINF:-1,TR: BlueTV Exxen Konusanlar HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/146230
-#EXTINF:-1,TR: BlueTV O Ses Türkiye Rap HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/146231
-#EXTINF:-1,TR: BlueTV Aşk-ı Memnu
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/147188
-#EXTINF:-1,TR: BlueTV Kuzey Güney HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/147950
-#EXTINF:-1,TR: BlueTV Oyun Havaları HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/148563
-#EXTINF:-1,TR: BlueTV Türkçe Pop HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/148564
-#EXTINF:-1,TR: BlueTV Türkçe Rap HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/148565
-#EXTINF:-1,TR: BlueTV Türkçe Slow HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/148566
-#EXTINF:-1,TR: BlueTV Yabancı Rap HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/148567
-#EXTINF:-1,TR: BlueTV Yabancı Pop HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/148568
-#EXTINF:-1,TR: Karadeniz Akustik
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46806
-#EXTINF:-1,TR: Neşet Ertaş Tv
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/136343
-#EXTINF:-1,TR: Ibrahim Tatlises Tv
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/140202
-#EXTINF:-1,TR: Orhan Gencebay Tv
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/136344
-#EXTINF:-1,TR: Meyhane Tv
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/136345
-#EXTINF:-1,TR: Ahmet Kaya Tv
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/139457
-#EXTINF:-1,TR: Müslüm Gürses Tv
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/136347
-#EXTINF:-1,TR: Ferdi Tayfur Tv
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/136348
-#EXTINF:-1,TR: 90´lar Tv
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/136346
-#EXTINF:-1,TR: TRT Müzik HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46793
-#EXTINF:-1,TR: KRAL POP HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46803
-#EXTINF:-1,TR: KRAL TV  HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46804
-#EXTINF:-1,TR: DREAM TV HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46794
-#EXTINF:-1,TR: DREAM TURK HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46795
-#EXTINF:-1,TR: POWER TURK HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46796
-#EXTINF:-1,TR: POWER HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46797
-#EXTINF:-1,TR: NR1 TURK HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46798
-#EXTINF:-1,TR: NR 1 HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46799
-#EXTINF:-1,TR: DIYANET TV
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/4533
-#EXTINF:-1,TR: KABE TV CANLI
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/4534
-#EXTINF:-1,TR: LALEGUL TV
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/4537
-#EXTINF:-1,TR: REHBER TV
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/4538
-#EXTINF:-1,TR: SEMERKAND TV HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/4539
-#EXTINF:-1,TR: TV5
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/4540
-#EXTINF:-1,TR: DOST TV
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/14432
-#EXTINF:-1,TR: BlueTV Animasyon 1 HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46598
-#EXTINF:-1,TR: BlueTV Animasyon 2 HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46599
-#EXTINF:-1,TR: BlueTV Niloya HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46625
-#EXTINF:-1,TR: BlueTV RedKit HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/146393
-#EXTINF:-1,TR: BlueTV He-Man HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/146425
-#EXTINF:-1,TR: BlueTV Ninja Kaplumbağalar HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/146395
-#EXTINF:-1,TR: BlueTV Maşa ile Koca Ayı HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46596
-#EXTINF:-1,TR: BlueTV Tom & Jerry HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46603
-#EXTINF:-1,TR: BlueTV Şirinler HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46620
-#EXTINF:-1,TR: BOOMERANG HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46604
-#EXTINF:-1,TR: BABY TV HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46605
-#EXTINF:-1,TR: CARTOON NETWORK HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46607
-#EXTINF:-1,TR: DISNEY CHANNEL HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46611
-#EXTINF:-1,TR: DISNEY JR HD+
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46612
-#EXTINF:-1,TR: DISNEY JR HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46613
-#EXTINF:-1,TR: DiSNEY XD HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46616
-#EXTINF:-1,TR: MINICA GO
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46617
-#EXTINF:-1,TR: MINIKA COCUK
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46618
-#EXTINF:-1,TR: NICK JR HD HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46619
-#EXTINF:-1,TR: NICKELODEON HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46621
-#EXTINF:-1,TR: KUKULI TV
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46622
-#EXTINF:-1,TR: PIJAMA MASKELILER TV
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46624
-#EXTINF:-1,TR: PEPEE TV
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46626
-#EXTINF:-1,TR: TRT ÇOCUK HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/46627
-#EXTINF:-1,TR: ÇOCUK BILGILENDIRME
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/146414
-#EXTINF:-1,TR: ÇOCUK SALON 1 HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/146415
-#EXTINF:-1,TR: ÇOCUK SALON 2 HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/146416
-#EXTINF:-1,TR: ÇOCUK SALON 3 HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/146417
-#EXTINF:-1,TR: ÇOCUK SALON 4 HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/146418
-#EXTINF:-1,TR: ÇOCUK SALON 5 HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/146419
-#EXTINF:-1,TR: ÇOCUK SALON 6 HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/146420
-#EXTINF:-1,TR: ÇOCUK SALON 7 HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/146421
-#EXTINF:-1,TR: ÇOCUK SALON 8 HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/146422
-#EXTINF:-1,TR: ÇOCUK SALON 9 HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/146423
-#EXTINF:-1,TR: ÇOCUK SALON 10 HD
-http://oznvip.mnepro.com:8080/ishak08/ishak0808/146424
+#EXTINF:-1,|TR| TRT 1 HD
+http://ultimateiptv.me:8080/amira/amira123/10158
+#EXTINF:-1,|TR| TRT AVAZ
+http://ultimateiptv.me:8080/amira/amira123/10136
+#EXTINF:-1,|TR| TRT DIYANET
+http://ultimateiptv.me:8080/amira/amira123/10248
+#EXTINF:-1,|TR| TRT HABER HD
+http://ultimateiptv.me:8080/amira/amira123/10139
+#EXTINF:-1,|TR| TRT KURDI
+http://ultimateiptv.me:8080/amira/amira123/10254
+#EXTINF:-1,|TR| TRT TURK
+http://ultimateiptv.me:8080/amira/amira123/10249
+#EXTINF:-1,|TR| TRT WORLD
+http://ultimateiptv.me:8080/amira/amira123/10250
+#EXTINF:-1,|TR| TV 100 FHD
+http://ultimateiptv.me:8080/amira/amira123/10157
+#EXTINF:-1,|TR| TVNET
+http://ultimateiptv.me:8080/amira/amira123/10132
+#EXTINF:-1,|TR| TV8 FHD
+http://ultimateiptv.me:8080/amira/amira123/10145
+#EXTINF:-1,|TR| TV8 HD
+http://ultimateiptv.me:8080/amira/amira123/10146
+#EXTINF:-1,|TR| TV8.5 HD
+http://ultimateiptv.me:8080/amira/amira123/10144
+#EXTINF:-1,|TR| ULKE TV HD
+http://ultimateiptv.me:8080/amira/amira123/10122
+#EXTINF:-1,|TR| ULUSAL KANAL
+http://ultimateiptv.me:8080/amira/amira123/10133
+#EXTINF:-1,|TR| TELE 1
+http://ultimateiptv.me:8080/amira/amira123/10134
+#EXTINF:-1,|TR| TEVE 2 HD
+http://ultimateiptv.me:8080/amira/amira123/10143
+#EXTINF:-1,|TR| TGRT HABER
+http://ultimateiptv.me:8080/amira/amira123/10123
+#EXTINF:-1,|TR| SHOW HD
+http://ultimateiptv.me:8080/amira/amira123/10152
+#EXTINF:-1,|TR| SHOW MAX
+http://ultimateiptv.me:8080/amira/amira123/10247
+#EXTINF:-1,|TR| SHOW TV FHD
+http://ultimateiptv.me:8080/amira/amira123/10151
+#EXTINF:-1,|TR|  A HABER HD
+http://ultimateiptv.me:8080/amira/amira123/10140
+#EXTINF:-1,|TR| 360 TV
+http://ultimateiptv.me:8080/amira/amira123/10131
+#EXTINF:-1,|TR| A2 HD
+http://ultimateiptv.me:8080/amira/amira123/10124
+#EXTINF:-1,|TR| ATV FHD
+http://ultimateiptv.me:8080/amira/amira123/10153
+#EXTINF:-1,|TR| ATV HD
+http://ultimateiptv.me:8080/amira/amira123/10154
+#EXTINF:-1,|TR| HABER TURK HD
+http://ultimateiptv.me:8080/amira/amira123/10127
+#EXTINF:-1,|TR| HALK TV
+http://ultimateiptv.me:8080/amira/amira123/10137
+#EXTINF:-1,|TR| KANAL 24 HD
+http://ultimateiptv.me:8080/amira/amira123/10182
+#EXTINF:-1,|TR| KANAL 7 HD
+http://ultimateiptv.me:8080/amira/amira123/10141
+#EXTINF:-1,|TR| KANAL D FHD
+http://ultimateiptv.me:8080/amira/amira123/10147
+#EXTINF:-1,|TR| KANAL D HD
+http://ultimateiptv.me:8080/amira/amira123/10148
+#EXTINF:-1,|TR| KANAL D
+http://ultimateiptv.me:8080/amira/amira123/10129
+#EXTINF:-1,===TR CIZGI FILM===
+http://ultimateiptv.me:8080/amira/amira123/10256
+#EXTINF:-1,|TR| JUNIOR TURK
+http://ultimateiptv.me:8080/amira/amira123/10084
+#EXTINF:-1,|TR| BABY TV
+http://ultimateiptv.me:8080/amira/amira123/10007
+#EXTINF:-1,|TR| DiSNEY CHANNEL
+http://ultimateiptv.me:8080/amira/amira123/10005
+#EXTINF:-1,|TR| DISNEY JR
+http://ultimateiptv.me:8080/amira/amira123/10004
+#EXTINF:-1,|TR| DISNEY XD
+http://ultimateiptv.me:8080/amira/amira123/10252
+#EXTINF:-1,|TR| NICK JR
+http://ultimateiptv.me:8080/amira/amira123/10001
+#EXTINF:-1,|TR| NICKELODEON TURK
+http://ultimateiptv.me:8080/amira/amira123/10000
+#EXTINF:-1,|TR| MINIKA COCUK
+http://ultimateiptv.me:8080/amira/amira123/10003
+#EXTINF:-1,|TR| MINIKA GO TV
+http://ultimateiptv.me:8080/amira/amira123/10002
+#EXTINF:-1,|TR| TRT COCUK
+http://ultimateiptv.me:8080/amira/amira123/9997
+#EXTINF:-1,|TR| CARTOON NETWORK HD
+http://ultimateiptv.me:8080/amira/amira123/10179
+#EXTINF:-1,===TR BELGESEL===
+http://ultimateiptv.me:8080/amira/amira123/10257
+#EXTINF:-1,|TR| TRT BELGESEL HD
+http://ultimateiptv.me:8080/amira/amira123/10108
+#EXTINF:-1,|TR| DAVINCI LEARNING.
+http://ultimateiptv.me:8080/amira/amira123/9993
+#EXTINF:-1,|TR| DAVINCI LEARNING
+http://ultimateiptv.me:8080/amira/amira123/10112
+#EXTINF:-1,|TR| DISCOVERY CHANNEL HD
+http://ultimateiptv.me:8080/amira/amira123/9992
+#EXTINF:-1,|TR| DISCOVERY ID FHD
+http://ultimateiptv.me:8080/amira/amira123/9989
+#EXTINF:-1,|TR| DISCOVERY ID HD
+http://ultimateiptv.me:8080/amira/amira123/9990
+#EXTINF:-1,|TR| DISCOVERY SCIENCE
+http://ultimateiptv.me:8080/amira/amira123/9988
+#EXTINF:-1,|TR| DISCOVERY SHOWCASE HD
+http://ultimateiptv.me:8080/amira/amira123/10177
+#EXTINF:-1,|TR| DMAX HD
+http://ultimateiptv.me:8080/amira/amira123/10107
+#EXTINF:-1,|TR| DTX HD
+http://ultimateiptv.me:8080/amira/amira123/9987
+#EXTINF:-1,|TR| NAT GEO HD
+http://ultimateiptv.me:8080/amira/amira123/9986
+#EXTINF:-1,|TR| NAT GEO PEOPLE HD
+http://ultimateiptv.me:8080/amira/amira123/9985
+#EXTINF:-1,|TR| NAT GEO WILD HD
+http://ultimateiptv.me:8080/amira/amira123/9983
+#EXTINF:-1,|TR| NATGEO PEOPLE FHD
+http://ultimateiptv.me:8080/amira/amira123/9984
+#EXTINF:-1,|TR| YABAN TV HD
+http://ultimateiptv.me:8080/amira/amira123/10110
+#EXTINF:-1,|TR| HISTORY HD
+http://ultimateiptv.me:8080/amira/amira123/10111
+#EXTINF:-1,|TR| IDX DISCOVERY FHD
+http://ultimateiptv.me:8080/amira/amira123/9991
+#EXTINF:-1,|TR| ANIMAL PLANET HD
+http://ultimateiptv.me:8080/amira/amira123/9995
+#EXTINF:-1,|TR| BBC EARTH HD
+http://ultimateiptv.me:8080/amira/amira123/9994
+#EXTINF:-1,===TR MUZIK===
+#EXTINF:-1,|TR| KRAL TV
+http://ultimateiptv.me:8080/amira/amira123/10103
+#EXTINF:-1,|TR| KRAL POP TV
+http://ultimateiptv.me:8080/amira/amira123/10253
+#EXTINF:-1,|TR| POWER TURK HD
+http://ultimateiptv.me:8080/amira/amira123/10105
+#EXTINF:-1,|TR| DREAM TURK
+http://ultimateiptv.me:8080/amira/amira123/10104
+#EXTINF:-1,|TR| DREAM TV
+http://ultimateiptv.me:8080/amira/amira123/10183
+#EXTINF:-1,|TR| NUMBER1 TURK HD
+http://ultimateiptv.me:8080/amira/amira123/10102
+#EXTINF:-1,|TR| NUMBER1 TV HD
+http://ultimateiptv.me:8080/amira/amira123/10101
+#EXTINF:-1,|TR| TRT MUZIK
+http://ultimateiptv.me:8080/amira/amira123/10100
+#EXTINF:-1,===TR SINEMA===
+#EXTINF:-1,|TR| FOX FHD
+http://ultimateiptv.me:8080/amira/amira123/10155
+#EXTINF:-1,|TR| FOX LIFE HD
+http://ultimateiptv.me:8080/amira/amira123/10176
+#EXTINF:-1,|TR| SINEMA TV 2 HD
+http://ultimateiptv.me:8080/amira/amira123/10062
+#EXTINF:-1,|TR| SINEMA TV AKSIYON 1
+http://ultimateiptv.me:8080/amira/amira123/10117
+#EXTINF:-1,|TR| SINEMA TV HD
+http://ultimateiptv.me:8080/amira/amira123/10063
+#EXTINF:-1,|TR| SINEMATV 1001
+http://ultimateiptv.me:8080/amira/amira123/10120
+#EXTINF:-1,|TR| SINEMATV AILE
+http://ultimateiptv.me:8080/amira/amira123/10119
+#EXTINF:-1,|TR| SINEMATV AILE 2
+http://ultimateiptv.me:8080/amira/amira123/10118
+#EXTINF:-1,|TR| SINEMATV AKSIYON 2
+http://ultimateiptv.me:8080/amira/amira123/10116
+#EXTINF:-1,|TR| SINEMATV KOMEDI
+http://ultimateiptv.me:8080/amira/amira123/10115
+#EXTINF:-1,|TR| SINEMATV YERLI
+http://ultimateiptv.me:8080/amira/amira123/10114
+#EXTINF:-1,|TR| BEIN MOVIES ACTION 1
+http://ultimateiptv.me:8080/amira/amira123/10096
+#EXTINF:-1,|TR| BEIN MOVIE  PREMIERE
+http://ultimateiptv.me:8080/amira/amira123/10093
+#EXTINF:-1,|TR| BEIN MOVIE TURK
+http://ultimateiptv.me:8080/amira/amira123/10097
+#EXTINF:-1,|TR| BEIN MOVIES ACTION 2
+http://ultimateiptv.me:8080/amira/amira123/10095
+#EXTINF:-1,|TR| BEIN MOVIES COMEDY
+http://ultimateiptv.me:8080/amira/amira123/10094
+#EXTINF:-1,|TR| MOVIESMART FEST
+http://ultimateiptv.me:8080/amira/amira123/10055
+#EXTINF:-1,|TR| BEIN MOVIES GOLD  HD
+http://ultimateiptv.me:8080/amira/amira123/10054
+#EXTINF:-1,|TR| BEIN MOVIES STARS  HD
+http://ultimateiptv.me:8080/amira/amira123/10053
+#EXTINF:-1,|TR| BEIN MOVIES PREMIER 2
+http://ultimateiptv.me:8080/amira/amira123/10092
+#EXTINF:-1,|TR| MOVIE SMART COCUK FHD
+http://ultimateiptv.me:8080/amira/amira123/9998
+#EXTINF:-1,|TR| MOVIESMART ACTION FHD
+http://ultimateiptv.me:8080/amira/amira123/10066
+#EXTINF:-1,|TR| MOVIESMART CLASSIC HD
+http://ultimateiptv.me:8080/amira/amira123/10174
+#EXTINF:-1,|TR| MOVIESMART FAMILY HD
+http://ultimateiptv.me:8080/amira/amira123/10175
+#EXTINF:-1,|TR| MOVIESMART FEST
+http://ultimateiptv.me:8080/amira/amira123/10073
+#EXTINF:-1,|TR| MOVIESMART GOLD HD
+http://ultimateiptv.me:8080/amira/amira123/10072
+#EXTINF:-1,|TR| MOVIESMART PLATIN
+http://ultimateiptv.me:8080/amira/amira123/10071
+#EXTINF:-1,|TR| MOVIESMART PLATIN 2 HD
+http://ultimateiptv.me:8080/amira/amira123/10069
+#EXTINF:-1,|TR| MOVIESMART PLATIN HD
+http://ultimateiptv.me:8080/amira/amira123/10070
+#EXTINF:-1,|TR| MOVIESMART PREMIUM 2 HD
+http://ultimateiptv.me:8080/amira/amira123/10074
+#EXTINF:-1,|TR| MOVIESMART PREMIUM HD
+http://ultimateiptv.me:8080/amira/amira123/10076
+#EXTINF:-1,|TR| MOVIESMART TURK FHD
+http://ultimateiptv.me:8080/amira/amira123/10064
+#EXTINF:-1,|TR| BEIN MOVIES FAMILY HD
+http://ultimateiptv.me:8080/amira/amira123/10056
+#EXTINF:-1,|TR| LOCA 1 HD
+http://ultimateiptv.me:8080/amira/amira123/10083
+#EXTINF:-1,|TR| LOCA 2 HD
+http://ultimateiptv.me:8080/amira/amira123/10080
+#EXTINF:-1,|TR| LOCA 3 HD
+http://ultimateiptv.me:8080/amira/amira123/10079
+#EXTINF:-1,|TR| LOCA TURK
+http://ultimateiptv.me:8080/amira/amira123/10082
+#EXTINF:-1,|TR| BEIN SERIES DRAMA  HD
+http://ultimateiptv.me:8080/amira/amira123/10051
+#EXTINF:-1,|TR| BEIN SERIES SCI-FI HD
+http://ultimateiptv.me:8080/amira/amira123/10050
+#EXTINF:-1,|TR| CINESTAR VIZYON 1 HD
+http://ultimateiptv.me:8080/amira/amira123/10091
+#EXTINF:-1,|TR| CINESTAR VIZYON 2 HD
+http://ultimateiptv.me:8080/amira/amira123/10306
+#EXTINF:-1,|TR| CINESTAR VIZYON 3 HD
+http://ultimateiptv.me:8080/amira/amira123/10307
+#EXTINF:-1,|TR| VIZYON TV
+http://ultimateiptv.me:8080/amira/amira123/10060
+#EXTINF:-1,|TR| SALON 1
+http://ultimateiptv.me:8080/amira/amira123/10059
+#EXTINF:-1,|TR| SALON 2
+http://ultimateiptv.me:8080/amira/amira123/10263
+#EXTINF:-1,|TR| SALON 3
+http://ultimateiptv.me:8080/amira/amira123/10262
+#EXTINF:-1,|TR| BEIN BOX OFFICE 1 HD
+http://ultimateiptv.me:8080/amira/amira123/10048
+#EXTINF:-1,|TR| BEIN BOX OFFICE 2 HD
+http://ultimateiptv.me:8080/amira/amira123/10047
+#EXTINF:-1,|TR| BEIN BOX OFFICE 3 HD
+http://ultimateiptv.me:8080/amira/amira123/10046
+#EXTINF:-1,|TR| BEIN BOX OFFICE  4 HD
+http://ultimateiptv.me:8080/amira/amira123/10045
+#EXTINF:-1,|TR| BEIN SERIES COMEDY HD
+http://ultimateiptv.me:8080/amira/amira123/10052
+#EXTINF:-1,|TR| BEIN SERIES VICE HD
+http://ultimateiptv.me:8080/amira/amira123/10049
+#EXTINF:-1,|TR| PLANET COCUK
+http://ultimateiptv.me:8080/amira/amira123/9999
+#EXTINF:-1,|TR| LIG TV 4 HD
+http://ultimateiptv.me:8080/amira/amira123/10020
+#EXTINF:-1,|TR| LIG TV 3 HD
+http://ultimateiptv.me:8080/amira/amira123/10021
+#EXTINF:-1,|TR| LIG TV 2 HD
+http://ultimateiptv.me:8080/amira/amira123/10022
+#EXTINF:-1,|TR| LIG TV 1 HD
+http://ultimateiptv.me:8080/amira/amira123/10023
+#EXTINF:-1,|TR| GS TV
+http://ultimateiptv.me:8080/amira/amira123/10024
+#EXTINF:-1,|TR| FX HD
+http://ultimateiptv.me:8080/amira/amira123/10085
+#EXTINF:-1,|TR| FOX CRIME HD
+http://ultimateiptv.me:8080/amira/amira123/10086
+#EXTINF:-1,|TR| CNN TURK HD
+http://ultimateiptv.me:8080/amira/amira123/10126
+#EXTINF:-1,|TR| BLOOMBERG HT HD
+http://ultimateiptv.me:8080/amira/amira123/10128
+#EXTINF:-1,|TR| BEYAZ TV FHD
+http://ultimateiptv.me:8080/amira/amira123/10138
+#EXTINF:-1,|TR| NTV HD
+http://ultimateiptv.me:8080/amira/amira123/10142
+#EXTINF:-1,|TR| STAR TV FHD
+http://ultimateiptv.me:8080/amira/amira123/10149
+#EXTINF:-1,|TR| STAR TV HD
+http://ultimateiptv.me:8080/amira/amira123/10150
+#EXTINF:-1,|TR| FOX TV FHD
+http://ultimateiptv.me:8080/amira/amira123/10156
+#EXTINF:-1,|TR| BEIN IZ HD
+http://ultimateiptv.me:8080/amira/amira123/10251
+#EXTINF:-1,|TR| SMART SPORT  2 HD
+http://ultimateiptv.me:8080/amira/amira123/10258
+#EXTINF:-1,|TR| NTV SPOR HD
+http://ultimateiptv.me:8080/amira/amira123/10259
+#EXTINF:-1,|TR| PLANET TURK
+http://ultimateiptv.me:8080/amira/amira123/10260
+#EXTINF:-1,|TR| TRT OKUL
+http://ultimateiptv.me:8080/amira/amira123/10261
