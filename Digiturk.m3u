@@ -1,22 +1,25 @@
 #EXTM3U
-#EXTINF:0,STAR TV HD
-http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/4.ts
-#EXTINF:0,SHOW HD
-http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/6.ts
-#EXTINF:0,SHOW TÜRK
-http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/7.ts
-#EXTINF:0,KANAL D HD
-http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/8.ts
-#EXTINF:0,ATV HD
-http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2.ts
-#EXTINF:0,ATV AVRUPA
-http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/3.ts
-#EXTINF:0,FOX HD
-http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/11.ts
+#EXTINF:0,CNN TÜRK HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/30.ts
 #EXTINF:0,TRT1 HD
 http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/12.ts
+#EXTINF:0,KANAL D HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/8.ts
+#EXTINF:0,SHOW HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/6.ts
+#EXTINF:0,STAR TV HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/4.ts
+#EXTINF:0,ATV HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/2.ts
+#EXTINF:0,FOX HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/11.ts
+#EXTINF:0,NTV HD
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/31.ts
 #EXTINF:0,TV 8 HD
 http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/10.ts
+#EXTINF:0,SHOW TÜRK
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/7.ts
+
 #EXTINF:0,TV8.5 HD
 http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/17.ts
 #EXTINF:0,BEYAZ TV HD
@@ -29,6 +32,8 @@ http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/22.ts
 http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/16.ts
 #EXTINF:0,SHOW MAX
 http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/21.ts
+#EXTINF:0,ATV AVRUPA
+http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/3.ts
 #EXTINF:0,Teve 2 HD
 http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/15.ts
 #EXTINF:0,360 HD
@@ -45,10 +50,6 @@ http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/25.ts
 http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/36.ts
 #EXTINF:0,TGRT
 http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/19.ts
-#EXTINF:0,CNN TÜRK HD
-http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/30.ts
-#EXTINF:0,NTV HD
-http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/31.ts
 #EXTINF:0,HABER TÜRK HD
 http://visionmedaitv.nl:7444/live/TimesHift12Flussonic12/hPgOmwOORa321/28.ts
 #EXTINF:0,TELE 1
