@@ -1,15 +1,5 @@
 #EXTM3U
-#EXTINF:-1,₪₪₪₪₪ [ TURK ULUSAL ] ₪₪₪₪₪
-http://abmmedya.com:8080/erhansardogan/6580103092/38
-#EXTINF:-1,INFORMATION TV (CORONA-24/7)
-http://abmmedya.com:8080/erhansardogan/6580103092/9673
-#EXTINF:-1,TRT EBA ILKOKUL HD
-http://abmmedya.com:8080/erhansardogan/6580103092/9282
-#EXTINF:-1,TRT EBA ORTAOKUL HD
-http://abmmedya.com:8080/erhansardogan/6580103092/9283
-#EXTINF:-1,TRT EBA LISE HD
-http://abmmedya.com:8080/erhansardogan/6580103092/9284
-#EXTINF:-1,TR: TRT 4K ( 4K cihaz destekler )
+#EXTINF:-1,TR: TRT 4K
 http://abmmedya.com:8080/erhansardogan/6580103092/39
 #EXTINF:-1,TR: TRT 4K (1080)
 http://abmmedya.com:8080/erhansardogan/6580103092/9281
@@ -185,8 +175,6 @@ http://abmmedya.com:8080/erhansardogan/6580103092/19106
 http://abmmedya.com:8080/erhansardogan/6580103092/19107
 #EXTINF:-1,TR: YUNUS EMRE
 http://abmmedya.com:8080/erhansardogan/6580103092/25667
-#EXTINF:-1,₪₪₪₪₪ [ TR | BELGESEL ] ₪₪₪₪₪
-http://abmmedya.com:8080/erhansardogan/6580103092/139
 #EXTINF:-1,NATIONAL GEOGRAPHIC HD
 http://abmmedya.com:8080/erhansardogan/6580103092/130
 #EXTINF:-1,NAT GEO WILD HD
@@ -255,8 +243,6 @@ http://abmmedya.com:8080/erhansardogan/6580103092/121
 http://abmmedya.com:8080/erhansardogan/6580103092/123
 #EXTINF:-1,TRT BELGESEL HD
 http://abmmedya.com:8080/erhansardogan/6580103092/119
-#EXTINF:-1,₪₪₪₪₪ [ TR SINEMA ] ₪₪₪₪₪
-http://abmmedya.com:8080/erhansardogan/6580103092/285
 #EXTINF:-1,TR: beIN MOVIES TURK HD
 http://abmmedya.com:8080/erhansardogan/6580103092/170
 #EXTINF:-1,TR: beIN MOVIES PREMIERE HD
