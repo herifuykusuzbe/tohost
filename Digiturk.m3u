@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://195.154.221.171/epg/guideturkey.xml.gz"
+#EXTM3U
 #EXTINF:-1 tvg-id="A Haber TR" tvg-name="A Haber TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/qjzfKDN/ahaber.jpg" group-title="News",A Haber
 https://mn-nl.mncdn.com/blutv_ahaber/smil:ahaber_hd.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/ZNxrDJ5/image.png" group-title="",A Para
