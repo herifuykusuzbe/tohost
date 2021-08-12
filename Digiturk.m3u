@@ -1,860 +1,1045 @@
 #EXTM3U
-#EXTINF:-1,TR:TRT 1 HD
-http://3dipserver.com:80/necip123/12082021/40398
-#EXTINF:-1,TR:TRT 1 SD
-http://3dipserver.com:80/necip123/12082021/40399
-#EXTINF:-1,TR:TRT 1 UHD
-http://3dipserver.com:80/necip123/12082021/40400
-#EXTINF:-1,TR:TRT 2 HD
-http://3dipserver.com:80/necip123/12082021/47924
-#EXTINF:-1,TR:TRT 2 SD
-http://3dipserver.com:80/necip123/12082021/47923
-#EXTINF:-1,TR:ATV HD
-http://3dipserver.com:80/necip123/12082021/40401
-#EXTINF:-1,TR:ATV SD
-http://3dipserver.com:80/necip123/12082021/40402
-#EXTINF:-1,TR:ATV UHD
-http://3dipserver.com:80/necip123/12082021/40403
-#EXTINF:-1,TR:ATV AVRUPA HD
-http://3dipserver.com:80/necip123/12082021/66655
-#EXTINF:-1,TR:A2 TV HD
-http://3dipserver.com:80/necip123/12082021/2724
-#EXTINF:-1,TR:SHOW TV HD
-http://3dipserver.com:80/necip123/12082021/2736
-#EXTINF:-1,TR:SHOW TV SD
-http://3dipserver.com:80/necip123/12082021/2737
-#EXTINF:-1,TR:SHOW TV UHD
-http://3dipserver.com:80/necip123/12082021/9824
-#EXTINF:-1,TR:SHOW MAX HD
-http://3dipserver.com:80/necip123/12082021/67301
-#EXTINF:-1,TR:STAR TV HD
-http://3dipserver.com:80/necip123/12082021/40406
-#EXTINF:-1,TR:STAR TV SD
-http://3dipserver.com:80/necip123/12082021/40405
-#EXTINF:-1,TR:STAR TV UHD
-http://3dipserver.com:80/necip123/12082021/40404
-#EXTINF:-1,TR:EURO STAR
-http://3dipserver.com:80/necip123/12082021/2740
-#EXTINF:-1,TR:KANAL D HD
-http://3dipserver.com:80/necip123/12082021/40409
-#EXTINF:-1,TR:KANAL D SD
-http://3dipserver.com:80/necip123/12082021/40407
-#EXTINF:-1,TR:KANAL D UHD
-http://3dipserver.com:80/necip123/12082021/40408
-#EXTINF:-1,TR:EURO D
-http://3dipserver.com:80/necip123/12082021/2743
-#EXTINF:-1,TR:FOX TV HD
-http://3dipserver.com:80/necip123/12082021/40410
-#EXTINF:-1,TR:FOX TV SD
-http://3dipserver.com:80/necip123/12082021/40411
-#EXTINF:-1,TR:FOX TV UHD
-http://3dipserver.com:80/necip123/12082021/40412
-#EXTINF:-1,TR:TV 8 HD
-http://3dipserver.com:80/necip123/12082021/40413
-#EXTINF:-1,TR:TV 8 SD
-http://3dipserver.com:80/necip123/12082021/40414
-#EXTINF:-1,TR:TV 8 UHD
-http://3dipserver.com:80/necip123/12082021/40415
-#EXTINF:-1,TR:TV 8.5 HD
-http://3dipserver.com:80/necip123/12082021/44891
-#EXTINF:-1,TR:KANAL 7 HD
-http://3dipserver.com:80/necip123/12082021/40416
-#EXTINF:-1,TR:KANAL 7 SD
-http://3dipserver.com:80/necip123/12082021/40417
-#EXTINF:-1,TR:KANAL 7 AVRUPA HD
-http://3dipserver.com:80/necip123/12082021/40418
-#EXTINF:-1,TR:TEVE 2 HD
-http://3dipserver.com:80/necip123/12082021/40419
-#EXTINF:-1,TR:BEYAZ TV HD
-http://3dipserver.com:80/necip123/12082021/40420
-#EXTINF:-1,TR:BEYAZ TV SD
-http://3dipserver.com:80/necip123/12082021/40421
-#EXTINF:-1,TR:360 TV HD
-http://3dipserver.com:80/necip123/12082021/40397
-#EXTINF:-1,TR:360 TV SD
-http://3dipserver.com:80/necip123/12082021/68612
-#EXTINF:-1,TR:TRT 4K
-http://3dipserver.com:80/necip123/12082021/41054
-#EXTINF:-1,TR:TRT 1 4K
-http://3dipserver.com:80/necip123/12082021/41034
-#EXTINF:-1,TR:TRT 2 4K
-http://3dipserver.com:80/necip123/12082021/41055
-#EXTINF:-1,TR:KANAL D 4K
-http://3dipserver.com:80/necip123/12082021/41036
-#EXTINF:-1,TR:ATV 4K
-http://3dipserver.com:80/necip123/12082021/41037
-#EXTINF:-1,TR:SHOW TV 4K
-http://3dipserver.com:80/necip123/12082021/41038
-#EXTINF:-1,TR:STAR TV 4K
-http://3dipserver.com:80/necip123/12082021/41039
-#EXTINF:-1,TR:FOX 4K
-http://3dipserver.com:80/necip123/12082021/41040
-#EXTINF:-1,TR:TV8 4K
-http://3dipserver.com:80/necip123/12082021/41041
-#EXTINF:-1,TR:TV8.5 4K
-http://3dipserver.com:80/necip123/12082021/41042
-#EXTINF:-1,TR:BEYAZ TV 4K
-http://3dipserver.com:80/necip123/12082021/41043
-#EXTINF:-1,TR:KANAL 7 4K
-http://3dipserver.com:80/necip123/12082021/41044
-#EXTINF:-1,TR:ULKE TV 4K
-http://3dipserver.com:80/necip123/12082021/41045
-#EXTINF:-1,TR:NTV 4K
-http://3dipserver.com:80/necip123/12082021/41047
-#EXTINF:-1,TR:BLOOMBERGHT 4K
-http://3dipserver.com:80/necip123/12082021/41049
-#EXTINF:-1,TR:TRT SPOR 4K
-http://3dipserver.com:80/necip123/12082021/41051
-#EXTINF:-1,TR:CNN TURK 4K
-http://3dipserver.com:80/necip123/12082021/41053
-#EXTINF:-1,TR:CORONA
-http://3dipserver.com:80/necip123/12082021/57357
-#EXTINF:-1,TR:TRT HABER HD
-http://3dipserver.com:80/necip123/12082021/40422
-#EXTINF:-1,TR:TRT HABER UHD
-http://3dipserver.com:80/necip123/12082021/40423
-#EXTINF:-1,TR:A HABER HD
-http://3dipserver.com:80/necip123/12082021/40424
-#EXTINF:-1,TR:A HABER UHD
-http://3dipserver.com:80/necip123/12082021/40425
-#EXTINF:-1,TR:HALK TV SD
-http://3dipserver.com:80/necip123/12082021/40426
-#EXTINF:-1,TR:HALK TV HD
-http://3dipserver.com:80/necip123/12082021/40427
-#EXTINF:-1,TR:ULUSAL KANAL HD
-http://3dipserver.com:80/necip123/12082021/86201
-#EXTINF:-1,TR:TELE 1 TV SD
-http://3dipserver.com:80/necip123/12082021/40428
-#EXTINF:-1,TR:TELE 1 TV HD
-http://3dipserver.com:80/necip123/12082021/40429
-#EXTINF:-1,TR:CNN TURK HD
-http://3dipserver.com:80/necip123/12082021/40430
-#EXTINF:-1,TR:CNN TURK UHD
-http://3dipserver.com:80/necip123/12082021/40431
-#EXTINF:-1,TR:NTV HD
-http://3dipserver.com:80/necip123/12082021/40432
-#EXTINF:-1,TR:NTV UHD
-http://3dipserver.com:80/necip123/12082021/40433
-#EXTINF:-1,TR:HABERTURK HD
-http://3dipserver.com:80/necip123/12082021/40434
-#EXTINF:-1,TR:HABERTURK UHD
-http://3dipserver.com:80/necip123/12082021/40435
-#EXTINF:-1,TR:TGRT HABER HD
-http://3dipserver.com:80/necip123/12082021/40436
-#EXTINF:-1,TR:TGRT HABER UHD
-http://3dipserver.com:80/necip123/12082021/40437
-#EXTINF:-1,TR:BLOOMBERG TV HD
-http://3dipserver.com:80/necip123/12082021/40451
-#EXTINF:-1,TR:KANAL 24 HD
-http://3dipserver.com:80/necip123/12082021/40452
-#EXTINF:-1,TR:ULKE TV SD
-http://3dipserver.com:80/necip123/12082021/40453
-#EXTINF:-1,TR:ULKE TV HD
-http://3dipserver.com:80/necip123/12082021/40454
-#EXTINF:-1,TR:KRT TV HD
-http://3dipserver.com:80/necip123/12082021/40455
-#EXTINF:-1,TR:HABER GLOBAL HD
-http://3dipserver.com:80/necip123/12082021/40456
-#EXTINF:-1,TR:TV 100 HD
-http://3dipserver.com:80/necip123/12082021/47922
-#EXTINF:-1,TR:beIN MOVIES TURK HD
-http://3dipserver.com:80/necip123/12082021/50694
-#EXTINF:-1,TR:beIN MOVIES TURK HD (1080)
-http://3dipserver.com:80/necip123/12082021/50695
-#EXTINF:-1,TR:beIN MOVIES ACTION HD
-http://3dipserver.com:80/necip123/12082021/50690
-#EXTINF:-1,TR:beIN MOVIES ACTION HD (1080)
-http://3dipserver.com:80/necip123/12082021/50691
-#EXTINF:-1,TR:beIN MOVIES ACTION 2 HD
-http://3dipserver.com:80/necip123/12082021/50692
-#EXTINF:-1,TR:beIN MOVIES ACTION 2 HD (1080)
-http://3dipserver.com:80/necip123/12082021/50693
-#EXTINF:-1,TR:beIN MOVIES PREMIERE HD
-http://3dipserver.com:80/necip123/12082021/50682
-#EXTINF:-1,TR:beIN MOVIES PREMIERE HD (1080)
-http://3dipserver.com:80/necip123/12082021/50683
-#EXTINF:-1,TR:beIN MOVIES PREMIERE 2 HD
-http://3dipserver.com:80/necip123/12082021/50684
-#EXTINF:-1,TR:beIN MOVIES PREMIERE 2 HD (1080)
-http://3dipserver.com:80/necip123/12082021/50685
-#EXTINF:-1,TR:beIN MOVIES STARS HD
-http://3dipserver.com:80/necip123/12082021/50686
-#EXTINF:-1,TR:beIN MOVIES STARS HD (1080)
-http://3dipserver.com:80/necip123/12082021/50687
-#EXTINF:-1,TR:BeIN MOVIES YESILCAM HD
-http://3dipserver.com:80/necip123/12082021/67306
-#EXTINF:-1,TR:beIN SERIES SCI-FI HD
-http://3dipserver.com:80/necip123/12082021/50696
-#EXTINF:-1,TR:beIN SERIES SCI-FI HD (1080)
-http://3dipserver.com:80/necip123/12082021/50697
-#EXTINF:-1,TR:beIN SERIES VICE HD
-http://3dipserver.com:80/necip123/12082021/50698
-#EXTINF:-1,TR:beIN SERIES VICE HD (1080)
-http://3dipserver.com:80/necip123/12082021/50699
-#EXTINF:-1,TR:beIN SERIES COMEDY HD
-http://3dipserver.com:80/necip123/12082021/50700
-#EXTINF:-1,TR:beIN SERIES COMEDY HD (1080)
-http://3dipserver.com:80/necip123/12082021/50701
-#EXTINF:-1,TR:beIN SERIES DRAMA HD
-http://3dipserver.com:80/necip123/12082021/50702
-#EXTINF:-1,TR:beIN SERIES DRAMA HD (1080)
-http://3dipserver.com:80/necip123/12082021/50703
-#EXTINF:-1,TR:SINEMA TV HD
-http://3dipserver.com:80/necip123/12082021/40490
-#EXTINF:-1,TR:SINEMA TV YERLI HD
-http://3dipserver.com:80/necip123/12082021/40491
-#EXTINF:-1,TR:SINEMA TV AILE HD
-http://3dipserver.com:80/necip123/12082021/40492
-#EXTINF:-1,TR:SINEMA TV 1001 HD
-http://3dipserver.com:80/necip123/12082021/40493
-#EXTINF:-1,TR:SINEMA TV AKSIYON HD
-http://3dipserver.com:80/necip123/12082021/40494
-#EXTINF:-1,TR:SINEMA TV KOMEDI HD
-http://3dipserver.com:80/necip123/12082021/40495
-#EXTINF:-1,TR:BEIN BOX OFFICE 1 HD
-http://3dipserver.com:80/necip123/12082021/40507
-#EXTINF:-1,TR:BEIN BOX OFFICE 2 HD
-http://3dipserver.com:80/necip123/12082021/40508
-#EXTINF:-1,TR:BEIN BOX OFFICE 3 HD
-http://3dipserver.com:80/necip123/12082021/40509
-#EXTINF:-1,TR:DIZISMART PREMIUM  HD
-http://3dipserver.com:80/necip123/12082021/40496
-#EXTINF:-1,TR:DIZISMART MAX  HD
-http://3dipserver.com:80/necip123/12082021/56139
-#EXTINF:-1,TR:MOVIESMART TURK HD
-http://3dipserver.com:80/necip123/12082021/40497
-#EXTINF:-1,TR:MOVIESMART PREMIUM HD
-http://3dipserver.com:80/necip123/12082021/40498
-#EXTINF:-1,TR:MOVIESMART PREMIUM 2 HD
-http://3dipserver.com:80/necip123/12082021/40499
-#EXTINF:-1,TR:MOVIESMART FAMILY HD
-http://3dipserver.com:80/necip123/12082021/40504
-#EXTINF:-1,TR:MOVIESMART ACTION HD
-http://3dipserver.com:80/necip123/12082021/40506
-#EXTINF:-1,TR:MOVIESMART CLASSIC HD
-http://3dipserver.com:80/necip123/12082021/40505
-#EXTINF:-1,TR:REDBOX UHD
-http://3dipserver.com:80/necip123/12082021/84835
-#EXTINF:-1,TR:REDBOX AILE
-http://3dipserver.com:80/necip123/12082021/84836
-#EXTINF:-1,TR:REDBOX OSCAR
-http://3dipserver.com:80/necip123/12082021/84837
-#EXTINF:-1,TR:REDBOX AKSIYON
-http://3dipserver.com:80/necip123/12082021/84838
-#EXTINF:-1,TR:REDBOX ROMANTIK
-http://3dipserver.com:80/necip123/12082021/84839
-#EXTINF:-1,TR:REDBOX KORKU
-http://3dipserver.com:80/necip123/12082021/84840
-#EXTINF:-1,TR:REDBOX SAVAS
-http://3dipserver.com:80/necip123/12082021/84841
-#EXTINF:-1,TR:REDBOX KOMEDI
-http://3dipserver.com:80/necip123/12082021/84842
-#EXTINF:-1,TR:REDBOX FANTASTICK
-http://3dipserver.com:80/necip123/12082021/84843
-#EXTINF:-1,TR:REDBOX ANIMASYON
-http://3dipserver.com:80/necip123/12082021/84844
-#EXTINF:-1,TR:REDBOX WESTERN
-http://3dipserver.com:80/necip123/12082021/84845
-#EXTINF:-1,TR:REDBOX KOMEDI YERLI
-http://3dipserver.com:80/necip123/12082021/84846
-#EXTINF:-1,TR:REDBOX  YERLI DRAMA
-http://3dipserver.com:80/necip123/12082021/84847
-#EXTINF:-1,TR:REDBOX KEMAL SUNAL
-http://3dipserver.com:80/necip123/12082021/84851
-#EXTINF:-1,TR:REDBOX MARVEL\'S
-http://3dipserver.com:80/necip123/12082021/84852
-#EXTINF:-1,TR:BOSS MOVIES 1 HD
-http://3dipserver.com:80/necip123/12082021/85385
-#EXTINF:-1,TR:BOSS MOVIES 2 HD
-http://3dipserver.com:80/necip123/12082021/85386
-#EXTINF:-1,TR:BOSS MOVIES 3 HD
-http://3dipserver.com:80/necip123/12082021/85387
-#EXTINF:-1,TR:BOSS MOVIES 4 HD
-http://3dipserver.com:80/necip123/12082021/85388
-#EXTINF:-1,TR:BOSS MOVIES 5 HD
-http://3dipserver.com:80/necip123/12082021/85389
-#EXTINF:-1,TR:BOSS MOVIES 6 HD
-http://3dipserver.com:80/necip123/12082021/85390
-#EXTINF:-1,TR:BOSS MOVIES 7 HD
-http://3dipserver.com:80/necip123/12082021/85391
-#EXTINF:-1,TR:BOSS MOVIES 8 HD
-http://3dipserver.com:80/necip123/12082021/85392
-#EXTINF:-1,TR:BOSS MOVIES 9 HD
-http://3dipserver.com:80/necip123/12082021/85393
-#EXTINF:-1,TR:PROTURK YERLI
-http://3dipserver.com:80/necip123/12082021/84819
-#EXTINF:-1,TR:PROTURK KORKU
-http://3dipserver.com:80/necip123/12082021/84823
-#EXTINF:-1,TR:PROTURK GERILIM
-http://3dipserver.com:80/necip123/12082021/84824
-#EXTINF:-1,TR:PROTURK MACERA
-http://3dipserver.com:80/necip123/12082021/84825
-#EXTINF:-1,TR:PROTURK WESTERN
-http://3dipserver.com:80/necip123/12082021/84826
-#EXTINF:-1,TR:CINEFLIX ACTION HD
-http://3dipserver.com:80/necip123/12082021/84758
-#EXTINF:-1,TR:CINEFLIX DRAMA HD
-http://3dipserver.com:80/necip123/12082021/84759
-#EXTINF:-1,TR:CINEFLIX 007 HD
-http://3dipserver.com:80/necip123/12082021/84760
-#EXTINF:-1,TR:CINEFLIX CASUSLUK HD
-http://3dipserver.com:80/necip123/12082021/84761
-#EXTINF:-1,TR:CINEFLIX COMEDY HD
-http://3dipserver.com:80/necip123/12082021/84762
-#EXTINF:-1,TR:CINEFLIX FAMILY HD
-http://3dipserver.com:80/necip123/12082021/84763
-#EXTINF:-1,TR:CINEFLIX GOLD HD
-http://3dipserver.com:80/necip123/12082021/84764
-#EXTINF:-1,TR:CINEFLIX KEMAL SUNAL HD
-http://3dipserver.com:80/necip123/12082021/84765
-#EXTINF:-1,TR:CINEFLIX SCI-FI HD
-http://3dipserver.com:80/necip123/12082021/84766
-#EXTINF:-1,TR:CINEFLIX SENER SEN HD
-http://3dipserver.com:80/necip123/12082021/84767
-#EXTINF:-1,TR:CINEFLIX TURK HD
-http://3dipserver.com:80/necip123/12082021/84768
-#EXTINF:-1,TR:CINEFLIX WESTERN HD
-http://3dipserver.com:80/necip123/12082021/84769
-#EXTINF:-1,TR:CINEFLIX YESILCAM HD
-http://3dipserver.com:80/necip123/12082021/84770
-#EXTINF:-1,TR:LOCA YESILCAM HD
-http://3dipserver.com:80/necip123/12082021/40482
-#EXTINF:-1,TR:FX HD
-http://3dipserver.com:80/necip123/12082021/40483
-#EXTINF:-1,TR:FOX CRIME HD
-http://3dipserver.com:80/necip123/12082021/40484
-#EXTINF:-1,TR:4K GULDUR GULDUR SHOW HD
-http://3dipserver.com:80/necip123/12082021/71103
-#EXTINF:-1,TR:POPCORN GOLD HD
-http://3dipserver.com:80/necip123/12082021/47323
-#EXTINF:-1,TR:POPCORN BOLLYWOOD HD
-http://3dipserver.com:80/necip123/12082021/47327
-#EXTINF:-1,TR:POPCORN BIYOGRAFI HD
-http://3dipserver.com:80/necip123/12082021/47328
-#EXTINF:-1,TR:POPCORN CASUZLUK HD
-http://3dipserver.com:80/necip123/12082021/47326
-#EXTINF:-1,TR:POPCORN FANTASTIK HD
-http://3dipserver.com:80/necip123/12082021/47324
-#EXTINF:-1,TR:POPCORN MACERA HD
-http://3dipserver.com:80/necip123/12082021/47320
-#EXTINF:-1,TR:POPCORN WESTREN KOVBOY HD
-http://3dipserver.com:80/necip123/12082021/47318
-#EXTINF:-1,TR:POPCORN KEMAL SUNAL 1 HD
-http://3dipserver.com:80/necip123/12082021/47322
-#EXTINF:-1,TR:POPCORN SENER SEN HD
-http://3dipserver.com:80/necip123/12082021/47319
-#EXTINF:-1,TR:POPCORN DINI HD
-http://3dipserver.com:80/necip123/12082021/47325
-#EXTINF:-1,TR:SINEMA TURK 1
-http://3dipserver.com:80/necip123/12082021/42030
-#EXTINF:-1,TR:SINEMA TURK 2
-http://3dipserver.com:80/necip123/12082021/42029
-#EXTINF:-1,TR:SINEMA TURK 3
-http://3dipserver.com:80/necip123/12082021/42028
-#EXTINF:-1,TR:SINEMA AKSIYON 1 HD
-http://3dipserver.com:80/necip123/12082021/42058
-#EXTINF:-1,TR:SINEMA AKSIYON 2 HD
-http://3dipserver.com:80/necip123/12082021/42057
-#EXTINF:-1,TR:SINEMA KOMEDI 1 HD
-http://3dipserver.com:80/necip123/12082021/42064
-#EXTINF:-1,TR:SINEMA KOMEDI 2 HD
-http://3dipserver.com:80/necip123/12082021/42063
-#EXTINF:-1,TR:SINEMA KORKU 1 HD
-http://3dipserver.com:80/necip123/12082021/42066
-#EXTINF:-1,TR:SINEMA KORKU 2 HD
-http://3dipserver.com:80/necip123/12082021/42065
-#EXTINF:-1,TR:SINEMA DRAMA 1 HD
-http://3dipserver.com:80/necip123/12082021/42062
-#EXTINF:-1,TR:SINEMA DRAMA 2 HD
-http://3dipserver.com:80/necip123/12082021/42061
-#EXTINF:-1,TR:SINEMA BILIM KURGU 1 HD
-http://3dipserver.com:80/necip123/12082021/42060
-#EXTINF:-1,TR:SINEMA BILIM KURGU 2 HD
-http://3dipserver.com:80/necip123/12082021/42059
-#EXTINF:-1,TR:UNI BOX OFFICE 1 UHD
-http://3dipserver.com:80/necip123/12082021/86177
-#EXTINF:-1,TR:UNI BOX OFFICE 2 UHD
-http://3dipserver.com:80/necip123/12082021/86178
-#EXTINF:-1,TR:UNI BOX OFFICE 3 UHD
-http://3dipserver.com:80/necip123/12082021/86179
-#EXTINF:-1,TR:UNI BOX OFFICE 4 UHD
-http://3dipserver.com:80/necip123/12082021/86180
-#EXTINF:-1,TR:UNI BOX OFFICE 5 UHD
-http://3dipserver.com:80/necip123/12082021/86181
-#EXTINF:-1,TR:UNI BOX OFFICE 6 UHD
-http://3dipserver.com:80/necip123/12082021/86182
-#EXTINF:-1,TR:UNI BOX OFFICE 7 UHD
-http://3dipserver.com:80/necip123/12082021/86183
-#EXTINF:-1,TR:UNI BOX OFFICE 8 UHD
-http://3dipserver.com:80/necip123/12082021/86184
-#EXTINF:-1,TR:UNI BOX OFFICE 9 UHD
-http://3dipserver.com:80/necip123/12082021/86185
-#EXTINF:-1,TR:UNI BOX OFFICE 10 UHD
-http://3dipserver.com:80/necip123/12082021/86186
-#EXTINF:-1,TR:UNI BOX OFFICE 11 UHD
-http://3dipserver.com:80/necip123/12082021/86187
-#EXTINF:-1,TR:UNI BOX OFFICE 12 UHD
-http://3dipserver.com:80/necip123/12082021/86188
-#EXTINF:-1,TR:UNI BOX OFFICE 13 UHD
-http://3dipserver.com:80/necip123/12082021/86189
-#EXTINF:-1,TR:UNI BOX OFFICE 14 UHD
-http://3dipserver.com:80/necip123/12082021/86190
-#EXTINF:-1,TR:UNI BOX OFFICE 15 UHD
-http://3dipserver.com:80/necip123/12082021/86191
-#EXTINF:-1,TR:UNI BOX OFFICE 16 UHD
-http://3dipserver.com:80/necip123/12082021/86192
-#EXTINF:-1,TR:UNI BOX OFFICE 17 UHD
-http://3dipserver.com:80/necip123/12082021/86193
-#EXTINF:-1,TR:UNI BOX OFFICE 18 UHD
-http://3dipserver.com:80/necip123/12082021/86194
-#EXTINF:-1,TR:UNI BOX OFFICE 19 UHD
-http://3dipserver.com:80/necip123/12082021/86195
-#EXTINF:-1,TR:UNI BOX OFFICE 20 UHD
-http://3dipserver.com:80/necip123/12082021/86196
-#EXTINF:-1,TR:PRIMEBOX AKSIYON 1 FHD
-http://3dipserver.com:80/necip123/12082021/84570
-#EXTINF:-1,TR:PRIMEBOX AKSIYON 2 FHD
-http://3dipserver.com:80/necip123/12082021/84571
-#EXTINF:-1,TR:PRIMEBOX ANIMASYON 1 FHD
-http://3dipserver.com:80/necip123/12082021/84572
-#EXTINF:-1,TR:PRIMEBOX ANIMASYON 2 FHD
-http://3dipserver.com:80/necip123/12082021/84573
-#EXTINF:-1,TR:PRIMEBOX KOMEDI FHD
-http://3dipserver.com:80/necip123/12082021/84574
-#EXTINF:-1,TR:PRIMEBOX KORKU FHD
-http://3dipserver.com:80/necip123/12082021/84575
-#EXTINF:-1,TR:PRIMEBOX TURK 2 FHD
-http://3dipserver.com:80/necip123/12082021/84577
-#EXTINF:-1,TR:PRIMEBOX VIZYON FHD
-http://3dipserver.com:80/necip123/12082021/84578
-#EXTINF:-1,TR:PRIMEBOX YESILCAM FHD
-http://3dipserver.com:80/necip123/12082021/84579
-#EXTINF:-1,TR:VIZYON TV HD
-http://3dipserver.com:80/necip123/12082021/81948
-#EXTINF:-1,TR:TRT EBA TV ILKOKUL
-http://3dipserver.com:80/necip123/12082021/57358
-#EXTINF:-1,TR:TRT EBA TV ORTAOKUL
-http://3dipserver.com:80/necip123/12082021/57359
-#EXTINF:-1,TR:TRT EBA TV LISE
-http://3dipserver.com:80/necip123/12082021/57360
-#EXTINF:-1,TR:KRAL SAKIR 1 HD
-http://3dipserver.com:80/necip123/12082021/47330
-#EXTINF:-1,TR:KRAL SAKIR 2 HD
-http://3dipserver.com:80/necip123/12082021/47331
-#EXTINF:-1,TR:RAFADAN TAYFA HD
-http://3dipserver.com:80/necip123/12082021/52652
-#EXTINF:-1,TR:BOOMERANG TV HD
-http://3dipserver.com:80/necip123/12082021/52943
-#EXTINF:-1,TR: COCUK SMART HD
-http://3dipserver.com:80/necip123/12082021/40600
-#EXTINF:-1,TR:TRT COCUK HD
-http://3dipserver.com:80/necip123/12082021/40602
-#EXTINF:-1,TR:MINIKA COCUK HD
-http://3dipserver.com:80/necip123/12082021/40605
-#EXTINF:-1,TR:MINIKA GO HD
-http://3dipserver.com:80/necip123/12082021/40606
-#EXTINF:-1,TR:DISNEY JR HD
-http://3dipserver.com:80/necip123/12082021/40607
-#EXTINF:-1,TR:NICK JR HD
-http://3dipserver.com:80/necip123/12082021/40608
-#EXTINF:-1,TR:NICKELODEON HD
-http://3dipserver.com:80/necip123/12082021/40609
-#EXTINF:-1,TR:CARTOON NETWORK HD
-http://3dipserver.com:80/necip123/12082021/40610
-#EXTINF:-1,TR:DISNEY CHANNEL HD
-http://3dipserver.com:80/necip123/12082021/40611
-#EXTINF:-1,TR:NILOYA TV HD
-http://3dipserver.com:80/necip123/12082021/40613
-#EXTINF:-1,TR:BABY TV HD
-http://3dipserver.com:80/necip123/12082021/40614
-#EXTINF:-1,TR:SIRINLER TV HD
-http://3dipserver.com:80/necip123/12082021/69973
-#EXTINF:-1,TR:PEPE TV HD
-http://3dipserver.com:80/necip123/12082021/40615
-#EXTINF:-1,TR:MASAL TV
-http://3dipserver.com:80/necip123/12082021/72525
-#EXTINF:-1,TR:ELIFIN DUSLERI
-http://3dipserver.com:80/necip123/12082021/55382
-#EXTINF:-1,TR:MASA ILE KOCA AYI
-http://3dipserver.com:80/necip123/12082021/55383
-#EXTINF:-1,TR:PISI TV
-http://3dipserver.com:80/necip123/12082021/55384
-#EXTINF:-1,TR:LOVE NATURE HD
-http://3dipserver.com:80/necip123/12082021/84453
-#EXTINF:-1,TR:NATURE 1 HD
-http://3dipserver.com:80/necip123/12082021/84753
-#EXTINF:-1,TR:NATURE 2 HD
-http://3dipserver.com:80/necip123/12082021/84754
-#EXTINF:-1,TR:NATURE 3 HD
-http://3dipserver.com:80/necip123/12082021/84755
-#EXTINF:-1,TR:NATURE 4 HD
-http://3dipserver.com:80/necip123/12082021/84756
-#EXTINF:-1,TR:NATURE 5 HD
-http://3dipserver.com:80/necip123/12082021/84757
-#EXTINF:-1,TR:ANIMAUX HD
-http://3dipserver.com:80/necip123/12082021/85133
-#EXTINF:-1,TR:NATIONAL GEOGRAPHIC FHD
-http://3dipserver.com:80/necip123/12082021/70954
-#EXTINF:-1,TR:NATIONAL GEOGRAPHIC HD
-http://3dipserver.com:80/necip123/12082021/40473
-#EXTINF:-1,TR:NAT GEO WILD FHD
-http://3dipserver.com:80/necip123/12082021/70953
-#EXTINF:-1,TR:NAT GEO WILD HD
-http://3dipserver.com:80/necip123/12082021/40466
-#EXTINF:-1,TR:DISCOVERY CHANNEL HD
-http://3dipserver.com:80/necip123/12082021/40471
-#EXTINF:-1,TR:DISCOVERY SCIENCE HD
-http://3dipserver.com:80/necip123/12082021/40472
-#EXTINF:-1,TR:DISCOVERY IDX HD
-http://3dipserver.com:80/necip123/12082021/84409
-#EXTINF:-1,TR:SCIENCE&VICE TV
-http://3dipserver.com:80/necip123/12082021/84454
-#EXTINF:-1,TR:HISTORY CHANNEL HD
-http://3dipserver.com:80/necip123/12082021/40468
-#EXTINF:-1,TR:VIASAT HISTORY HD
-http://3dipserver.com:80/necip123/12082021/40469
-#EXTINF:-1,TR:ANIMAL PLANET HD
-http://3dipserver.com:80/necip123/12082021/40474
-#EXTINF:-1,TR:CHASSE ET PECHE HD
-http://3dipserver.com:80/necip123/12082021/85863
-#EXTINF:-1,TR:DA VINCI LEARNING HD
-http://3dipserver.com:80/necip123/12082021/44037
-#EXTINF:-1,TR:OUTDOOR HD
-http://3dipserver.com:80/necip123/12082021/71907
-#EXTINF:-1,TR:TLC HD
-http://3dipserver.com:80/necip123/12082021/40458
-#EXTINF:-1,TR:YABAN TV HD
-http://3dipserver.com:80/necip123/12082021/44039
-#EXTINF:-1,TR:BeIN IZ HD
-http://3dipserver.com:80/necip123/12082021/40459
-#EXTINF:-1,TR:DMAX HD
-http://3dipserver.com:80/necip123/12082021/40460
-#EXTINF:-1,TR:BBC EARTH HD
-http://3dipserver.com:80/necip123/12082021/40461
-#EXTINF:-1,TR:BEIN GURME SD
-http://3dipserver.com:80/necip123/12082021/68766
-#EXTINF:-1,TR:BEIN GURME HD
-http://3dipserver.com:80/necip123/12082021/40476
-#EXTINF:-1,TR:24 KITCHEN HD
-http://3dipserver.com:80/necip123/12082021/40477
-#EXTINF:-1,TR:TRT BELGESEL
-http://3dipserver.com:80/necip123/12082021/2492
-#EXTINF:-1,TR:OLTA TV
-http://3dipserver.com:80/necip123/12082021/55380
-#EXTINF:-1,TR:AV TV
-http://3dipserver.com:80/necip123/12082021/55381
-#EXTINF:-1,TR:HABER 61
-http://3dipserver.com:80/necip123/12082021/85136
-#EXTINF:-1,TR:DRT DENIZLI TV
-http://3dipserver.com:80/necip123/12082021/78910
-#EXTINF:-1,TR:PAMUKKALE TV
-http://3dipserver.com:80/necip123/12082021/78904
-#EXTINF:-1,TR:TR 6 TV
-http://3dipserver.com:80/necip123/12082021/78849
-#EXTINF:-1,TR:KANAL 42 KONYA
-http://3dipserver.com:80/necip123/12082021/78850
-#EXTINF:-1,TR:KANAL FIRAT ELAZIG
-http://3dipserver.com:80/necip123/12082021/78851
-#EXTINF:-1,TR:BRT 1 HD
-http://3dipserver.com:80/necip123/12082021/78852
-#EXTINF:-1,TR:BRT 2 HD
-http://3dipserver.com:80/necip123/12082021/78853
-#EXTINF:-1,TR:REHBER TV
-http://3dipserver.com:80/necip123/12082021/78854
-#EXTINF:-1,TR:YOL TV
-http://3dipserver.com:80/necip123/12082021/78855
-#EXTINF:-1,TR:CEM TV
-http://3dipserver.com:80/necip123/12082021/78856
-#EXTINF:-1,TR:VATAN TV
-http://3dipserver.com:80/necip123/12082021/78858
-#EXTINF:-1,TR:AKILLI TV
-http://3dipserver.com:80/necip123/12082021/78859
-#EXTINF:-1,TR:TIVITURK
-http://3dipserver.com:80/necip123/12082021/78860
-#EXTINF:-1,TR:KON TV HD
-http://3dipserver.com:80/necip123/12082021/78861
-#EXTINF:-1,TR:KOY TV HD
-http://3dipserver.com:80/necip123/12082021/78862
-#EXTINF:-1,TR:CAN TV HD
-http://3dipserver.com:80/necip123/12082021/78863
-#EXTINF:-1,TR:KIBRIS TV
-http://3dipserver.com:80/necip123/12082021/78865
-#EXTINF:-1,TR:KIBRIS ADA TV
-http://3dipserver.com:80/necip123/12082021/78866
-#EXTINF:-1,TR:SIM TV KIBRIS
-http://3dipserver.com:80/necip123/12082021/78867
-#EXTINF:-1,TR:KANAL T KIBRIS
-http://3dipserver.com:80/necip123/12082021/78869
-#EXTINF:-1,TR:KIBRIS GENC TV
-http://3dipserver.com:80/necip123/12082021/78870
-#EXTINF:-1,TR:UZAY HABER
-http://3dipserver.com:80/necip123/12082021/78871
-#EXTINF:-1,TR:KABE TV
-http://3dipserver.com:80/necip123/12082021/78872
-#EXTINF:-1,TR:DOST TV
-http://3dipserver.com:80/necip123/12082021/78873
-#EXTINF:-1,TR:KUDUS TV
-http://3dipserver.com:80/necip123/12082021/78874
-#EXTINF:-1,TR:VUSLAT TV
-http://3dipserver.com:80/necip123/12082021/78875
-#EXTINF:-1,TR:MELTEM TV
-http://3dipserver.com:80/necip123/12082021/78876
-#EXTINF:-1,TR:SEMERKAND TV
-http://3dipserver.com:80/necip123/12082021/78877
-#EXTINF:-1,TR:UCANKUS TV
-http://3dipserver.com:80/necip123/12082021/78878
-#EXTINF:-1,TR:YAKIT TV
-http://3dipserver.com:80/necip123/12082021/78879
-#EXTINF:-1,TR:KANAL B
-http://3dipserver.com:80/necip123/12082021/78880
-#EXTINF:-1,TR:KANAL 3
-http://3dipserver.com:80/necip123/12082021/78881
-#EXTINF:-1,TR:KANAL 33 MERSIN
-http://3dipserver.com:80/necip123/12082021/78882
-#EXTINF:-1,TR:KANAL 43 KUTAHYA
-http://3dipserver.com:80/necip123/12082021/78883
-#EXTINF:-1,TR:KANAL 58 TV
-http://3dipserver.com:80/necip123/12082021/78884
-#EXTINF:-1,TR:KANAL AVRUPA
-http://3dipserver.com:80/necip123/12082021/78885
-#EXTINF:-1,TR:KANAL ANTALYA
-http://3dipserver.com:80/necip123/12082021/78886
-#EXTINF:-1,TR:KANAL V ANTALYA
-http://3dipserver.com:80/necip123/12082021/78887
-#EXTINF:-1,TR:BLT Turk HD
-http://3dipserver.com:80/necip123/12082021/78888
-#EXTINF:-1,TR:TGRT EU
-http://3dipserver.com:80/necip123/12082021/78889
-#EXTINF:-1,TR:TVO
-http://3dipserver.com:80/necip123/12082021/78890
-#EXTINF:-1,TR:TV 5
-http://3dipserver.com:80/necip123/12082021/78891
-#EXTINF:-1,TR:TV 4 HD
-http://3dipserver.com:80/necip123/12082021/78892
-#EXTINF:-1,TR:TV 100 HD
-http://3dipserver.com:80/necip123/12082021/78893
-#EXTINF:-1,TR:TV 52 ORDU
-http://3dipserver.com:80/necip123/12082021/78894
-#EXTINF:-1,TR:DERSIM 62 TV
-http://3dipserver.com:80/necip123/12082021/78895
-#EXTINF:-1,TR:TV ALTAS ORDU
-http://3dipserver.com:80/necip123/12082021/78896
-#EXTINF:-1,TR:ON4 TV
-http://3dipserver.com:80/necip123/12082021/78897
-#EXTINF:-1,TR:RUMELI TV
-http://3dipserver.com:80/necip123/12082021/78898
-#EXTINF:-1,TR:EKOTURK HD
-http://3dipserver.com:80/necip123/12082021/78899
-#EXTINF:-1,TR:TVA TV (ADANA)
-http://3dipserver.com:80/necip123/12082021/78900
-#EXTINF:-1,TR:ISTANBUL 34
-http://3dipserver.com:80/necip123/12082021/78901
-#EXTINF:-1,TR:ANADOLU DERNEK
-http://3dipserver.com:80/necip123/12082021/78902
-#EXTINF:-1,TR:4 EYLUL
-http://3dipserver.com:80/necip123/12082021/78905
-#EXTINF:-1,TR:CIFTCI TV
-http://3dipserver.com:80/necip123/12082021/78906
-#EXTINF:-1,TR:YILDIZ TV
-http://3dipserver.com:80/necip123/12082021/78907
-#EXTINF:-1,TR:ESKISEHIR TV
-http://3dipserver.com:80/necip123/12082021/78908
-#EXTINF:-1,TR:CAY TV RIZE
-http://3dipserver.com:80/necip123/12082021/78909
-#EXTINF:-1,TR:BRT 3 HD
-http://3dipserver.com:80/necip123/12082021/78911
-#EXTINF:-1,TR:KARDELEN TV
-http://3dipserver.com:80/necip123/12082021/84580
-#EXTINF:-1,TR:KANAL URFA
-http://3dipserver.com:80/necip123/12082021/78838
-#EXTINF:-1,TR:LALEGUL TV HD
-http://3dipserver.com:80/necip123/12082021/78839
-#EXTINF:-1,TR:KANAL 26
-http://3dipserver.com:80/necip123/12082021/78840
-#EXTINF:-1,TR:MAVI KARADENIZ TV
-http://3dipserver.com:80/necip123/12082021/78841
-#EXTINF:-1,TR:TEK RUMELI TV
-http://3dipserver.com:80/necip123/12082021/78842
-#EXTINF:-1,TR:GUNEYDOGU TV
-http://3dipserver.com:80/necip123/12082021/78843
-#EXTINF:-1,TR:HRT AKDENIZ TV
-http://3dipserver.com:80/necip123/12082021/78844
-#EXTINF:-1,TR:VIZYON 58 TV SIVAS
-http://3dipserver.com:80/necip123/12082021/78845
-#EXTINF:-1,TR:SAT7 TURK
-http://3dipserver.com:80/necip123/12082021/78846
-#EXTINF:-1,TR:TV KAYSERI
-http://3dipserver.com:80/necip123/12082021/78847
-#EXTINF:-1,TR:ANADOLU DERNEK TV
-http://3dipserver.com:80/necip123/12082021/47925
-#EXTINF:-1,TR:MELTEM TV
-http://3dipserver.com:80/necip123/12082021/12464
-#EXTINF:-1,TR:KABE TV
-http://3dipserver.com:80/necip123/12082021/40448
-#EXTINF:-1,TR:REHBER TV
-http://3dipserver.com:80/necip123/12082021/40439
-#EXTINF:-1,TR:KUDUS TV
-http://3dipserver.com:80/necip123/12082021/40440
-#EXTINF:-1,TR:DINI FILM HD
-http://3dipserver.com:80/necip123/12082021/40441
-#EXTINF:-1,TR:LALEGUL TV
-http://3dipserver.com:80/necip123/12082021/40443
+#EXTINF:-1,TR: 24 Haber HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1824
+#EXTINF:-1,TR: 24 Kitchen HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1808
+#EXTINF:-1,TR: 360 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/615
+#EXTINF:-1,TR: 363 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/76657
+#EXTINF:-1,TR: A SPOR HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/529
+#EXTINF:-1,TR: A2 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/523
+#EXTINF:-1,TR: ADA TV FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/19148
+#EXTINF:-1,TR: Afyon Türk HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/163242
+#EXTINF:-1,TR: AKILLI TAVSAN MOMO FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/192594
+#EXTINF:-1,TR: AKILLI TV HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/16809
+#EXTINF:-1,TR: AKIT TV FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/631
+#EXTINF:-1,TR: AKSU TV HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/659
+#EXTINF:-1,TR: ALTAS TV
+http://skylogic.site:8080/esterichannel50con/36cb6c13/656
+#EXTINF:-1,TR: Anadolu Dernek
+http://skylogic.site:8080/esterichannel50con/36cb6c13/36065
+#EXTINF:-1,TR: Anadolu HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/173369
+#EXTINF:-1,TR: ANIMAL PLANET HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1798
+#EXTINF:-1,TR: ANIMASYON TV 2
+http://skylogic.site:8080/esterichannel50con/36cb6c13/192564
+#EXTINF:-1,TR: ANIMASYON TV 6
+http://skylogic.site:8080/esterichannel50con/36cb6c13/192568
+#EXTINF:-1,TR: ANIMASYON TV 7
+http://skylogic.site:8080/esterichannel50con/36cb6c13/192569
+#EXTINF:-1,TR: ANIMASYON TV 8
+http://skylogic.site:8080/esterichannel50con/36cb6c13/197562
+#EXTINF:-1,TR: ANIMASYON TV 9
+http://skylogic.site:8080/esterichannel50con/36cb6c13/197563
+#EXTINF:-1,TR: ANIMAUX HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/32592
+#EXTINF:-1,TR: ANTALYA KANAL HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/192089
+#EXTINF:-1,TR: Arena Maxx Salon 1
+http://skylogic.site:8080/esterichannel50con/36cb6c13/194328
+#EXTINF:-1,TR: Arena Maxx Salon 2
+http://skylogic.site:8080/esterichannel50con/36cb6c13/194324
+#EXTINF:-1,TR: Arena Maxx Salon 3
+http://skylogic.site:8080/esterichannel50con/36cb6c13/194325
+#EXTINF:-1,TR: Arena Maxx Salon 4
+http://skylogic.site:8080/esterichannel50con/36cb6c13/194323
+#EXTINF:-1,TR: Arena Maxx Salon 5
+http://skylogic.site:8080/esterichannel50con/36cb6c13/194322
+#EXTINF:-1,TR: Arena Maxx Salon 6
+http://skylogic.site:8080/esterichannel50con/36cb6c13/194317
+#EXTINF:-1,TR: Arena Maxx Salon 7
+http://skylogic.site:8080/esterichannel50con/36cb6c13/194318
+#EXTINF:-1,TR: Arena Maxx Salon 8
+http://skylogic.site:8080/esterichannel50con/36cb6c13/194319
+#EXTINF:-1,TR: Arena Maxx Salon 9
+http://skylogic.site:8080/esterichannel50con/36cb6c13/194320
+#EXTINF:-1,TR: Arena Maxx Salon 10
+http://skylogic.site:8080/esterichannel50con/36cb6c13/194321
+#EXTINF:-1,TR: ARTI 1
+http://skylogic.site:8080/esterichannel50con/36cb6c13/70016
+#EXTINF:-1,TR: ARTI TV HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1820
+#EXTINF:-1,TR: AS TV Bursa
+http://skylogic.site:8080/esterichannel50con/36cb6c13/276112
+#EXTINF:-1,TR: ATV AVRUPA HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/32859
+#EXTINF:-1,TR: ATV FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/521
+#EXTINF:-1,TR: ATV HABER HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/666
+#EXTINF:-1,TR: ATV NEWS FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/64119
+#EXTINF:-1,TR: ATV PARA FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/10153
+#EXTINF:-1,TR: AutoMoto FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/32596
+#EXTINF:-1,TR: AV TV HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/19157
+#EXTINF:-1,TR: AVRUPA TV HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/174315
+#EXTINF:-1,TR: BABY TV HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/634
+#EXTINF:-1,TR: BALIKESIR ON TV
+http://skylogic.site:8080/esterichannel50con/36cb6c13/58135
+#EXTINF:-1,TR: Barbie HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/199216
+#EXTINF:-1,TR: BBC CBeebies HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1844
+#EXTINF:-1,TR: BBC earth HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8238
+#EXTINF:-1,TR: BBC FIRST FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/192630
+#EXTINF:-1,TR: beIN BOX OFFICE 1 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/536
+#EXTINF:-1,TR: beIN BOX OFFICE 2 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/537
+#EXTINF:-1,TR: beIN BOX OFFICE 3 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/538
+#EXTINF:-1,TR: beIN BOX OFFICE Turk FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/539
+#EXTINF:-1,TR: beIN GURME HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1807
+#EXTINF:-1,TR: beIN IZ HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1806
+#EXTINF:-1,TR: beIN Movies ACTION 2 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/278527
+#EXTINF:-1,TR: beIN Movies ACTION FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1761
+#EXTINF:-1,TR: beIN Movies FAMILY FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1763
+#EXTINF:-1,TR: beIN Movies PREMIERE 2 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1765
+#EXTINF:-1,TR: beIN Movies PREMIERE FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1764
+#EXTINF:-1,TR: beIN Movies STARS FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1766
+#EXTINF:-1,TR: beIN Movies TURK HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1767
+#EXTINF:-1,TR: beIN Series COMEDY FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1768
+#EXTINF:-1,TR: beIN Series DRAMA FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1769
+#EXTINF:-1,TR: beIN Series sci-fi FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8231
+#EXTINF:-1,TR: beIN Series VICE FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1771
+#EXTINF:-1,TR: beIN Sports 1 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1735
+#EXTINF:-1,TR: beIN Sports 2 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1737
+#EXTINF:-1,TR: beIN Sports 3 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1739
+#EXTINF:-1,TR: beIN Sports 4 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/7450
+#EXTINF:-1,TR: beIN Sports Haber FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/7448
+#EXTINF:-1,TR: beIN Sports Max 1 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8224
+#EXTINF:-1,TR: beIN Sports Max 2 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/16878
+#EXTINF:-1,TR: BENGU TURK HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/611
+#EXTINF:-1,TR: BEREKET TV
+http://skylogic.site:8080/esterichannel50con/36cb6c13/276426
+#EXTINF:-1,TR: BEYAZ HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/524
+#EXTINF:-1,TR: BEYKENT TV
+http://skylogic.site:8080/esterichannel50con/36cb6c13/36067
+#EXTINF:-1,TR: BLOOMBERG HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/664
+#EXTINF:-1,TR: BLOOMBERG HT HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/278525
+#EXTINF:-1,TR: BOOMERANG HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/672
+#EXTINF:-1,TR: BR TV HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/58143
+#EXTINF:-1,TR: brt 1 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/15678
+#EXTINF:-1,TR: brt 2 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/20159
+#EXTINF:-1,TR: brt 3 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/192602
+#EXTINF:-1,TR: BRUKSEL TURK TV
+http://skylogic.site:8080/esterichannel50con/36cb6c13/147215
+#EXTINF:-1,TR: BUCAK K15
+http://skylogic.site:8080/esterichannel50con/36cb6c13/58132
+#EXTINF:-1,TR: BURSA AS TV
+http://skylogic.site:8080/esterichannel50con/36cb6c13/58133
+#EXTINF:-1,TR: Bursa TV HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/655
+#EXTINF:-1,TR: BİZİMEV TV
+http://skylogic.site:8080/esterichannel50con/36cb6c13/278234
+#EXTINF:-1,TR: Caillou Box
+http://skylogic.site:8080/esterichannel50con/36cb6c13/84470
+#EXTINF:-1,TR: CAILLOU TV
+http://skylogic.site:8080/esterichannel50con/36cb6c13/192581
+#EXTINF:-1,TR: Can TV HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/648
+#EXTINF:-1,TR: Cartoon Network HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8261
+#EXTINF:-1,TR: CAY TV HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/7710
+#EXTINF:-1,TR: CEM TV HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/663
+#EXTINF:-1,TR: CHASSE & PECHE HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/21246
+#EXTINF:-1,TR: CIFTCI TV
+http://skylogic.site:8080/esterichannel50con/36cb6c13/76684
+#EXTINF:-1,TR: CineFlix 007 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/271157
+#EXTINF:-1,TR: CineFlix ACTION HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/271155
+#EXTINF:-1,TR: CineFlix CASUSLUK HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/271158
+#EXTINF:-1,TR: CineFlix COMEDY HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/271159
+#EXTINF:-1,TR: CineFlix KEMAL SUNAL HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/271166
+#EXTINF:-1,TR: CineFlix SENER SEN HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/271167
+#EXTINF:-1,TR: CineFlix TURK HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/271163
+#EXTINF:-1,TR: CineFlix WESTERN HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/271164
+#EXTINF:-1,TR: CineFlix YESILCAM HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/271165
+#EXTINF:-1,TR: Cizgi Film HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/163221
+#EXTINF:-1,TR: CNN TURK HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/628
+#EXTINF:-1,TR: Cocuk 3 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/163225
+#EXTINF:-1,TR: COCUK SMART FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1851
+#EXTINF:-1,TR: CUNEYT ARKIN TV
+http://skylogic.site:8080/esterichannel50con/36cb6c13/192544
+#EXTINF:-1,TR: DA VINCI KIDS HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/278571
+#EXTINF:-1,TR: Da Vinci Learning HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1850
+#EXTINF:-1,TR: Damar TV
+http://skylogic.site:8080/esterichannel50con/36cb6c13/197566
+#EXTINF:-1,TR: Damar TV 2
+http://skylogic.site:8080/esterichannel50con/36cb6c13/174381
+#EXTINF:-1,TR: DEHA TV HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/36073
+#EXTINF:-1,TR: DENIZ POSTASI TV HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/174429
+#EXTINF:-1,TR: DERSIM 62 TV
+http://skylogic.site:8080/esterichannel50con/36cb6c13/146559
+#EXTINF:-1,TR: Digi ANIMASYON FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/567
+#EXTINF:-1,TR: Digi Max 2 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/566
+#EXTINF:-1,TR: Digi Max FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/565
+#EXTINF:-1,TR: DIM TV HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/58152
+#EXTINF:-1,TR: Discovery Channel HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8236
+#EXTINF:-1,TR: Discovery Science FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/278568
+#EXTINF:-1,TR: Discovery SCIENSE HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/5693
+#EXTINF:-1,TR: Discovery Turbo Xtra HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/32591
+#EXTINF:-1,TR: Discovery World HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/278567
+#EXTINF:-1,TR: Disney Channel
+http://skylogic.site:8080/esterichannel50con/36cb6c13/278570
+#EXTINF:-1,TR: Disney Junior FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/633
+#EXTINF:-1,TR: DiYANET TV FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/7711
+#EXTINF:-1,TR: DIYAR TV
+http://skylogic.site:8080/esterichannel50con/36cb6c13/19173
+#EXTINF:-1,TR: DIZI SMART MAX FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/32147
+#EXTINF:-1,TR: DIZI SMART PREMIUM HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/15714
+#EXTINF:-1,TR: DMAX FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1805
+#EXTINF:-1,TR: DOCU BOX FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/532
 #EXTINF:-1,TR: DOST TV
-http://3dipserver.com:80/necip123/12082021/40444
-#EXTINF:-1,TR:SEMERKANT HD
-http://3dipserver.com:80/necip123/12082021/40445
-#EXTINF:-1,TR:KUDUS TV
-http://3dipserver.com:80/necip123/12082021/40446
-#EXTINF:-1,TR:DIYANET TV HD
-http://3dipserver.com:80/necip123/12082021/40449
-#EXTINF:-1,TR:BENGU TURK HD
-http://3dipserver.com:80/necip123/12082021/40450
-#EXTINF:-1,TR:AMBIANCE
-http://3dipserver.com:80/necip123/12082021/85173
-#EXTINF:-1,TR:TRT MUZIK HD
-http://3dipserver.com:80/necip123/12082021/40846
-#EXTINF:-1,TR:KRAL TV HD
-http://3dipserver.com:80/necip123/12082021/40847
-#EXTINF:-1,TR:KRAL TV FHD
-http://3dipserver.com:80/necip123/12082021/40848
-#EXTINF:-1,TR:KRAL POP HD
-http://3dipserver.com:80/necip123/12082021/40849
-#EXTINF:-1,TR:DREAM TV HD
-http://3dipserver.com:80/necip123/12082021/40850
-#EXTINF:-1,TR:DREAM TURK TV HD
-http://3dipserver.com:80/necip123/12082021/40851
-#EXTINF:-1,TR:NR1 HD
-http://3dipserver.com:80/necip123/12082021/40852
-#EXTINF:-1,TR:NUMBER ONE TURK HD
-http://3dipserver.com:80/necip123/12082021/40853
-#EXTINF:-1,TR:NUMBER ONE DAMAR HD
-http://3dipserver.com:80/necip123/12082021/67104
-#EXTINF:-1,TR:NUMBER ONE ASK HD
-http://3dipserver.com:80/necip123/12082021/67105
-#EXTINF:-1,TR:NUMBER ONE DANCE HD
-http://3dipserver.com:80/necip123/12082021/67106
-#EXTINF:-1,TR:POWER TV HD
-http://3dipserver.com:80/necip123/12082021/40854
-#EXTINF:-1,TR:POP MUZIK TV HD
-http://3dipserver.com:80/necip123/12082021/40856
-#EXTINF:-1,TR:BEIN SPORTS 1 (Yedek1)
-http://3dipserver.com:80/necip123/12082021/82064
-#EXTINF:-1,TR:BEIN SPORTS 1 (Yedek2)
-http://3dipserver.com:80/necip123/12082021/82065
-#EXTINF:-1,TR:BEIN SPORTS 1 (Yedek3)
-http://3dipserver.com:80/necip123/12082021/82066
-#EXTINF:-1,TR:BEIN SPORTS 1 (Yedek4)
-http://3dipserver.com:80/necip123/12082021/82067
-#EXTINF:-1,TR:BEIN SPORTS 1 SD  (TTNET)
-http://3dipserver.com:80/necip123/12082021/40523
-#EXTINF:-1,TR:BEIN SPORTS 1 SD  (TURKIYE DUSUK NET)
-http://3dipserver.com:80/necip123/12082021/40524
-#EXTINF:-1,TR:BEIN SPORTS 1 HD  (TURKIYE)
-http://3dipserver.com:80/necip123/12082021/40525
-#EXTINF:-1,TR:BEIN SPORTS 1 HD  (TURKIYE-2)
-http://3dipserver.com:80/necip123/12082021/40526
-#EXTINF:-1,TR:BEIN SPORTS 1 HD  (DEUTSCH TELEKOM)
-http://3dipserver.com:80/necip123/12082021/40527
-#EXTINF:-1,TR:BEIN SPORTS 1 HD  (EUROPA)
-http://3dipserver.com:80/necip123/12082021/40528
-#EXTINF:-1,TR:BEIN SPORTS 1 FHD (HEVC-265)
-http://3dipserver.com:80/necip123/12082021/40529
-#EXTINF:-1,TR:BEIN SPORTS 2 SD
-http://3dipserver.com:80/necip123/12082021/40530
-#EXTINF:-1,TR:BEIN SPORTS 2 HD
-http://3dipserver.com:80/necip123/12082021/40531
-#EXTINF:-1,TR:BEIN SPORTS 2 FHD
-http://3dipserver.com:80/necip123/12082021/40532
-#EXTINF:-1,TR:BEIN SPORTS 3 SD
-http://3dipserver.com:80/necip123/12082021/40533
-#EXTINF:-1,TR:BEIN SPORTS 3 HD
-http://3dipserver.com:80/necip123/12082021/40534
-#EXTINF:-1,TR:BEIN SPORTS 3 FHD
-http://3dipserver.com:80/necip123/12082021/40535
-#EXTINF:-1,TR:BEIN SPORTS 4 SD
-http://3dipserver.com:80/necip123/12082021/40536
-#EXTINF:-1,TR:BEIN SPORTS 4 HD
-http://3dipserver.com:80/necip123/12082021/40537
-#EXTINF:-1,TR:BEIN SPORTS 4 FHD
-http://3dipserver.com:80/necip123/12082021/44035
-#EXTINF:-1,TR:BEIN SPORTS MAX 1 SD
-http://3dipserver.com:80/necip123/12082021/40539
-#EXTINF:-1,TR:BEIN SPORTS MAX 1 HD
-http://3dipserver.com:80/necip123/12082021/40538
-#EXTINF:-1,TR:BEIN SPORTS MAX 2 SD
-http://3dipserver.com:80/necip123/12082021/40540
-#EXTINF:-1,TR:BEIN SPORTS MAX 2 HD
-http://3dipserver.com:80/necip123/12082021/40541
-#EXTINF:-1,TR:BEIN CONNET 1 (CANLIMAC)
-http://3dipserver.com:80/necip123/12082021/87233
-#EXTINF:-1,TR:BEIN CONNET 2 (CANLIMAC)
-http://3dipserver.com:80/necip123/12082021/87234
-#EXTINF:-1,TR:BEIN CONNET 3 (CANLIMAC)
-http://3dipserver.com:80/necip123/12082021/87235
-#EXTINF:-1,TR:BEIN CONNET 4 (CANLIMAC)
-http://3dipserver.com:80/necip123/12082021/87236
-#EXTINF:-1,TR:BEIN CONNET 5 (CANLIMAC)
-http://3dipserver.com:80/necip123/12082021/87237
-#EXTINF:-1,TR:BEIN CONNET 6 (CANLIMAC)
-http://3dipserver.com:80/necip123/12082021/87238
-#EXTINF:-1,TR:S SPORT HD
-http://3dipserver.com:80/necip123/12082021/40542
-#EXTINF:-1,TR:S SPORT FHD
-http://3dipserver.com:80/necip123/12082021/40543
-#EXTINF:-1,TR:S SPORT 2 HD
-http://3dipserver.com:80/necip123/12082021/40544
-#EXTINF:-1,TR:S SPORT 2 FHD
-http://3dipserver.com:80/necip123/12082021/44031
-#EXTINF:-1,TR:SMART SPOR HD
-http://3dipserver.com:80/necip123/12082021/40546
-#EXTINF:-1,TR:SMART SPOR SD
-http://3dipserver.com:80/necip123/12082021/40545
-#EXTINF:-1,TR:SMART SPOR 2 HD
-http://3dipserver.com:80/necip123/12082021/86554
-#EXTINF:-1,TR:SMART SPOR 2 SD
-http://3dipserver.com:80/necip123/12082021/86555
-#EXTINF:-1,TR:TIVIBU SPOR 1 SD
-http://3dipserver.com:80/necip123/12082021/40547
-#EXTINF:-1,TR:TIVIBU SPOR 1 HD
-http://3dipserver.com:80/necip123/12082021/40548
-#EXTINF:-1,TR:TIVIBU SPOR 2 SD
-http://3dipserver.com:80/necip123/12082021/40549
-#EXTINF:-1,TR:TIVIBU SPOR 2 HD
-http://3dipserver.com:80/necip123/12082021/40550
-#EXTINF:-1,TR:TIVIBU SPOR 3 SD
-http://3dipserver.com:80/necip123/12082021/40551
-#EXTINF:-1,TR:TIVIBU SPOR 3 HD
-http://3dipserver.com:80/necip123/12082021/40552
-#EXTINF:-1,TR:SPORTS TV HD
-http://3dipserver.com:80/necip123/12082021/44032
-#EXTINF:-1,TR:FIGHTBOX TV HD
-http://3dipserver.com:80/necip123/12082021/44033
-#EXTINF:-1,TR:NBA TV HD
-http://3dipserver.com:80/necip123/12082021/44030
-#EXTINF:-1,TR:BEIN SPORTS HABER HD
-http://3dipserver.com:80/necip123/12082021/40553
-#EXTINF:-1,TR:BEIN SPORTS HABER FHD
-http://3dipserver.com:80/necip123/12082021/44034
-#EXTINF:-1,TR:A SPOR HD
-http://3dipserver.com:80/necip123/12082021/40554
-#EXTINF:-1,TR:A SPOR FHD
-http://3dipserver.com:80/necip123/12082021/40555
-#EXTINF:-1,TR:TRT SPOR HD
-http://3dipserver.com:80/necip123/12082021/40556
-#EXTINF:-1,TR:TRT SPOR FHD
-http://3dipserver.com:80/necip123/12082021/40557
-#EXTINF:-1,TR:TRT SPOR 2 HD
-http://3dipserver.com:80/necip123/12082021/72292
-#EXTINF:-1,TR:EURO SPORT 1 HD
-http://3dipserver.com:80/necip123/12082021/40558
-#EXTINF:-1,TR:EURO SPORT 2 HD
-http://3dipserver.com:80/necip123/12082021/40559
-#EXTINF:-1,TR:FB TV HD
-http://3dipserver.com:80/necip123/12082021/40560
-#EXTINF:-1,TR:GS TV HD
-http://3dipserver.com:80/necip123/12082021/40561
-#EXTINF:-1,TR:TAY TV HD
-http://3dipserver.com:80/necip123/12082021/73141
-#EXTINF:-1,TR:TJK TV HD
-http://3dipserver.com:80/necip123/12082021/40562
-
+http://skylogic.site:8080/esterichannel50con/36cb6c13/7712
+#EXTINF:-1,TR: DREAM TURK FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/669
+#EXTINF:-1,TR: DREAM TV FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/642
+#EXTINF:-1,TR: DRT DENIZLI HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/36070
+#EXTINF:-1,TR: dusyeri HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/32627
+#EXTINF:-1,TR: Edessa TV
+http://skylogic.site:8080/esterichannel50con/36cb6c13/29844
+#EXTINF:-1,TR: EGE TV HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/36071
+#EXTINF:-1,TR: EKIN TURK HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/267866
+#EXTINF:-1,TR: EKOT JRK HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/5712
+#EXTINF:-1,TR: EKOTURK HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/278564
+#EXTINF:-1,TR: EM TV HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/604
+#EXTINF:-1,TR: ENO AKSIYON 1 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/192512
+#EXTINF:-1,TR: ENO AKSIYON 2 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/192513
+#EXTINF:-1,TR: ENO AKSIYON 3 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/192514
+#EXTINF:-1,TR: ENO ANiMASYON HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/16856
+#EXTINF:-1,TR: ENO TURK 1 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/16857
+#EXTINF:-1,TR: ENO ViZYON 1 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/16858
+#EXTINF:-1,TR: ENO ViZYON 2 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/16859
+#EXTINF:-1,TR: ENO ViZYON 3 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/16860
+#EXTINF:-1,TR: ENO ViZYON 4 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/16866
+#EXTINF:-1,TR: ENO ViZYON 5 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/16861
+#EXTINF:-1,TR: ENO ViZYON 6 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/16862
+#EXTINF:-1,TR: ENO ViZYON 7 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/16863
+#EXTINF:-1,TR: ENO ViZYON 8 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/16864
+#EXTINF:-1,TR: ENO ViZYON 9 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/16865
+#EXTINF:-1,TR: ENO ViZYON 10 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/16868
+#EXTINF:-1,TR: ENO ViZYON 11 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/16875
+#EXTINF:-1,TR: ENO ViZYON 12 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/16867
+#EXTINF:-1,TR: ENO ViZYON 13 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/16870
+#EXTINF:-1,TR: ENO ViZYON 14 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/16869
+#EXTINF:-1,TR: ENO ViZYON 15 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/16871
+#EXTINF:-1,TR: ENOFLIX 1 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/192520
+#EXTINF:-1,TR: ENOFLIX 2 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/192521
+#EXTINF:-1,TR: ENOFLIX 3 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/271183
+#EXTINF:-1,TR: Epic Drama FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/192629
+#EXTINF:-1,TR: ER TV HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/621
+#EXTINF:-1,TR: Ert Sah TV
+http://skylogic.site:8080/esterichannel50con/36cb6c13/166129
+#EXTINF:-1,TR: es TV HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/593
+#EXTINF:-1,TR: FASHION TV FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/193756
+#EXTINF:-1,TR: FAST & FUNBOX FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/576
+#EXTINF:-1,TR: Fenerbahce TV HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/575
+#EXTINF:-1,TR: FiberBox Aksiyon FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/540
+#EXTINF:-1,TR: FiberBox Animasyon FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/541
+#EXTINF:-1,TR: FiberBox Bilim Kurgu HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/84465
+#EXTINF:-1,TR: FiberBox Dram HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/543
+#EXTINF:-1,TR: FiberBox Fantastik HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/544
+#EXTINF:-1,TR: FiberBox HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/6861
+#EXTINF:-1,TR: FiberBox Kemal Sunal HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/545
+#EXTINF:-1,TR: FiberBox Komedi HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/546
+#EXTINF:-1,TR: FiberBox Korku HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/547
+#EXTINF:-1,TR: FiberBox Turk HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/548
+#EXTINF:-1,TR: FIGHT BOX HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/530
+#EXTINF:-1,TR: FilmBox Festival HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/147201
+#EXTINF:-1,TR: FilmBox Gold FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/147197
+#EXTINF:-1,TR: FilmBox HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/533
+#EXTINF:-1,TR: FilmBox iLYAS SALMAN FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/192550
+#EXTINF:-1,TR: FilmBox KADİR İNANIR FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/192549
+#EXTINF:-1,TR: FilmBox Nostalgil FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/147204
+#EXTINF:-1,TR: FilmBox Premier FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/147206
+#EXTINF:-1,TR: FilmBox Stars FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/147196
+#EXTINF:-1,TR: FilmBox TURK FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/147203
+#EXTINF:-1,TR: FIRAT TV HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/58138
+#EXTINF:-1,TR: FM TV
+http://skylogic.site:8080/esterichannel50con/36cb6c13/146678
+#EXTINF:-1,TR: FOX Crime FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/579
+#EXTINF:-1,TR: FOX FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/514
+#EXTINF:-1,TR: FOX LIFE FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/578
+#EXTINF:-1,TR: FRT TV HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/174415
+#EXTINF:-1,TR: FULL TV Salon 1 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/195704
+#EXTINF:-1,TR: FULL TV Salon 2 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/195705
+#EXTINF:-1,TR: FULL TV Salon 3 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/195706
+#EXTINF:-1,TR: FULL TV Salon 4 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/195707
+#EXTINF:-1,TR: FULL TV Salon 5 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/225264
+#EXTINF:-1,TR: FULL TV Salon 6 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/195708
+#EXTINF:-1,TR: FULL TV Salon 7 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/195709
+#EXTINF:-1,TR: FULL TV Salon 8 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/195710
+#EXTINF:-1,TR: FULL TV Salon 9 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/195711
+#EXTINF:-1,TR: FULL TV Salon 10 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/194327
+#EXTINF:-1,TR: FX FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/580
+#EXTINF:-1,TR: FİNANS TURK HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/186995
+#EXTINF:-1,TR: Galatasaray TV HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/618
+#EXTINF:-1,TR: GAZIANTEP GRT TV
+http://skylogic.site:8080/esterichannel50con/36cb6c13/58148
+#EXTINF:-1,TR: Gaziantep Olay TV
+http://skylogic.site:8080/esterichannel50con/36cb6c13/36076
+#EXTINF:-1,TR: GENC TV
+http://skylogic.site:8080/esterichannel50con/36cb6c13/32624
+#EXTINF:-1,TR: GLB Sinema Aksiyon FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/174343
+#EXTINF:-1,TR: GLB Sinema Animasyon FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/174431
+#EXTINF:-1,TR: GLB Sinema Bilimkurgu FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/174349
+#EXTINF:-1,TR: GLB Sinema FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/174743
+#EXTINF:-1,TR: GLB Sinema Korku FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/174365
+#EXTINF:-1,TR: GLB Sinema Loca 1 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/5717
+#EXTINF:-1,TR: GLB Sinema Loca 2 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/174346
+#EXTINF:-1,TR: GLB Sinema Loca FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/174425
+#EXTINF:-1,TR: GLB Sinema Macera FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/174368
+#EXTINF:-1,TR: GLB Sinema Yerli FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/174374
+#EXTINF:-1,TR: GLOBAL HABER HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/652
+#EXTINF:-1,TR: Gonca TV
+http://skylogic.site:8080/esterichannel50con/36cb6c13/146677
+#EXTINF:-1,TR: GRT TV
+http://skylogic.site:8080/esterichannel50con/36cb6c13/174416
+#EXTINF:-1,TR: GTV TV HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/163245
+#EXTINF:-1,TR: GULDUR GULDUR SHOW
+http://skylogic.site:8080/esterichannel50con/36cb6c13/192532
+#EXTINF:-1,TR: GUNES TV
+http://skylogic.site:8080/esterichannel50con/36cb6c13/19242
+#EXTINF:-1,TR: Guneydogu TV
+http://skylogic.site:8080/esterichannel50con/36cb6c13/32611
+#EXTINF:-1,TR: Haber 61 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/596
+#EXTINF:-1,TR: HABER TURK FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/651
+#EXTINF:-1,TR: Halk TV HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/617
+#EXTINF:-1,TR: History Channel FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1801
+#EXTINF:-1,TR: HRT AKDENIZ TV
+http://skylogic.site:8080/esterichannel50con/36cb6c13/36075
+#EXTINF:-1,TR: HUNAT TV
+http://skylogic.site:8080/esterichannel50con/36cb6c13/186993
+#EXTINF:-1,TR: HyperCinema FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/549
+#EXTINF:-1,TR: IBB TV FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/166861
+#EXTINF:-1,TR: ILKE TV HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/163241
+#EXTINF:-1,TR: INSIGHT TV FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/191927
+#EXTINF:-1,TR: Investigation Discovery FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/8237
+#EXTINF:-1,TR: ISTANBUL KANAL 34 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/58161
+#EXTINF:-1,TR: KABE TV HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/587
+#EXTINF:-1,TR: KADIRGA HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/645
+#EXTINF:-1,TR: KANAL 3 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/603
+#EXTINF:-1,TR: Kanal 3 Isparta
+http://skylogic.site:8080/esterichannel50con/36cb6c13/276509
+#EXTINF:-1,TR: Kanal 7 Avrupa FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/4777
+#EXTINF:-1,TR: KANAL 7 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/525
+#EXTINF:-1,TR: KANAL 12 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/166214
+#EXTINF:-1,TR: KANAL 15 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/76646
+#EXTINF:-1,TR: Kanal 19
+http://skylogic.site:8080/esterichannel50con/36cb6c13/62887
+#EXTINF:-1,TR: Kanal 23 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/58139
+#EXTINF:-1,TR: Kanal 24 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/636
+#EXTINF:-1,TR: KANAL 26 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/11052
+#EXTINF:-1,TR: Kanal 32
+http://skylogic.site:8080/esterichannel50con/36cb6c13/76641
+#EXTINF:-1,TR: Kanal 33 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/15697
+#EXTINF:-1,TR: Kanal 34 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/89930
+#EXTINF:-1,TR: Kanal 360 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/182752
+#EXTINF:-1,TR: KANAL 42
+http://skylogic.site:8080/esterichannel50con/36cb6c13/192604
+#EXTINF:-1,TR: KANAL 43 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/19202
+#EXTINF:-1,TR: Kanal 56
+http://skylogic.site:8080/esterichannel50con/36cb6c13/162294
+#EXTINF:-1,TR: KANAL 58 TV
+http://skylogic.site:8080/esterichannel50con/36cb6c13/609
+#EXTINF:-1,TR: Kanal 68 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/19203
+#EXTINF:-1,TR: KANAL AVRUPA
+http://skylogic.site:8080/esterichannel50con/36cb6c13/16813
+#EXTINF:-1,TR: KANAL B HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/605
+#EXTINF:-1,TR: KANAL D FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/510
+#EXTINF:-1,TR: KANAL T KIBRIS
+http://skylogic.site:8080/esterichannel50con/36cb6c13/32625
+#EXTINF:-1,TR: Kanal V HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/657
+#EXTINF:-1,TR: KANAL Z HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/58173
+#EXTINF:-1,TR: Kardelen TV
+http://skylogic.site:8080/esterichannel50con/36cb6c13/199174
+#EXTINF:-1,TR: KARE TV
+http://skylogic.site:8080/esterichannel50con/36cb6c13/192571
+#EXTINF:-1,TR: KAY TV HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/16832
+#EXTINF:-1,TR: KAYSERI Olay TURK
+http://skylogic.site:8080/esterichannel50con/36cb6c13/58171
+#EXTINF:-1,TR: Kayseri TV HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/269641
+#EXTINF:-1,TR: KELOGLAN TV
+http://skylogic.site:8080/esterichannel50con/36cb6c13/192582
+#EXTINF:-1,TR: Kemal Sunal 1 yapim
+http://skylogic.site:8080/esterichannel50con/36cb6c13/266653
+#EXTINF:-1,TR: Kemal Sunal TV 2
+http://skylogic.site:8080/esterichannel50con/36cb6c13/36051
+#EXTINF:-1,TR: KEMAL SUNAL TV HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/20993
+#EXTINF:-1,TR: KENT 38 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/278572
+#EXTINF:-1,TR: KENT TURK HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/58163
+#EXTINF:-1,TR: KIBRIS GENC TV
+http://skylogic.site:8080/esterichannel50con/36cb6c13/76630
+#EXTINF:-1,TR: KIBRIS TV
+http://skylogic.site:8080/esterichannel50con/36cb6c13/32621
+#EXTINF:-1,TR: KOCAELI TV HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/36112
+#EXTINF:-1,TR: KON TV FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/667
+#EXTINF:-1,TR: KOY TV HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/586
+#EXTINF:-1,TR: KRAL HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1838
+#EXTINF:-1,TR: KRAL POP HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/194621
+#EXTINF:-1,TR: KRT FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1826
+#EXTINF:-1,TR: KUDUS TV HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/163248
+#EXTINF:-1,TR: Kukuli TV FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/163228
+#EXTINF:-1,TR: LALE GUL TV HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/613
+#EXTINF:-1,TR: LIFE TV HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/58145
+#EXTINF:-1,TR: LINE TV
+http://skylogic.site:8080/esterichannel50con/36cb6c13/29833
+#EXTINF:-1,TR: LionBox Arabesk HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/266595
+#EXTINF:-1,TR: LionBox Turkce Pop HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/266593
+#EXTINF:-1,TR: LionBox Turku HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/266594
+#EXTINF:-1,TR: LOCA 1 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/550
+#EXTINF:-1,TR: LOCA 2 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/551
+#EXTINF:-1,TR: LOCA 3 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/552
+#EXTINF:-1,TR: LOVE NATURE FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/837
+#EXTINF:-1,TR: M TURK TV
+http://skylogic.site:8080/esterichannel50con/36cb6c13/198528
+#EXTINF:-1,TR: MaGic BoX Yerli FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/84462
+#EXTINF:-1,TR: MaGicBoX Action FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/554
+#EXTINF:-1,TR: MaGicBoX Animasyon FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/555
+#EXTINF:-1,TR: MaGicBoX Kemal Sunal FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/558
+#EXTINF:-1,TR: MaGicBoX Komedi FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/559
+#EXTINF:-1,TR: MaGicBoX Korku HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/553
+#EXTINF:-1,TR: MASAL TV
+http://skylogic.site:8080/esterichannel50con/36cb6c13/192576
+#EXTINF:-1,TR: Masallar HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/660
+#EXTINF:-1,TR: Mavi Karadeniz HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/590
+#EXTINF:-1,TR: MAX TURK FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/163192
+#EXTINF:-1,TR: MC EU HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/76648
+#EXTINF:-1,TR: Medya Haber
+http://skylogic.site:8080/esterichannel50con/36cb6c13/166340
+#EXTINF:-1,TR: MELTEM TV HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/73228
+#EXTINF:-1,TR: MERCAN TV HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/163235
+#EXTINF:-1,TR: Merkez TV HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/600
+#EXTINF:-1,TR: MERSIN ICEL TV
+http://skylogic.site:8080/esterichannel50con/36cb6c13/64125
+#EXTINF:-1,TR: MERSIN KANAL 33
+http://skylogic.site:8080/esterichannel50con/36cb6c13/58174
+#EXTINF:-1,TR: Mesaj TV HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/163239
+#EXTINF:-1,TR: Metro Türk HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/162296
+#EXTINF:-1,TR: METROPOL HAPSU FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/192579
+#EXTINF:-1,TR: METROPOL KONUSAN TOM FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/192587
+#EXTINF:-1,TR: METROPOL Peppa FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/271379
+#EXTINF:-1,TR: Milyon TV HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/647
+#EXTINF:-1,TR: Minika Cocuk HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/671
+#EXTINF:-1,TR: Minika Go HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/662
+#EXTINF:-1,TR: MOVIE SMART ACTION FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1772
+#EXTINF:-1,TR: MOVIE SMART CLASSIC HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1773
+#EXTINF:-1,TR: MOVIE SMART FAMILY FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1774
+#EXTINF:-1,TR: MOVIE SMART PREMIUM 1 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/11058
+#EXTINF:-1,TR: MOVIE SMART PREMIUM 2 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1777
+#EXTINF:-1,TR: MOVIE SMART PREMIUM FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1778
+#EXTINF:-1,TR: MOVIE SMART TURK FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1780
+#EXTINF:-1,TR: Moviesmart Cocuk FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/163184
+#EXTINF:-1,TR: NASA TV HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/271373
+#EXTINF:-1,TR: NAT GEO HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/278566
+#EXTINF:-1,TR: NAT GEO Wild FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/838
+#EXTINF:-1,TR: NBA TV FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1757
+#EXTINF:-1,TR: Nick Junior
+http://skylogic.site:8080/esterichannel50con/36cb6c13/278468
+#EXTINF:-1,TR: nickelodeon HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/278469
+#EXTINF:-1,TR: Nicktoon HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/673
+#EXTINF:-1,TR: nik.jr
+http://skylogic.site:8080/esterichannel50con/36cb6c13/675
+#EXTINF:-1,TR: Niloya FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/163226
+#EXTINF:-1,TR: NR1 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1842
+#EXTINF:-1,TR: NR1 TURK HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/5714
+#EXTINF:-1,TR: NTV HABER HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/668
+#EXTINF:-1,TR: OLAY TURK HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/174382
+#EXTINF:-1,TR: OLTA TV FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/192557
+#EXTINF:-1,TR: ON 4 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/44751
+#EXTINF:-1,TR: ORDU ALTAS TV
+http://skylogic.site:8080/esterichannel50con/36cb6c13/44749
+#EXTINF:-1,TR: OUTDOOR FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/174391
+#EXTINF:-1,TR: PAMUKKALE TV HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/76647
+#EXTINF:-1,TR: PIJAMA MASKELILER TV FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/192821
+#EXTINF:-1,TR: POWER HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/830
+#EXTINF:-1,TR: POWER TURK FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1840
+#EXTINF:-1,TR: PRIMEBOX AKSIYON 1 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/271176
+#EXTINF:-1,TR: PRIMEBOX AKSIYON 2 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/165628
+#EXTINF:-1,TR: PRIMEBOX KORKU FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/165599
+#EXTINF:-1,TR: PRIMEBOX TURK 1 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/271179
+#EXTINF:-1,TR: PRIMEBOX TURK 2 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/271180
+#EXTINF:-1,TR: PROTURK GERILIM FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/271172
+#EXTINF:-1,TR: PROTURK MACERA HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/271173
+#EXTINF:-1,TR: PROTURK WESTERN HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/271174
+#EXTINF:-1,TR: PROTURK ZEKI MUREN FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/271397
+#EXTINF:-1,TR: Redbull TV HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/247832
+#EXTINF:-1,TR: Rehber TV HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/15676
+#EXTINF:-1,TR: Rumeli TV HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/76644
+#EXTINF:-1,TR: S-SPORT 2 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/10167
+#EXTINF:-1,TR: S-SPORT FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1753
+#EXTINF:-1,TR: Sakarya TV HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/196990
+#EXTINF:-1,TR: SALON 1 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/29871
+#EXTINF:-1,TR: SALON 2 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/12231
+#EXTINF:-1,TR: SALON 3 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/12232
+#EXTINF:-1,TR: Sat7 TURK HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/76639
+#EXTINF:-1,TR: Science & VIE FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/32593
+#EXTINF:-1,TR: Semerkand FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/834
+#EXTINF:-1,TR: SHOW MAX HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/534
+#EXTINF:-1,TR: SHOW TURK
+http://skylogic.site:8080/esterichannel50con/36cb6c13/278466
+#EXTINF:-1,TR: SHOW TV FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/516
+#EXTINF:-1,TR: SiM TV FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/32618
+#EXTINF:-1,TR: SiNEMA 2 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/39319
+#EXTINF:-1,TR: SiNEMA 1001 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1789
+#EXTINF:-1,TR: SiNEMA 1002 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/76722
+#EXTINF:-1,TR: SiNEMA AILE 2 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/165582
+#EXTINF:-1,TR: SiNEMA AILE FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1794
+#EXTINF:-1,TR: SiNEMA AKSIYON FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1793
+#EXTINF:-1,TR: SiNEMA KOMEDI 2 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/43541
+#EXTINF:-1,TR: SiNEMA KOMEDI FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1795
+#EXTINF:-1,TR: SINEMA TV FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1790
+#EXTINF:-1,TR: SiNEMA YERLI 2 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/163186
+#EXTINF:-1,TR: SiNEMA YERLI FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1791
+#EXTINF:-1,TR: Sinemax COMEDY FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/571
+#EXTINF:-1,TR: Sinemax DRAMA FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/20957
+#EXTINF:-1,TR: Sinemax Family FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/569
+#EXTINF:-1,TR: Sinemax FEAR FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/568
+#EXTINF:-1,TR: Sinemax NOSTALGIA FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/573
+#EXTINF:-1,TR: SineMax TURK FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/572
+#EXTINF:-1,TR: SINEMAX VIZYON 4 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/5672
+#EXTINF:-1,TR: SINEMAX VIZYON 5 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/192476
+#EXTINF:-1,TR: SINEMAX VIZYON 6 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/192477
+#EXTINF:-1,TR: SINEVIZYON 1 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/21003
+#EXTINF:-1,TR: SINEVIZYON 2 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/21004
+#EXTINF:-1,TR: SINEVIZYON 3 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/21005
+#EXTINF:-1,TR: SINEVIZYON 4 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/21006
+#EXTINF:-1,TR: SINEVIZYON 5 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/21007
+#EXTINF:-1,TR: SINEVIZYON 6 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/21008
+#EXTINF:-1,TR: SINEVIZYON 7 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/21010
+#EXTINF:-1,TR: SINEVIZYON 8 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/21011
+#EXTINF:-1,TR: SINEVIZYON 9 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/21012
+#EXTINF:-1,TR: SINEVIZYON 10 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/21013
+#EXTINF:-1,TR: SINEVIZYON 11 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/21014
+#EXTINF:-1,TR: SINEVIZYON 12 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/32159
+#EXTINF:-1,TR: SINEVIZYON 13 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/32160
+#EXTINF:-1,TR: SINEVIZYON 14 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/32161
+#EXTINF:-1,TR: SINEVIZYON 15 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/39503
+#EXTINF:-1,TR: SINEVIZYON 16 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/39504
+#EXTINF:-1,TR: SINEVIZYON 17 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/39506
+#EXTINF:-1,TR: SINEVIZYON 18 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/39507
+#EXTINF:-1,TR: SINEVIZYON 19 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/39508
+#EXTINF:-1,TR: SINEVIZYON 20 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/41269
+#EXTINF:-1,TR: SINEVIZYON 21 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/41270
+#EXTINF:-1,TR: SINEVIZYON 24 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/44348
+#EXTINF:-1,TR: SINEVIZYON 25 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/55154
+#EXTINF:-1,TR: SINEVIZYON 26 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/55155
+#EXTINF:-1,TR: SINEVIZYON 27 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/55157
+#EXTINF:-1,TR: SINEVIZYON 28 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/55158
+#EXTINF:-1,TR: SINEVIZYON 29 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/76519
+#EXTINF:-1,TR: SINEVIZYON CEM YILMAZ HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/21020
+#EXTINF:-1,TR: SINEVIZYON NOSTALJI 1 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/31190
+#EXTINF:-1,TR: SINEVIZYON NOSTALJI 2 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/31191
+#EXTINF:-1,TR: SINEVIZYON NOSTALJI 3 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/31195
+#EXTINF:-1,TR: SINEVIZYON NOSTALJI 4 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/31167
+#EXTINF:-1,TR: SINEVIZYON NOSTALJI 5 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/41271
+#EXTINF:-1,TR: SINEVIZYON TURK 1 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/21022
+#EXTINF:-1,TR: SINEVIZYON TURK 2 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/21021
+#EXTINF:-1,TR: SINEVIZYON TURK 3 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/21015
+#EXTINF:-1,TR: SINEVIZYON TURK 4 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/31189
+#EXTINF:-1,TR: SIRINLER TV
+http://skylogic.site:8080/esterichannel50con/36cb6c13/192580
+#EXTINF:-1,TR: SL KEMAL SUNAL 2 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/43539
+#EXTINF:-1,TR: SL NILOYA TV HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/70743
+#EXTINF:-1,TR: SL SINEMA TURK FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/41273
+#EXTINF:-1,TR: SMAR SPORT 2 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/50121
+#EXTINF:-1,TR: Smart Cocuk HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/32569
+#EXTINF:-1,TR: SPOR SMART 2 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/278650
+#EXTINF:-1,TR: SPOR SMART FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1750
+#EXTINF:-1,TR: SPORTS TV HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/89846
+#EXTINF:-1,TR: STAR HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/512
+#EXTINF:-1,TR: STERK FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/43583
+#EXTINF:-1,TR: TAY TV HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/16887
+#EXTINF:-1,TR: TELE 1 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/654
+#EXTINF:-1,TR: TEMPO TV HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/29841
+#EXTINF:-1,TR: TEVE 2 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/535
+#EXTINF:-1,TR: TGRT BELGESEL HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/16828
+#EXTINF:-1,TR: TGRT EU HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/32907
+#EXTINF:-1,TR: TGRT Haber HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/616
+#EXTINF:-1,TR: tivibu spor 2 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/278485
+#EXTINF:-1,TR: TIVIBU SPOR 3 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1749
+#EXTINF:-1,TR: TIVIBU SPOR FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1746
+#EXTINF:-1,TR: Tivibu Sport 2 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/145230
+#EXTINF:-1,TR: TIVITURK
+http://skylogic.site:8080/esterichannel50con/36cb6c13/192597
+#EXTINF:-1,TR: TJK TV HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/594
+#EXTINF:-1,TR: TLC FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/585
+#EXTINF:-1,TR: TMB TV
+http://skylogic.site:8080/esterichannel50con/36cb6c13/76692
+#EXTINF:-1,TR: Tom & Jerry HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/163219
+#EXTINF:-1,TR: TON TV HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/58134
+#EXTINF:-1,TR: TR: TIVIBU SPOR 2 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1748
+#EXTINF:-1,TR: TRT 1 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/507
+#EXTINF:-1,TR: TRT 2 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/635
+#EXTINF:-1,TR: TRT 4K
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1810
+#EXTINF:-1,TR: TRT ARABIC FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/43558
+#EXTINF:-1,TR: TRT AVAZ FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/622
+#EXTINF:-1,TR: TRT BELGESEL FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/577
+#EXTINF:-1,TR: TRT COCUK FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/629
+#EXTINF:-1,TR: TRT EBA ILKOKUL HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/148006
+#EXTINF:-1,TR: TRT EBA LISE HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/148008
+#EXTINF:-1,TR: TRT EBA ORTAOKUL HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/148007
+#EXTINF:-1,TR: TRT HABER FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/627
+#EXTINF:-1,TR: TRT KURDI HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/151899
+#EXTINF:-1,TR: TRT MUZIK FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/630
+#EXTINF:-1,TR: TRT OKUL HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/147214
+#EXTINF:-1,TR: TRT SPOR 2 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/32095
+#EXTINF:-1,TR: TRT SPOR FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/528
+#EXTINF:-1,TR: TRT TURK FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/831
+#EXTINF:-1,TR: TRT WORLD FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/11025
+#EXTINF:-1,TR: TV 4 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/646
+#EXTINF:-1,TR: TV 5 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/599
+#EXTINF:-1,TR: TV 8 INT HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/43500
+#EXTINF:-1,TR: TV 100 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1776
+#EXTINF:-1,TR: TV 24 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/827
+#EXTINF:-1,TR: TV 41 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/6857
+#EXTINF:-1,TR: TV 52 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/162300
+#EXTINF:-1,TR: TV 8.5 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/518
+#EXTINF:-1,TR: TV DEN HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/19257
+#EXTINF:-1,TR: TV NET FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/1822
+#EXTINF:-1,TR: TV TURKMENELI HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/276854
+#EXTINF:-1,TR: TV1 KAYSERI HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/76645
+#EXTINF:-1,TR: TV8 EU
+http://skylogic.site:8080/esterichannel50con/36cb6c13/192874
+#EXTINF:-1,TR: TV8 FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/278465
+#EXTINF:-1,TR: TVA HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/21198
+#EXTINF:-1,TR: TVO HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/32607
+#EXTINF:-1,TR: UCAN KUS HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/625
+#EXTINF:-1,TR: ULKE HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/626
+#EXTINF:-1,TR: ULUSAL TV
+http://skylogic.site:8080/esterichannel50con/36cb6c13/278683
+#EXTINF:-1,TR: UZAY HABER HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/76673
+#EXTINF:-1,TR: VATAN HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/624
+#EXTINF:-1,TR: VIASAT EXPLORE FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/197561
+#EXTINF:-1,TR: VIASAT History FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/32589
+#EXTINF:-1,TR: VIZYON 58 HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/665
+#EXTINF:-1,TR: Vizyon FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/19265
+#EXTINF:-1,TR: VUSLAT TV HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/597
+#EXTINF:-1,TR: WM TV WOMAN KADIN
+http://skylogic.site:8080/esterichannel50con/36cb6c13/173368
+#EXTINF:-1,TR: Woman TV HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/527
+#EXTINF:-1,TR: WWE SMACKDOWN HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/197538
+#EXTINF:-1,TR: YABAN FHD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/582
+#EXTINF:-1,TR: YEŞİLYURT TV HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/186994
+#EXTINF:-1,TR: Yol TV HD
+http://skylogic.site:8080/esterichannel50con/36cb6c13/583
