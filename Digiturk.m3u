@@ -1,7 +1,7 @@
+
 #EXTM3U
-#EXTINF:-1,TR: TRT 4K
 http://abmmedya.com:8080/erhansardogan/6580103092/39
-#EXTINF:-1,TR: TRT FHD
+#EXTINF:-1,TR: TRT 4K (1080)
 http://abmmedya.com:8080/erhansardogan/6580103092/9281
 #EXTINF:-1,TR: TRT 1 FHD
 http://abmmedya.com:8080/erhansardogan/6580103092/40
@@ -173,8 +173,22 @@ http://abmmedya.com:8080/erhansardogan/6580103092/17998
 http://abmmedya.com:8080/erhansardogan/6580103092/19106
 #EXTINF:-1,TRY- RUMELI TV
 http://abmmedya.com:8080/erhansardogan/6580103092/19107
+#EXTINF:-1,TR: SEMERKAND TV
+http://abmmedya.com:8080/erhansardogan/6580103092/19457
+#EXTINF:-1,TR: DOST TV
+http://abmmedya.com:8080/erhansardogan/6580103092/19458
+#EXTINF:-1,TR: KABE TV
+http://abmmedya.com:8080/erhansardogan/6580103092/19459
+#EXTINF:-1,TR: KUDUS TV
+http://abmmedya.com:8080/erhansardogan/6580103092/19460
+#EXTINF:-1,TR: LALEGUL TV
+http://abmmedya.com:8080/erhansardogan/6580103092/19462
+#EXTINF:-1,TR: DIYANET TV
+http://abmmedya.com:8080/erhansardogan/6580103092/19463
 #EXTINF:-1,TR: YUNUS EMRE
 http://abmmedya.com:8080/erhansardogan/6580103092/25667
+#EXTINF:-1,₪₪₪₪₪ [ TR | BELGESEL ] ₪₪₪₪₪
+http://abmmedya.com:8080/erhansardogan/6580103092/139
 #EXTINF:-1,NATIONAL GEOGRAPHIC HD
 http://abmmedya.com:8080/erhansardogan/6580103092/130
 #EXTINF:-1,NAT GEO WILD HD
@@ -243,6 +257,8 @@ http://abmmedya.com:8080/erhansardogan/6580103092/121
 http://abmmedya.com:8080/erhansardogan/6580103092/123
 #EXTINF:-1,TRT BELGESEL HD
 http://abmmedya.com:8080/erhansardogan/6580103092/119
+#EXTINF:-1,₪₪₪₪₪ [ TR SINEMA ] ₪₪₪₪₪
+http://abmmedya.com:8080/erhansardogan/6580103092/285
 #EXTINF:-1,TR: beIN MOVIES TURK HD
 http://abmmedya.com:8080/erhansardogan/6580103092/170
 #EXTINF:-1,TR: beIN MOVIES PREMIERE HD
