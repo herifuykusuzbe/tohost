@@ -1,181 +1,563 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="A Haber TR" tvg-name="A Haber TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/qjzfKDN/ahaber.jpg" group-title="News",A Haber
-https://mn-nl.mncdn.com/blutv_ahaber/smil:ahaber_hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/ZNxrDJ5/image.png" group-title="",A Para
-https://mn-nl.mncdn.com/blutv_apara/smil:apara_hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="A Spor TR" tvg-name="A Spor TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/2Fjh189/aspor.png" group-title="Sport",A Spor
-https://mn-nl.mncdn.com/blutv_aspor/smil:aspor_hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/gFWSgVC/YIv7xEi.png" group-title="",A2TV
-https://mn-nl.mncdn.com/blutv_a2/smil:a2_hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/tXbD8Sz/8A1HOMZ.png" group-title="",Afyon Turk TV
-https://5be5d840359c6.streamlock.net/afyonturktv/afyonturktv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/yBGZy4n/obCp0aK.png" group-title="",Ahi TV Kirsehir
-http://yayin3.canlitv.com:1935/canlitv/ahitv/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/fYgsTNK/TaQzL9I.jpg" group-title="",Akilli TV
-http://akillitvhls.cdn.streamprovider.net/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/zG7NM55/Jagn7PG.png" group-title="",Akit TV
-http://akittv-live.ercdn.net/akittv/akittv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/1LGHMzQ/lwkowCS.png" group-title="",Al-Zahra TV Turkic
-https://live.al-zahratv.com/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/1LGHMzQ/lwkowCS.png" group-title="",Al-Zahra TV Turkic
-https://live.al-zahratv.com/live/playlist2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/c71ePvj.png" group-title="",Alqanat 9 TV
-https://5d8ef5ac99397.streamlock.net/qanat/alqanat9/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/37VNK2B/Nnsnayw.png" group-title="",Altaş TV
-http://stream.taksimbilisim.com:1935/altastv/bant1/playlist.m3u8
-#EXTINF:-1 tvg-id="Atv" tvg-name="Atv" tvg-language="Turkish" tvg-logo="https://i.ibb.co/pwtfgLY/5dc2be15866ac331e0feb209.png" group-title="News",Atv
-https://mn-nl.mncdn.com/blutv_atv/smil:atv_hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/R7dg6SJ/RXMHlOj.jpg" group-title="",Ben TV
-http://kanalben.cubecdn.net/live/kanalben1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/bRhnM6W/qti5aea.png" group-title="",Beşiktaş Web TV
-http://s01.vpis.io/besiktas/besiktas.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/BBx9nKK/yCer0tL.png" group-title="",BRT 1 (Kıbrıs)
-http://wms.brtk.net:1935/live/brt1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/0Fz0rSB/yoNkkLc.png" group-title="",BRT 2
-http://wms.brtk.net:1935/live/brt2/BratuMarian.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/0Fz0rSB/yoNkkLc.png" group-title="",BRT 2 (Turkish)
-http://wms.brtk.net:1935/live/brt2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/N2Yc8Yf/k6DUajb.png" group-title="",Bursa TV
-https://win1.yayin.com.tr/bursatv/bursatv/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/qdBr2fH/kgwc6oT.jpg" group-title="",Can TV
-http://canbroadcast.com:7000/canlican/tv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/80d40Qb/e2K5ixJ.png" group-title="",Cay TV
-http://stream2.taksimbilisim.com:1935/caytv/bant1/CAYTV.m3u8
-#EXTINF:-1 tvg-id="CNN TURK TR" tvg-name="CNN TURK TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/fGn8XsK/iarVuFy.png" group-title="News",CNN Türk
-http://2122248091.dogannet.tv/S2/HLS_LIVE/cnn_turk/1000/prog_index.m3u8
-#EXTINF:-1 tvg-id="CNN TURK TR" tvg-name="CNN TURK TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/fGn8XsK/iarVuFy.png" group-title="News",CNN Türk
-https://212224109111.dogannet.tv/S2/HLS_LIVE/cnnturknp/track_4_1000/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/xXjjbq6/yhzxKnt.png" group-title="",CRI Turk Belgesel
-http://cri.aa.net.tr:1935/belgesel/belgesel/chunklist_w120871004.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/TWFsSh8/dersim62.jpg" group-title="",Dersim62 TV
-http://live.arkumedia.com:1935/dersim62tv/dersim62tv/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/nm59LwX/ZbkdWg9.png" group-title="",Diyalog TV
-http://yayin3.canlitv.com:1935/live/diyalogtv/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/nm59LwX/ZbkdWg9.png" group-title="",Diyalog TV
-https://59cba4d34b678.streamlock.net/live/diyalogtv/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/bHP8whJ/MwuqE6S.jpg" group-title="",DMAX
-https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/bHP8whJ/MwuqE6S.jpg" group-title="",DMAX
-https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist_b2328000_sltur.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Gdb8yX4/xyubJha.png" group-title="",Doğuş TV
-http://s01.vpis.io/dogustv/dogustv.m3u8
-#EXTINF:-1 tvg-id="Dream TV TR" tvg-name="Dream TV TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/tpQCzb9/0MXy3W0.png" group-title="",Dream TV
-https://mn-nl.mncdn.com/blutv_dream/smil:dream_sd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/QKXtdkz/sOd3INg.png" group-title="",ETV Manisa
-https://broadcasttr.com:446/manisaetv/bant1/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/N7gDm9P/7g6oP1l.jpg" group-title="",EuroStar
-http://xrklj56s.rocketcdn.com/eurostar.stream_360p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/wBwmB1T/iY0osc7.png" group-title="",Finans Turk TV
-http://live.arkumedia.com:1935/finansturktv/finansturktv/playlist.m3u8
-#EXTINF:-1 tvg-id="FOX TR" tvg-name="FOX TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/NVdh9jY/fox.jpg" group-title="",FOX
-https://mn-nl.mncdn.com/blutv_foxtv/smil:foxtv_hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/CMMB6nk/zzX2cW3.png" group-title="",Guneydoğu TV
-http://stream2.taksimbilisim.com:1935/gtv/bant1/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/d0T2jfg/ibb-tv-logo-white.png" group-title="",IBB TV
-rtmp://wowza.istweb.tv:1935/webtv/webtv_wowza1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/d0T2jfg/ibb-tv-logo-white.png" group-title="",Istanbul Metropolitan Municipality
-http://wowza.istweb.tv:1935/dp/istanbul2/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/d0T2jfg/ibb-tv-logo-white.png" group-title="",Istanbul Metropolitan Municipality
-http://wowza.istweb.tv:1935/dp/istanbul2/playlist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Jq49Y1g/uHAGsRk.png" group-title="",Kanal 3
-http://stream.taksimbilisim.com:1935/kanal3/bant1/Kanal3.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/zZhRR6T/z8D2zT1.png" group-title="",Kanal 5
-https://59cba4d34b678.streamlock.net/canlitv/kanal5/chunklist.m3u8
-#EXTINF:-1 tvg-id="Kanal D TR" tvg-name="Kanal D TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/BKRJpM9/kA45FvQ.jpg" group-title="",Kanal D
-https://mn-nl.mncdn.com/blutv_kanald/smil:kanald_hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/bmv9sVP/UbVZFtm.png" group-title="",Kanal Urfa
-http://stream.taksimbilisim.com:1935/kanalurfa/bant1/chunklist_w1042205694.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/KjVF97d/D8uqiZD.jpg" group-title="",Kon TV
-https://59cba4d34b678.streamlock.net/live/kontv/chunklist_w286386544.m3u8
-#EXTINF:-1 tvg-id="Kral Pop TR" tvg-name="Kral Pop TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/7v8wmsb/7H8WKei.png" group-title="Music",Kral Pop
-http://0ajuu84p.rocketcdn.com/kralpop_720/chunklist.m3u8
-#EXTINF:-1 tvg-id="Kral Pop TR" tvg-name="Kral Pop TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/7v8wmsb/7H8WKei.png" group-title="Music",Kral Pop
-http://bqgsd19q.rocketcdn.com/kralpop_720/chunklist.m3u8
-#EXTINF:-1 tvg-id="Kral TV TR" tvg-name="Kral TV TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/j6qp4jT/kral.png" group-title="",Kral TV
-http://0ajuu84p.rocketcdn.com/kraltv_720/chunklist.m3u8
-#EXTINF:-1 tvg-id="Kral TV TR" tvg-name="Kral TV TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/j6qp4jT/kral.png" group-title="",Kral TV
-http://mid5dg6m.rocketcdn.com/kraltv_720/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/nQKPMcV/qV9zn8w.jpg" group-title="",Kral World
-http://stmpo0wa.rocketcdn.com/kralworldtv_720/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/t8CpYpP/LcUYuJ5.png" group-title="Music",Med Muzîk
-http://137.74.205.201/live3/mm-3mbps.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/rxzZg2S/sIo8R2C.png" group-title="",Metro TV
-http://metrotv.garantisistem.com:1935/metrotv/metrohd/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/SBw828K/f460YQg.png" group-title="",Natural TV
-http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/SBw828K/f460YQg.png" group-title="",Natural TV
-https://broadcasttr.com:446/naturaltv/bant1/chunklist.m3u8
-#EXTINF:-1 tvg-id="NTV TR" tvg-name="NTV TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/4Jv1LRS/QP18ELE.png" group-title="News",NTV
-http://nt4p9nef.rocketcdn.com/ntvhd.stream_360p/chunklist.m3u8
-#EXTINF:-1 tvg-id="NTV TR" tvg-name="NTV TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/4Jv1LRS/QP18ELE.png" group-title="News",NTV
-https://nt4p9nef.rocketcdn.com/ntvhd.stream_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/TtbYRZD/i3ua14I.jpg" group-title="",ON4 TV
-http://yayin.netradyom.com:1935/live/on4/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/v1vtvJt/N3keKip.png" group-title="",Power Türk
-http://livetv.powerapp.com.tr/powerturktv/powerturkhd.smil/chunklist_b2650000_sltur.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/f8Xp0h9/pBgMaFV.jpg" group-title="",Rudaw
-https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="Semerkand TV TR" tvg-name="Semerkand TV TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/f1rRJRf/6ppPj8T.jpg" group-title="",Semerkand TV
-http://semerkandglb.mediatriple.net/semerkandliveedge/semerkand3/sansar.m3u8
-#EXTINF:-1 tvg-id="Semerkand TV TR" tvg-name="Semerkand TV TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/f1rRJRf/6ppPj8T.jpg" group-title="",Semerkand TV
-http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/BratuMarian.m3u8
-#EXTINF:-1 tvg-id="Semerkand TV TR" tvg-name="Semerkand TV TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/f1rRJRf/6ppPj8T.jpg" group-title="",Semerkand TV
-http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/master.m3u8
-#EXTINF:-1 tvg-id="Semerkand TV TR" tvg-name="Semerkand TV TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/f1rRJRf/6ppPj8T.jpg" group-title="",Semerkand TV
-http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/playlist.m3u8
-#EXTINF:-1 tvg-id="Semerkand TV TR" tvg-name="Semerkand TV TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/f1rRJRf/6ppPj8T.jpg" group-title="",Semerkand TV
-http://semerkandglb.mediatriple.net:1935/semerkandliveedge/semerkand1/radyodelisi.m3u8
-#EXTINF:-1 tvg-id="Show TR" tvg-name="Show TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/kcJYRGj/Fvxpir2.png" group-title="",Show
-https://mn-nl.mncdn.com/blutv_showtv/smil:show_hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/RQZRsHw/bHC7NT0.png" group-title="",Speda
-http://speda.teradek.live:1935/live/spedahd/playlist.m3u8
-#EXTINF:-1 tvg-id="Star TV HD TR" tvg-name="Star TV HD TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/fDCFJhF/2jKvBsQ.jpg" group-title="",Star TV
-http://lcgid8xu.rocketcdn.com/startvhd.stream_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="Star TV HD TR" tvg-name="Star TV HD TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/fDCFJhF/2jKvBsQ.jpg" group-title="",Star TV
-https://mn-nl.mncdn.com/blutv_star/smil:star_hd.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/vZ2Hw9y/KuDeTzL.png" group-title="",TBMM TV
-http://mecliscanlitv-lh.akamaihd.net:80/i/MECLISTV_1@127503/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/j5c4WdG/aJDmVr3.png" group-title="",Teve 2
-http://soledge7.dogannet.tv/S1/HLS_LIVE/tv2/1000/prog_index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/j5c4WdG/aJDmVr3.png" group-title="",Teve 2 [NO VLC]
-https://teve2.dogannet.tv/S2/HLS_LIVE/teve2np/track_4_1000/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/VvjSpv8/Tj2G5lV.png" group-title="",TGRT Belgesel
-http://cdn1.streamencoding.com:1935/tgrt_belgesel/amlst:live-30/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/VvjSpv8/Tj2G5lV.png" group-title="",TGRT Belgesel
-http://cdn1.streamencoding.com:1935/tgrt_belgesel/tgrt3/playlist.m3u8
-#EXTINF:-1 tvg-id="TGRT Haber TR" tvg-name="TGRT Haber TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/hWTdMQ6/K8Vh6HD.png" group-title="News",TGRT Haber
-http://cdn1.streamencoding.com:1935/tgrt_haber/tgrt3/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/9TDs8q8/IFE6LHH.jpg" group-title="",tivi TÜRK
-https://stream.tiviturk.de/live/tiviturk.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Kyf7D2T/mJGCqkD.png" group-title="Sport",TJK TV
-http://tjktv.ercdn.net/tjktv.m3u8
-#EXTINF:-1 tvg-id="TLC TR" tvg-name="TLC TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/rp1rtsC/Mp1BWwp.png" group-title="",TLC
-https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist.sltur.m3u8
-#EXTINF:-1 tvg-id="TLC TR" tvg-name="TLC TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/rp1rtsC/Mp1BWwp.png" group-title="",TLC
-https://pa9agxjg.rocketcdn.com/tlctv.smil/chunklist_b2328000_sltur.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/HTzkq9P/iJIHMq9.png" group-title="News",TRT Arabi
-http://trtcanlitv-lh.akamaihd.net/i/TRTARAPCA_1@181945/master.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/56kyxmQ/05zMtgQ.png" group-title="",TRT Avaz
-http://trtcanlitv-lh.akamaihd.net/i/TRTAVAZ_1@182244/master.m3u8
-#EXTINF:-1 tvg-id="TRT Cocuk TR" tvg-name="TRT Cocuk TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/c1zC46V/idYZDje.jpg" group-title="Kids",TRT Cocuk
-http://trtcanlitv-lh.akamaihd.net/i/TRTCOCUK_1@181844/master.m3u8
-#EXTINF:-1 tvg-id="TRT Diyanet TR" tvg-name="TRT Diyanet TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/3pKN9gx/BYsl7Nc.jpg" group-title="",TRT Diyanet
-https://nocvp-usd.noccdn.net/asset/7wGduAH1/chunklist.m3u8
-#EXTINF:-1 tvg-id="TRT Haber TR" tvg-name="TRT Haber TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/3pKN9gx/BYsl7Nc.jpg" group-title="News",TRT Haber
-http://trtcanlitv-lh.akamaihd.net/i/TRTHABERHD_1@181942/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/bB4yG1Y/cWIvunZ.png" group-title="",TRT Kurdi
-http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/index_720p_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/bB4yG1Y/cWIvunZ.png" group-title="",TRT Kurdi
-http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
-#EXTINF:-1 tvg-id="TRT Muzik TR" tvg-name="TRT Muzik TR" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Pmq7bGH/Bi8eMX9.jpg" group-title="Music",TRT Muzik
-http://trtcanlitv-lh.akamaihd.net/i/TRTMUZIK_1@181845/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/Br1knP7/R8SJH2m.png" group-title="",TRT Türk
-http://trtcanlitv-lh.akamaihd.net/i/TRTTURK_1@182144/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/phw4pjP/mjTjJ1N.png" group-title="News",TRT World
-https://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/QXDPwFR/ceYfPXJ.jpg" group-title="",TV 4
-https://mn-nl.mncdn.com/karamel/karamel/chunklist.m3u8
-#EXTINF:-1 tvg-id="Tv8" tvg-name="Tv8" tvg-language="Turkish" tvg-logo="https://i.ibb.co/6ZZLDQp/tv8.png" group-title="",TV8
-https://mn-nl.mncdn.com/blutv_tv8/smil:tv8_hd1.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkish" tvg-logo="https://i.ibb.co/qF8Rstv/0PTAYbs.jpg" group-title="",UçanKuş TV
-https://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
+#EXTINF:-1,TR: SHOW HD
+http://istars.pro:80/0599655171/HuvOf99spm/172718
+#EXTINF:-1,TR: SHOW HD *
+http://istars.pro:80/0599655171/HuvOf99spm/172719
+#EXTINF:-1,TR: KANAL D HD
+http://istars.pro:80/0599655171/HuvOf99spm/172720
+#EXTINF:-1,TR: KANAL D HD *
+http://istars.pro:80/0599655171/HuvOf99spm/172721
+#EXTINF:-1,TR: ATV HD
+http://istars.pro:80/0599655171/HuvOf99spm/172722
+#EXTINF:-1,TR: ATV HD *
+http://istars.pro:80/0599655171/HuvOf99spm/172723
+#EXTINF:-1,TR: STAR HD
+http://istars.pro:80/0599655171/HuvOf99spm/172724
+#EXTINF:-1,TR: STAR HD PLUS
+http://istars.pro:80/0599655171/HuvOf99spm/172725
+#EXTINF:-1,TR: TRT 1 HD
+http://istars.pro:80/0599655171/HuvOf99spm/172726
+#EXTINF:-1,TR: TRT 1 HD PLUS
+http://istars.pro:80/0599655171/HuvOf99spm/172727
+#EXTINF:-1,TR: FOX HD
+http://istars.pro:80/0599655171/HuvOf99spm/172728
+#EXTINF:-1,TR: FOX Crime
+http://istars.pro:80/0599655171/HuvOf99spm/172729
+#EXTINF:-1,TR: FOX Life
+http://istars.pro:80/0599655171/HuvOf99spm/172730
+#EXTINF:-1,TR: FOX HD PLUS
+http://istars.pro:80/0599655171/HuvOf99spm/172731
+#EXTINF:-1,TR: TV 8 HD
+http://istars.pro:80/0599655171/HuvOf99spm/172732
+#EXTINF:-1,TR: TV 8 HD *
+http://istars.pro:80/0599655171/HuvOf99spm/172733
+#EXTINF:-1,TR: BEYAZ HD PLUS
+http://istars.pro:80/0599655171/HuvOf99spm/172734
+#EXTINF:-1,TR: A2 HD PLUS
+http://istars.pro:80/0599655171/HuvOf99spm/172735
+#EXTINF:-1,TR: TEVE 2 HD PLUS
+http://istars.pro:80/0599655171/HuvOf99spm/172736
+#EXTINF:-1,TR: SHOW MAX
+http://istars.pro:80/0599655171/HuvOf99spm/172737
+#EXTINF:-1,TR: KANAL 7 FHD
+http://istars.pro:80/0599655171/HuvOf99spm/172738
+#EXTINF:-1,TR: KANAL 7 HD
+http://istars.pro:80/0599655171/HuvOf99spm/172739
+#EXTINF:-1,TR: FLASH TV
+http://istars.pro:80/0599655171/HuvOf99spm/172740
+#EXTINF:-1,TR: TRT ÇOCUK
+http://istars.pro:80/0599655171/HuvOf99spm/172745
+#EXTINF:-1,TR: Bein Movies Action Hd
+http://istars.pro:80/0599655171/HuvOf99spm/172746
+#EXTINF:-1,TR: MINIKA ÇOCUK
+http://istars.pro:80/0599655171/HuvOf99spm/172747
+#EXTINF:-1,TR: MINIKA GO
+http://istars.pro:80/0599655171/HuvOf99spm/172748
+#EXTINF:-1,TR: NICK JR
+http://istars.pro:80/0599655171/HuvOf99spm/172749
+#EXTINF:-1,TR: NICKELODEON HD
+http://istars.pro:80/0599655171/HuvOf99spm/172750
+#EXTINF:-1,TR: DISNEY CHANNEL
+http://istars.pro:80/0599655171/HuvOf99spm/172751
+#EXTINF:-1,TR: KRAL TV
+http://istars.pro:80/0599655171/HuvOf99spm/172753
+#EXTINF:-1,TR: KRAL POP
+http://istars.pro:80/0599655171/HuvOf99spm/172754
+#EXTINF:-1,TR: POWER HD PLUS
+http://istars.pro:80/0599655171/HuvOf99spm/172755
+#EXTINF:-1,TR: POWER TURK HD PLUS
+http://istars.pro:80/0599655171/HuvOf99spm/172756
+#EXTINF:-1,TR: NR 1 TURK HD PLUS
+http://istars.pro:80/0599655171/HuvOf99spm/172757
+#EXTINF:-1,TR: NR 1 HD
+http://istars.pro:80/0599655171/HuvOf99spm/172758
+#EXTINF:-1,TR: DREAM TÜRK
+http://istars.pro:80/0599655171/HuvOf99spm/172759
+#EXTINF:-1,TR: DREAM TV
+http://istars.pro:80/0599655171/HuvOf99spm/172760
+#EXTINF:-1,TR: Sinema TV Yerli 2 HD
+http://istars.pro:80/0599655171/HuvOf99spm/172761
+#EXTINF:-1,TR: Dizi Smart Premium HD
+http://istars.pro:80/0599655171/HuvOf99spm/172762
+#EXTINF:-1,TR: Bein Movies Premiere Hd
+http://istars.pro:80/0599655171/HuvOf99spm/172763
+#EXTINF:-1,TR: Sinema TV 2 HD
+http://istars.pro:80/0599655171/HuvOf99spm/172764
+#EXTINF:-1,TR: Film Box HD
+http://istars.pro:80/0599655171/HuvOf99spm/172765
+#EXTINF:-1,TR: MOVIESMART FAMILY HD
+http://istars.pro:80/0599655171/HuvOf99spm/172766
+#EXTINF:-1,TR: MOVIESMART FEST HD
+http://istars.pro:80/0599655171/HuvOf99spm/172767
+#EXTINF:-1,TR: MovieSmart ACTION HD
+http://istars.pro:80/0599655171/HuvOf99spm/172768
+#EXTINF:-1,TR: MovieSmart PLATIN HD
+http://istars.pro:80/0599655171/HuvOf99spm/172769
+#EXTINF:-1,TR: MovieSmart PLATIN 2 HD
+http://istars.pro:80/0599655171/HuvOf99spm/172770
+#EXTINF:-1,TR: BEIN SPORT 2 HD²
+http://istars.pro:80/0599655171/HuvOf99spm/172771
+#EXTINF:-1,TR: BEIN SPORTS 1 HD
+http://istars.pro:80/0599655171/HuvOf99spm/172772
+#EXTINF:-1,TR: BEIN SPORTS 2 HD
+http://istars.pro:80/0599655171/HuvOf99spm/172773
+#EXTINF:-1,TR: BEIN SPORTS 3 HD
+http://istars.pro:80/0599655171/HuvOf99spm/172774
+#EXTINF:-1,TR: BEIN SPORTS 4 HD
+http://istars.pro:80/0599655171/HuvOf99spm/172775
+#EXTINF:-1,TR: BEIN SPORTS HABER HD PLUS
+http://istars.pro:80/0599655171/HuvOf99spm/172776
+#EXTINF:-1,TR: SMART SPOR HD
+http://istars.pro:80/0599655171/HuvOf99spm/172777
+#EXTINF:-1,TR: SPORTS TV
+http://istars.pro:80/0599655171/HuvOf99spm/172778
+#EXTINF:-1,TR: TRT SPOR HD PLUS
+http://istars.pro:80/0599655171/HuvOf99spm/172779
+#EXTINF:-1,TR: TAY TV HD PLUS
+http://istars.pro:80/0599655171/HuvOf99spm/172780
+#EXTINF:-1,TR: FB TV HD PLUS
+http://istars.pro:80/0599655171/HuvOf99spm/172781
+#EXTINF:-1,TR: A SPOR HD PLUS
+http://istars.pro:80/0599655171/HuvOf99spm/172782
+#EXTINF:-1,TR: TRT BELGESEL HD PLUS
+http://istars.pro:80/0599655171/HuvOf99spm/172783
+#EXTINF:-1,TR: TRT BELGESEL
+http://istars.pro:80/0599655171/HuvOf99spm/172784
+#EXTINF:-1,TR: YABAN TV
+http://istars.pro:80/0599655171/HuvOf99spm/172785
+#EXTINF:-1,TR: ANIMAL PLANET HD
+http://istars.pro:80/0599655171/HuvOf99spm/172786
+#EXTINF:-1,TR: Nat Geo People HD
+http://istars.pro:80/0599655171/HuvOf99spm/172787
+#EXTINF:-1,TR: Bein Movies Action 2 Hd
+http://istars.pro:80/0599655171/HuvOf99spm/172788
+#EXTINF:-1,TR: BEIN IZ HD
+http://istars.pro:80/0599655171/HuvOf99spm/172789
+#EXTINF:-1,TR: BEIN GÜRME HD
+http://istars.pro:80/0599655171/HuvOf99spm/172790
+#EXTINF:-1,TR: HISTORY CHANNEL HD
+http://istars.pro:80/0599655171/HuvOf99spm/172791
+#EXTINF:-1,TR: TLC
+http://istars.pro:80/0599655171/HuvOf99spm/172792
+#EXTINF:-1,TR: CNN TURK HD PLUS
+http://istars.pro:80/0599655171/HuvOf99spm/172793
+#EXTINF:-1,TR: NTV HD PLUS
+http://istars.pro:80/0599655171/HuvOf99spm/172794
+#EXTINF:-1,TR: TRT HABER HD PLUS
+http://istars.pro:80/0599655171/HuvOf99spm/172795
+#EXTINF:-1,TR: TGRT HABER
+http://istars.pro:80/0599655171/HuvOf99spm/172796
+#EXTINF:-1,TR: HABER TURK HD PLUS
+http://istars.pro:80/0599655171/HuvOf99spm/172797
+#EXTINF:-1,TR: 24 HABER HD PLUS
+http://istars.pro:80/0599655171/HuvOf99spm/172798
+#EXTINF:-1,TR: A HABER HD PLUS
+http://istars.pro:80/0599655171/HuvOf99spm/172799
+#EXTINF:-1,TR: 360 TV HD PLUS
+http://istars.pro:80/0599655171/HuvOf99spm/172800
+#EXTINF:-1,TR: A NEWS HD
+http://istars.pro:80/0599655171/HuvOf99spm/172801
+#EXTINF:-1,TR: BLOOMBERG HT HD
+http://istars.pro:80/0599655171/HuvOf99spm/172802
+#EXTINF:-1,TR: ÜLKE TV HD
+http://istars.pro:80/0599655171/HuvOf99spm/172803
+#EXTINF:-1,TR: TV NET HD PLUS
+http://istars.pro:80/0599655171/HuvOf99spm/172804
+#EXTINF:-1,TR: TRT MUZIK HD
+http://istars.pro:80/0599655171/HuvOf99spm/172805
+#EXTINF:-1,TR: TRT AVAZ
+http://istars.pro:80/0599655171/HuvOf99spm/172806
+#EXTINF:-1,TR: DMAX HD PLUS
+http://istars.pro:80/0599655171/HuvOf99spm/172807
+#EXTINF:-1,TR: VATAN TV
+http://istars.pro:80/0599655171/HuvOf99spm/172808
+#EXTINF:-1,TR: BENGU TURK
+http://istars.pro:80/0599655171/HuvOf99spm/172809
+#EXTINF:-1,TR: TGRT EU
+http://istars.pro:80/0599655171/HuvOf99spm/172810
+#EXTINF:-1,TR: ULUSAL KANAL
+http://istars.pro:80/0599655171/HuvOf99spm/172811
+#EXTINF:-1,TR: HALK TV
+http://istars.pro:80/0599655171/HuvOf99spm/172812
+#EXTINF:-1,TR: OLAY TV
+http://istars.pro:80/0599655171/HuvOf99spm/172813
+#EXTINF:-1,TR: CEM TV
+http://istars.pro:80/0599655171/HuvOf99spm/172814
+#EXTINF:-1,TR: KON TV KONYA
+http://istars.pro:80/0599655171/HuvOf99spm/172815
+#EXTINF:-1,TR: TV8 INT
+http://istars.pro:80/0599655171/HuvOf99spm/172816
+#EXTINF:-1,TR: TV EM
+http://istars.pro:80/0599655171/HuvOf99spm/172817
+#EXTINF:-1,TR: AKIT TV HD
+http://istars.pro:80/0599655171/HuvOf99spm/172818
+#EXTINF:-1,TR: A PARA HD PLUS
+http://istars.pro:80/0599655171/HuvOf99spm/172819
+#EXTINF:-1,TR: GAZIANTEP OLAY TV
+http://istars.pro:80/0599655171/HuvOf99spm/172820
+#EXTINF:-1,TR: KANAL 33
+http://istars.pro:80/0599655171/HuvOf99spm/172821
+#EXTINF:-1,TR: KANAL 58 SIVAS
+http://istars.pro:80/0599655171/HuvOf99spm/172822
+#EXTINF:-1,TR: KANAL AVRUPA
+http://istars.pro:80/0599655171/HuvOf99spm/172823
+#EXTINF:-1,TR: KANAL V ANTALYA
+http://istars.pro:80/0599655171/HuvOf99spm/172824
+#EXTINF:-1,TR: TRT WORLD HD PLUS
+http://istars.pro:80/0599655171/HuvOf99spm/172825
+#EXTINF:-1,TR: TV A ADANA
+http://istars.pro:80/0599655171/HuvOf99spm/172826
+#EXTINF:-1,TR: CAN TV HD
+http://istars.pro:80/0599655171/HuvOf99spm/172827
+#EXTINF:-1,TR: İz Tv HD
+http://istars.pro:80/0599655171/HuvOf99spm/172828
+#EXTINF:-1,TR: İdman Tv
+http://istars.pro:80/0599655171/HuvOf99spm/172829
+#EXTINF:-1,TR: Yol TV
+http://istars.pro:80/0599655171/HuvOf99spm/172830
+#EXTINF:-1,TR: Yeşilçam 2
+http://istars.pro:80/0599655171/HuvOf99spm/172831
+#EXTINF:-1,TR: Yeşilçam 1
+http://istars.pro:80/0599655171/HuvOf99spm/172832
+#EXTINF:-1,TR: Yerel Tv 42
+http://istars.pro:80/0599655171/HuvOf99spm/172833
+#EXTINF:-1,TR: Vizyon 58
+http://istars.pro:80/0599655171/HuvOf99spm/172834
+#EXTINF:-1,TR: Viyana Tv
+http://istars.pro:80/0599655171/HuvOf99spm/172835
+#EXTINF:-1,TR: Viasat Nature History
+http://istars.pro:80/0599655171/HuvOf99spm/172836
+#EXTINF:-1,TR: Uzay Haber
+http://istars.pro:80/0599655171/HuvOf99spm/172837
+#EXTINF:-1,TR: TVT
+http://istars.pro:80/0599655171/HuvOf99spm/172838
+#EXTINF:-1,TR: TVO
+http://istars.pro:80/0599655171/HuvOf99spm/172839
+#EXTINF:-1,TR: Tvnet HD
+http://istars.pro:80/0599655171/HuvOf99spm/172840
+#EXTINF:-1,TR: Tv8.5 HD
+http://istars.pro:80/0599655171/HuvOf99spm/172841
+#EXTINF:-1,TR: Tv8 HD
+http://istars.pro:80/0599655171/HuvOf99spm/172842
+#EXTINF:-1,TR: TV52 Ordu
+http://istars.pro:80/0599655171/HuvOf99spm/172843
+#EXTINF:-1,TR: TV5
+http://istars.pro:80/0599655171/HuvOf99spm/172844
+#EXTINF:-1,TR: TV1 Kayseri
+http://istars.pro:80/0599655171/HuvOf99spm/172845
+#EXTINF:-1,TR: TV1
+http://istars.pro:80/0599655171/HuvOf99spm/172846
+#EXTINF:-1,TR: TV\'DEN Aydın
+http://istars.pro:80/0599655171/HuvOf99spm/172847
+#EXTINF:-1,TR: TV 4
+http://istars.pro:80/0599655171/HuvOf99spm/172848
+#EXTINF:-1,TR: TRT Türk
+http://istars.pro:80/0599655171/HuvOf99spm/172849
+#EXTINF:-1,TR: Trt Spor HD
+http://istars.pro:80/0599655171/HuvOf99spm/172850
+#EXTINF:-1,TR: TRT Müzik
+http://istars.pro:80/0599655171/HuvOf99spm/172851
+#EXTINF:-1,TR: Trt Haber HD
+http://istars.pro:80/0599655171/HuvOf99spm/172852
+#EXTINF:-1,TR: TRT Diyanet
+http://istars.pro:80/0599655171/HuvOf99spm/172853
+#EXTINF:-1,TR: TRT Belgesel HD
+http://istars.pro:80/0599655171/HuvOf99spm/172854
+#EXTINF:-1,TR: TRT 4K
+http://istars.pro:80/0599655171/HuvOf99spm/172855
+#EXTINF:-1,TR: TRT 2
+http://istars.pro:80/0599655171/HuvOf99spm/172856
+#EXTINF:-1,TR: Çukurova Türk Adana
+http://istars.pro:80/0599655171/HuvOf99spm/172857
+#EXTINF:-1,TR: TMB Tv
+http://istars.pro:80/0599655171/HuvOf99spm/172858
+#EXTINF:-1,TR: TLC HD
+http://istars.pro:80/0599655171/HuvOf99spm/172859
+#EXTINF:-1,TR: Tivibu Türk HD
+http://istars.pro:80/0599655171/HuvOf99spm/172860
+#EXTINF:-1,TR: Tivibu Spor 3
+http://istars.pro:80/0599655171/HuvOf99spm/172861
+#EXTINF:-1,TR: Tivibu Spor 1
+http://istars.pro:80/0599655171/HuvOf99spm/172862
+#EXTINF:-1,TR: Tivibu Spor  2
+http://istars.pro:80/0599655171/HuvOf99spm/172863
+#EXTINF:-1,TR: Tivibu Action HD
+http://istars.pro:80/0599655171/HuvOf99spm/172864
+#EXTINF:-1,TR: TGRT Haber HD
+http://istars.pro:80/0599655171/HuvOf99spm/172865
+#EXTINF:-1,TR: Teve2 HD
+http://istars.pro:80/0599655171/HuvOf99spm/172866
+#EXTINF:-1,TR: Tele 1 Tv
+http://istars.pro:80/0599655171/HuvOf99spm/172867
+#EXTINF:-1,TR: Tay tv
+http://istars.pro:80/0599655171/HuvOf99spm/172868
+#EXTINF:-1,TR: Star Tv Avrupa
+http://istars.pro:80/0599655171/HuvOf99spm/172869
+#EXTINF:-1,TR: Sports Tv HD
+http://istars.pro:80/0599655171/HuvOf99spm/172870
+#EXTINF:-1,TR: Smart Spor 1
+http://istars.pro:80/0599655171/HuvOf99spm/172871
+#EXTINF:-1,TR: Cinebox Kemal Sunal HD
+http://istars.pro:80/0599655171/HuvOf99spm/172872
+#EXTINF:-1,TR: Sinema TV Aile HD
+http://istars.pro:80/0599655171/HuvOf99spm/172873
+#EXTINF:-1,TR: Sinema TV 1001 HD
+http://istars.pro:80/0599655171/HuvOf99spm/172874
+#EXTINF:-1,TR: Sinema TV  HD
+http://istars.pro:80/0599655171/HuvOf99spm/172875
+#EXTINF:-1,TR: Sim Tv Kıbrıs
+http://istars.pro:80/0599655171/HuvOf99spm/172876
+#EXTINF:-1,TR: ShowMax
+http://istars.pro:80/0599655171/HuvOf99spm/172877
+#EXTINF:-1,TR: Show Tv HD
+http://istars.pro:80/0599655171/HuvOf99spm/172878
+#EXTINF:-1,TR: Show Tv Avrupa
+http://istars.pro:80/0599655171/HuvOf99spm/172879
+#EXTINF:-1,TR: Rafadan Tayfa
+http://istars.pro:80/0599655171/HuvOf99spm/172880
+#EXTINF:-1,TR: S Sport HD
+http://istars.pro:80/0599655171/HuvOf99spm/172881
+#EXTINF:-1,TR: S Sport 2 HD
+http://istars.pro:80/0599655171/HuvOf99spm/172882
+#EXTINF:-1,TR: Rumeli tv
+http://istars.pro:80/0599655171/HuvOf99spm/172883
+#EXTINF:-1,TR: Rehber Tv
+http://istars.pro:80/0599655171/HuvOf99spm/172884
+#EXTINF:-1,TR: Power Turk HD
+http://istars.pro:80/0599655171/HuvOf99spm/172885
+#EXTINF:-1,TR: GTV Şanlıurfa
+http://istars.pro:80/0599655171/HuvOf99spm/172886
+#EXTINF:-1,TR: Olay Tv Bursa
+http://istars.pro:80/0599655171/HuvOf99spm/172887
+#EXTINF:-1,TR: Ntv HD
+http://istars.pro:80/0599655171/HuvOf99spm/172888
+#EXTINF:-1,TR: NR 1
+http://istars.pro:80/0599655171/HuvOf99spm/172889
+#EXTINF:-1,TR: Nickelodeon JR
+http://istars.pro:80/0599655171/HuvOf99spm/172890
+#EXTINF:-1,TR: Nickelodeon
+http://istars.pro:80/0599655171/HuvOf99spm/172891
+#EXTINF:-1,TR: NG Wild HD
+http://istars.pro:80/0599655171/HuvOf99spm/172892
+#EXTINF:-1,TR: NG Turkey HD
+http://istars.pro:80/0599655171/HuvOf99spm/172893
+#EXTINF:-1,TR: Nasa Tv
+http://istars.pro:80/0599655171/HuvOf99spm/172894
+#EXTINF:-1,TR: Minica Go
+http://istars.pro:80/0599655171/HuvOf99spm/172895
+#EXTINF:-1,TR: Kanal Fırat Elazığ
+http://istars.pro:80/0599655171/HuvOf99spm/172896
+#EXTINF:-1,TR: Meltem Tv
+http://istars.pro:80/0599655171/HuvOf99spm/172897
+#EXTINF:-1,TR: Maximum TV
+http://istars.pro:80/0599655171/HuvOf99spm/172898
+#EXTINF:-1,TR: Mavi Karadeniz Tv
+http://istars.pro:80/0599655171/HuvOf99spm/172899
+#EXTINF:-1,TR: Kanal 32 Isparta
+http://istars.pro:80/0599655171/HuvOf99spm/172900
+#EXTINF:-1,TR: Lalegül Tv
+http://istars.pro:80/0599655171/HuvOf99spm/172901
+#EXTINF:-1,TR: Kudüs Tv
+http://istars.pro:80/0599655171/HuvOf99spm/172902
+#EXTINF:-1,TR: Krt Kultur Tv
+http://istars.pro:80/0599655171/HuvOf99spm/172903
+#EXTINF:-1,TR: Kral Tv HD
+http://istars.pro:80/0599655171/HuvOf99spm/172904
+#EXTINF:-1,TR: Kral Pop HD
+http://istars.pro:80/0599655171/HuvOf99spm/172905
+#EXTINF:-1,TR: Koza Tv Adana
+http://istars.pro:80/0599655171/HuvOf99spm/172906
+#EXTINF:-1,TR: Kon Tv
+http://istars.pro:80/0599655171/HuvOf99spm/172907
+#EXTINF:-1,TR: ON4 Tv
+http://istars.pro:80/0599655171/HuvOf99spm/172908
+#EXTINF:-1,TR: Kıbrıs Tv
+http://istars.pro:80/0599655171/HuvOf99spm/172909
+#EXTINF:-1,TR: Kemal Sunal Tv 2
+http://istars.pro:80/0599655171/HuvOf99spm/172910
+#EXTINF:-1,TR: Kemal Sunal Tv
+http://istars.pro:80/0599655171/HuvOf99spm/172911
+#EXTINF:-1,TR: Kayseri Tv
+http://istars.pro:80/0599655171/HuvOf99spm/172912
+#EXTINF:-1,TR: Kanal T KKTC
+http://istars.pro:80/0599655171/HuvOf99spm/172913
+#EXTINF:-1,TR: Kanal D Avrupa
+http://istars.pro:80/0599655171/HuvOf99spm/172914
+#EXTINF:-1,TR: Kanal B
+http://istars.pro:80/0599655171/HuvOf99spm/172915
+#EXTINF:-1,TR: Kanal 7 Avrupa
+http://istars.pro:80/0599655171/HuvOf99spm/172916
+#EXTINF:-1,TR: Kanal Urfa
+http://istars.pro:80/0599655171/HuvOf99spm/172917
+#EXTINF:-1,TR: Kaçkar TV Rize
+http://istars.pro:80/0599655171/HuvOf99spm/172918
+#EXTINF:-1,TR: Altaş Tv Ordu
+http://istars.pro:80/0599655171/HuvOf99spm/172919
+#EXTINF:-1,TR: Kanal 3 Isparta
+http://istars.pro:80/0599655171/HuvOf99spm/172920
+#EXTINF:-1,TR: Kanal 43 Kütahya
+http://istars.pro:80/0599655171/HuvOf99spm/172921
+#EXTINF:-1,TR: Kadın Tv
+http://istars.pro:80/0599655171/HuvOf99spm/172922
+#EXTINF:-1,TR: HRT Akdeniz Tv
+http://istars.pro:80/0599655171/HuvOf99spm/172923
+#EXTINF:-1,TR: History HD
+http://istars.pro:80/0599655171/HuvOf99spm/172924
+#EXTINF:-1,TR: Habertürk HD
+http://istars.pro:80/0599655171/HuvOf99spm/172925
+#EXTINF:-1,TR: Haberaks Samsun
+http://istars.pro:80/0599655171/HuvOf99spm/172926
+#EXTINF:-1,TR: Haber Global HD
+http://istars.pro:80/0599655171/HuvOf99spm/172927
+#EXTINF:-1,TR: GS Tv HD
+http://istars.pro:80/0599655171/HuvOf99spm/172928
+#EXTINF:-1,TR: FX Tv
+http://istars.pro:80/0599655171/HuvOf99spm/172929
+#EXTINF:-1,TR: Fox Tv HD
+http://istars.pro:80/0599655171/HuvOf99spm/172930
+#EXTINF:-1,TR: Fox Crime Tv
+http://istars.pro:80/0599655171/HuvOf99spm/172931
+#EXTINF:-1,TR: Filmbox Yesilcam
+http://istars.pro:80/0599655171/HuvOf99spm/172932
+#EXTINF:-1,TR: Filmbox Yerli
+http://istars.pro:80/0599655171/HuvOf99spm/172933
+#EXTINF:-1,TR: Cinebox Animasyon HD
+http://istars.pro:80/0599655171/HuvOf99spm/172934
+#EXTINF:-1,TR: Cinebox Dram HD
+http://istars.pro:80/0599655171/HuvOf99spm/172935
+#EXTINF:-1,TR: Cinebox Bilimkurgu HD
+http://istars.pro:80/0599655171/HuvOf99spm/172936
+#EXTINF:-1,TR: Cinebox Komedi HD
+http://istars.pro:80/0599655171/HuvOf99spm/172937
+#EXTINF:-1,TR: Cinebox Korku HD
+http://istars.pro:80/0599655171/HuvOf99spm/172938
+#EXTINF:-1,TR: Cinebox Aksiyon HD
+http://istars.pro:80/0599655171/HuvOf99spm/172939
+#EXTINF:-1,TR: Cinebox Macera HD
+http://istars.pro:80/0599655171/HuvOf99spm/172940
+#EXTINF:-1,TR: Filmbox Bilimkurgu
+http://istars.pro:80/0599655171/HuvOf99spm/172941
+#EXTINF:-1,TR: Filmbox Kemal Sunal
+http://istars.pro:80/0599655171/HuvOf99spm/172942
+#EXTINF:-1,TR: Filmbox Horror
+http://istars.pro:80/0599655171/HuvOf99spm/172943
+#EXTINF:-1,TR: Filmbox Fantastic
+http://istars.pro:80/0599655171/HuvOf99spm/172944
+#EXTINF:-1,TR: Filmbox Family
+http://istars.pro:80/0599655171/HuvOf99spm/172945
+#EXTINF:-1,TR: Filmbox Drama
+http://istars.pro:80/0599655171/HuvOf99spm/172946
+#EXTINF:-1,TR: Filmbox Comedy
+http://istars.pro:80/0599655171/HuvOf99spm/172947
+#EXTINF:-1,TR: Filmbox Action
+http://istars.pro:80/0599655171/HuvOf99spm/172948
+#EXTINF:-1,TR: FB Tv HD
+http://istars.pro:80/0599655171/HuvOf99spm/172949
+#EXTINF:-1,TR: Fashion Box HD
+http://istars.pro:80/0599655171/HuvOf99spm/172950
+#EXTINF:-1,TR: Es Tv Eskişehir
+http://istars.pro:80/0599655171/HuvOf99spm/172951
+#EXTINF:-1,TR: DRT Denizli
+http://istars.pro:80/0599655171/HuvOf99spm/172952
+#EXTINF:-1,TR: Eko Türk
+http://istars.pro:80/0599655171/HuvOf99spm/172953
+#EXTINF:-1,TR: Ege Türk Tv
+http://istars.pro:80/0599655171/HuvOf99spm/172954
+#EXTINF:-1,TR: Dost Tv
+http://istars.pro:80/0599655171/HuvOf99spm/172955
+#EXTINF:-1,TR: Yıldız Tv
+http://istars.pro:80/0599655171/HuvOf99spm/172956
+#EXTINF:-1,TR: Dmax HD
+http://istars.pro:80/0599655171/HuvOf99spm/172957
+#EXTINF:-1,TR: Dizi Smart HD
+http://istars.pro:80/0599655171/HuvOf99spm/172958
+#EXTINF:-1,TR: Disney JR HD
+http://istars.pro:80/0599655171/HuvOf99spm/172959
+#EXTINF:-1,TR: Discovery Science HD
+http://istars.pro:80/0599655171/HuvOf99spm/172960
+#EXTINF:-1,TR: Discovery IDX HD
+http://istars.pro:80/0599655171/HuvOf99spm/172961
+#EXTINF:-1,TR: Discovery Channel HD
+http://istars.pro:80/0599655171/HuvOf99spm/172962
+#EXTINF:-1,TR: Da Vinci Learning
+http://istars.pro:80/0599655171/HuvOf99spm/172963
+#EXTINF:-1,TR: CNN Turk HD
+http://istars.pro:80/0599655171/HuvOf99spm/172964
+#EXTINF:-1,TR: Can TV
+http://istars.pro:80/0599655171/HuvOf99spm/172965
+#EXTINF:-1,TR: Bursa Tv
+http://istars.pro:80/0599655171/HuvOf99spm/172966
+#EXTINF:-1,TR: BRT 2
+http://istars.pro:80/0599655171/HuvOf99spm/172967
+#EXTINF:-1,TR: Brt 1 HD
+http://istars.pro:80/0599655171/HuvOf99spm/172968
+#EXTINF:-1,TR: Boomerang HD
+http://istars.pro:80/0599655171/HuvOf99spm/172969
+#EXTINF:-1,TR: Beyaz Tv HD
+http://istars.pro:80/0599655171/HuvOf99spm/172970
+#EXTINF:-1,TR: Beyaz Tv
+http://istars.pro:80/0599655171/HuvOf99spm/172971
+#EXTINF:-1,TR: Bereket Tv
+http://istars.pro:80/0599655171/HuvOf99spm/172972
+#EXTINF:-1,TR: Bengütürk
+http://istars.pro:80/0599655171/HuvOf99spm/172973
+#EXTINF:-1,TR: BeinSports 1
+http://istars.pro:80/0599655171/HuvOf99spm/172974
+#EXTINF:-1,TR: Bein Sports - 2 HD
+http://istars.pro:80/0599655171/HuvOf99spm/172975
+#EXTINF:-1,TR: Bein Sports - 3 HD
+http://istars.pro:80/0599655171/HuvOf99spm/172976
+#EXTINF:-1,TR: Bein Sports - 4 HD
+http://istars.pro:80/0599655171/HuvOf99spm/172977
+#EXTINF:-1,TR: BBC HD
+http://istars.pro:80/0599655171/HuvOf99spm/172978
+#EXTINF:-1,TR: BBC Earth
+http://istars.pro:80/0599655171/HuvOf99spm/172979
+#EXTINF:-1,TR: Baby Tv
+http://istars.pro:80/0599655171/HuvOf99spm/172980
+#EXTINF:-1,TR: Çiftçi Tv
+http://istars.pro:80/0599655171/HuvOf99spm/172981
+#EXTINF:-1,TR: Çay Tv Rize
+http://istars.pro:80/0599655171/HuvOf99spm/172982
+#EXTINF:-1,TR: Atv Avrupa
+http://istars.pro:80/0599655171/HuvOf99spm/172983
+#EXTINF:-1,TR: Artı Tv
+http://istars.pro:80/0599655171/HuvOf99spm/172984
+#EXTINF:-1,TR: Animal Planet
+http://istars.pro:80/0599655171/HuvOf99spm/172985
+#EXTINF:-1,TR: AL Quran AR
+http://istars.pro:80/0599655171/HuvOf99spm/172986
+#EXTINF:-1,TR: Akıllı Tv
+http://istars.pro:80/0599655171/HuvOf99spm/172987
+#EXTINF:-1,TR: Akit Tv
+http://istars.pro:80/0599655171/HuvOf99spm/172988
+#EXTINF:-1,TR: Ada Tv
+http://istars.pro:80/0599655171/HuvOf99spm/172989
+#EXTINF:-1,TR: A2 Tv
+http://istars.pro:80/0599655171/HuvOf99spm/172990
+#EXTINF:-1,TR: A Spor HD
+http://istars.pro:80/0599655171/HuvOf99spm/172991
+#EXTINF:-1,TR: A Para HD
+http://istars.pro:80/0599655171/HuvOf99spm/172992
+#EXTINF:-1,TR: A Haber HD
+http://istars.pro:80/0599655171/HuvOf99spm/172993
+#EXTINF:-1,TR: 24 Kitchen
+http://istars.pro:80/0599655171/HuvOf99spm/172994
+#EXTINF:-1,TR: 24 Haber HD+
+http://istars.pro:80/0599655171/HuvOf99spm/172995
+#EXTINF:-1,TR: 24 Haber HD
+http://istars.pro:80/0599655171/HuvOf99spm/172996
+#EXTINF:-1,TR: Tivibu Komedi
+http://istars.pro:80/0599655171/HuvOf99spm/172997
+#EXTINF:-1,TR: Tivibu Action 2 HD
+http://istars.pro:80/0599655171/HuvOf99spm/172998
+#EXTINF:-1,TR: Pamukkale TV
+http://istars.pro:80/0599655171/HuvOf99spm/172999
+#EXTINF:-1,TR: Diyalog Tv Kıbrıs
+http://istars.pro:80/0599655171/HuvOf99spm/173001
+#EXTINF:-1,TR: Disney XD Cbeebies
+http://istars.pro:80/0599655171/HuvOf99spm/173002
+#EXTINF:-1,TR: Chasse Peche
+http://istars.pro:80/0599655171/HuvOf99spm/173003
+#EXTINF:-1,TR: Animaux
+http://istars.pro:80/0599655171/HuvOf99spm/173004
