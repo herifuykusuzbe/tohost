@@ -1,659 +1,335 @@
 #EXTM3U
-#EXTINF:-1,TR: TRT 1 HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44651
-#EXTINF:-1,TR: TRT 4K (1080)
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44652
-#EXTINF:-1,TR: ATV HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44653
-#EXTINF:-1,TR: STAR TV HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44654
-#EXTINF:-1,TR: SHOW TV HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44655
-#EXTINF:-1,TR: KANAL D HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44656
-#EXTINF:-1,TR: FOX TV HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44657
-#EXTINF:-1,TR: TV8 HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44658
-#EXTINF:-1,TR: TV8.5 HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44659
-#EXTINF:-1,TR: BEYAZ TV HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44660
-#EXTINF:-1,TR: KANAL 7 HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44661
-#EXTINF:-1,TR: TEVE 2 HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44662
-#EXTINF:-1,TR: A HABER HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44663
-#EXTINF:-1,TR: TV 360 HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44664
-#EXTINF:-1,TR: KANAL B
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44665
-#EXTINF:-1,TR: ANIMAL PLANET HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44666
-#EXTINF:-1,TR: CHASSE ET PECHE HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44667
-#EXTINF:-1,TR: National Geographic Wild Hd
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44668
-#EXTINF:-1,TR: National Geographic People HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44669
-#EXTINF:-1,TR: National Geographic  HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44670
-#EXTINF:-1,TR: VIASAT HISTORY HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44671
-#EXTINF:-1,TR: HISTORY CHANNEL HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44672
-#EXTINF:-1,TR: DA VINCI LEARNING
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44673
-#EXTINF:-1,TR: DISCOVERY SCIENSE HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44674
-#EXTINF:-1,TR: DISCOVERY CHANNEL HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44675
-#EXTINF:-1,TR | BEIN SPORTS 1 4K/FHD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44676
-#EXTINF:-1,TR | BEIN SPORTS 3 FHD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44677
-#EXTINF:-1,TR | BEIN SPORTS Max 2 HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44678
-#EXTINF:-1,TR: S-SPORT HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44679
-#EXTINF:-1,TR: SMART SPOR HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44680
-#EXTINF:-1,TR: A SPOR HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44683
-#EXTINF:-1,TR: TRT SPOR HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44684
-#EXTINF:-1,TR: FX HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44685
-#EXTINF:-1,TR: FOX CRIME HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44686
-#EXTINF:-1,TR | BEIN Movies Turk HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44687
-#EXTINF:-1,TR | BEIN Movies Stars FHD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44688
-#EXTINF:-1,TR | BEIN Movies Action FHD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44689
-#EXTINF:-1,TR | BEIN Movies Action 2 FHD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44690
-#EXTINF:-1,TR | BEIN Movies Premiere HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44691
-#EXTINF:-1,TR | BEIN Movies Premier 2 HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44692
-#EXTINF:-1,TR | BEIN Series Vice FHD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44693
-#EXTINF:-1,TR | BEIN Series Sci-Fi FHD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44694
-#EXTINF:-1,TR | BEIN Series Drama FHD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44695
-#EXTINF:-1,TR |  BEIN Series Comedy FHD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44696
-#EXTINF:-1,TR: MOVIESMART TURK HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44697
-#EXTINF:-1,TR: MOVIESMART PREMIUM HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44698
-#EXTINF:-1,TR: MOVIESMART PREMIUM 2 HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44699
-#EXTINF:-1,TR: MOVIESMART PLATIN HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44700
-#EXTINF:-1,TR: MOVIESMART PLATIN 2 HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44701
-#EXTINF:-1,TR: MOVIESMART GOLD HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44702
-#EXTINF:-1,TR: MOVIESMART FEST HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44703
-#EXTINF:-1,TR: MOVIESMART FAMILY HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44704
-#EXTINF:-1,TR: MOVIESMART ACTION HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44705
-#EXTINF:-1,TR: SINEMA TV HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44706
-#EXTINF:-1,TR: SINEMA TV YERLI 1 HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44707
-#EXTINF:-1,TR: SINEMA TV AILE 1 HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44708
-#EXTINF:-1,TR: SINEMA TV 1001 HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44709
-#EXTINF:-1,TR: SINEMA TV KOMEDI 1 HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44710
-#EXTINF:-1,TR: SINEMA TV AKSIYON 1 HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44711
-#EXTINF:-1,TR: FiberBox Turk HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44712
-#EXTINF:-1,TR: FiberBox Komedi HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44713
-#EXTINF:-1,TR: FiberBox Korku HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44714
-#EXTINF:-1,TR: Fiber Aksiyon HD (ALTYAZI)
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44715
-#EXTINF:-1,TR: FiberBox Aksiyon HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44716
-#EXTINF:-1,TR: FiberBox Dram HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44717
-#EXTINF:-1,TR: FiberBox Fantastik HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44718
-#EXTINF:-1,TR: FiberBox Yesilcam HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44719
-#EXTINF:-1,TR: FILMBOX NOSTALGIL HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44720
-#EXTINF:-1,TR: FILMBOX FESTIVAL HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44721
-#EXTINF:-1,TR: FILMBOX STARS HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44722
-#EXTINF:-1,TR: FILMBOX PREMIER HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44723
-#EXTINF:-1,TR: FILMBOX GOLD HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44724
-#EXTINF:-1,TR: FILMBOX 4K UHD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44725
-#EXTINF:-1,TR: FILMBOX YESILCAM HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44726
-#EXTINF:-1,TR: FILMBOX TURK HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44727
-#EXTINF:-1,TR: SINEMA TV 2 HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44728
-#EXTINF:-1,TR: SINEMA TV AILE 2 HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44729
-#EXTINF:-1,TR: SINEMA TV AKSIYON 2 HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44730
-#EXTINF:-1,TR: SINEMA TV KOMEDI 2 HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44731
-#EXTINF:-1,TR: SINEMA TV YERLI 2 HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44732
-#EXTINF:-1,TR | BEIN SPORTS Haber HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44736
-#EXTINF:-1,TR | BEIN SPORTS 1 FHD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44737
-#EXTINF:-1,TR | BEIN SPORTS 1 HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44738
-#EXTINF:-1,TR | BEIN SPORTS 3 HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44739
-#EXTINF:-1,TR | BEIN SPORTS Haber FHD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44740
-#EXTINF:-1,TR | BEIN SPORTS 2 HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44741
-#EXTINF:-1,TR | BEIN SPORTS 4 HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44742
-#EXTINF:-1,TR | BEIN SPORTS Max 1 HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44743
-#EXTINF:-1,TR | BEIN SPORTS Max 2 SD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44744
-#EXTINF:-1,TR | TIVIBU SPOR 1 HD (Local)
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44745
-#EXTINF:-1,TR | TIVIBU SPOR 2 HD (Local)
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44746
-#EXTINF:-1,TR | TIVIBU SPOR 3 HD (Local)
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44747
-#EXTINF:-1,TR | S-SPORT 2 HD (Local)
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44748
-#EXTINF:-1,TR | NBA TV HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44749
-#EXTINF:-1,TR | TRT SPOR 2 HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44750
-#EXTINF:-1,TR | FB TV HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44751
-#EXTINF:-1,TR | GS TV HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44752
-#EXTINF:-1,TR | TAY TV HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44753
-#EXTINF:-1,TR | TRT 2 HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44761
-#EXTINF:-1,TR | TRT AVAZ
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44762
-#EXTINF:-1,TR | TRT TURK HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44763
-#EXTINF:-1,TR | TRT WORLD HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44764
-#EXTINF:-1,TR | TRT Diyanet TV
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44765
-#EXTINF:-1,TR | A2 TV HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44766
-#EXTINF:-1,TR | BeIN IZ FHD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44836
-#EXTINF:-1,TR | BEIN GURME HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44838
-#EXTINF:-1,TR: FILMBOX SINEVIZYON 9
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44873
-#EXTINF:-1,TR: FILMBOX SINEVIZYON 8
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44874
-#EXTINF:-1,TR: FILMBOX SINEVIZYON 7
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44875
-#EXTINF:-1,TR: FILMBOX SINEVIZYON 6
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44876
-#EXTINF:-1,TR: FILMBOX SINEVIZYON 5
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44877
-#EXTINF:-1,TR: FILMBOX SINEVIZYON 4
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44878
-#EXTINF:-1,TR: FILMBOX SINEVIZYON 3
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44879
-#EXTINF:-1,TR: FILMBOX SINEVIZYON 20
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44880
-#EXTINF:-1,TR: FILMBOX SINEVIZYON 2
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44881
-#EXTINF:-1,TR: FILMBOX SINEVIZYON 19
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44882
-#EXTINF:-1,TR: FILMBOX SINEVIZYON 18
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44883
-#EXTINF:-1,TR: FILMBOX SINEVIZYON 17
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44884
-#EXTINF:-1,TR: FILMBOX SINEVIZYON 16
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44885
-#EXTINF:-1,TR: FILMBOX SINEVIZYON 15
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44886
-#EXTINF:-1,TR: FILMBOX SINEVIZYON 14
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44887
-#EXTINF:-1,TR: FILMBOX SINEVIZYON 13
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44888
-#EXTINF:-1,TR: FILMBOX SINEVIZYON 12
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44889
-#EXTINF:-1,TR: FILMBOX SINEVIZYON 11
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44890
-#EXTINF:-1,TR: FILMBOX SINEVIZYON 10
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44891
-#EXTINF:-1,TR: FILMBOX SINEVIZYON 1
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44892
-#EXTINF:-1,TR | TIVIBU SPOR 4 HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44909
-#EXTINF:-1,TR | BEIN SPORTS 1 FHD HEVC
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44910
-#EXTINF:-1,TR | BEIN SPORTS 1 SD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44911
-#EXTINF:-1,TR | BEIN SPORTS 2 FHD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44912
-#EXTINF:-1,TR | BEIN SPORTS 3 FHD HEVC
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44913
-#EXTINF:-1,TR | BEIN SPORTS 4 FHD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44914
-#EXTINF:-1,TR: S SPORT 1 HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44915
-#EXTINF:-1,TR: S SPORT 1 UHD++
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44916
-#EXTINF:-1,TR: S SPORT 2 HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44917
-#EXTINF:-1,TR: S SPORT 2 UHD++
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44918
-#EXTINF:-1,TR: SPOR SMART HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44919
-#EXTINF:-1,TR: SPOR SMART UHD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44920
-#EXTINF:-1,TR: SPOR SMART UHD+
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44921
-#EXTINF:-1,TR: SPOR SMART UHD++
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44922
-#EXTINF:-1,TR: SPOR SMART 2 (MAÇTA AKTİF)
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44923
-#EXTINF:-1,TR: SPORTS TV
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44924
-#EXTINF:-1,TR: AUTOMOTO
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44925
-#EXTINF:-1,TR: FIGHT BOX
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44926
-#EXTINF:-1,TR: TJK TV
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44927
-#EXTINF:-1,TR: TRT 4K
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44928
-#EXTINF:-1,TR: TV 8 HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44929
-#EXTINF:-1,TR: TV 8 FHD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44930
-#EXTINF:-1,TR: TV 8.5 HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44931
-#EXTINF:-1,TR: DMAX
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44932
-#EXTINF:-1,TR: TV 100
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44933
-#EXTINF:-1,TR: TV 5
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44934
-#EXTINF:-1,TR: 24 TV
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44935
-#EXTINF:-1,TR: AFYON TURK
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44936
-#EXTINF:-1,TR | BEIN Movies Family FHD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44937
-#EXTINF:-1,TR | BEIN BOX OFFICE 1 FHD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44938
-#EXTINF:-1,TR | BEIN BOX OFFICE 2 FHD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44939
-#EXTINF:-1,TR | BEIN BOX OFFICE 3 FHD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44940
-#EXTINF:-1,TR: BOSS MOVIES 1
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44941
-#EXTINF:-1,TR: BOSS MOVIES 2
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44942
-#EXTINF:-1,TR: BOSS MOVIES 3
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44943
-#EXTINF:-1,TR: BOSS MOVIES 4
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44944
-#EXTINF:-1,TR: BOSS MOVIES 5
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44945
-#EXTINF:-1,TR: BOSS MOVIES 6
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44946
-#EXTINF:-1,TR: BOSS MOVIES 7
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44947
-#EXTINF:-1,TR: BOSS MOVIES 8
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44948
-#EXTINF:-1,TR: BOSS MOVIES 9
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44949
-#EXTINF:-1,TR: BOSS MOVIES 10
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44950
-#EXTINF:-1,TR: BOSS KEMAL SUNAL
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44951
-#EXTINF:-1,TR: DIZI SMART MAX
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44952
-#EXTINF:-1,TR: ELIT MOVIES ACTION
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44953
-#EXTINF:-1,TR: ELIT MOVIES FAMILY
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44954
-#EXTINF:-1,TR: ELIT MOVIES FESTIVAL
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44955
-#EXTINF:-1,TR: ELIT SINEMA AKSIYON
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44956
-#EXTINF:-1,TR: ELIT SINEMA 1002
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44957
-#EXTINF:-1,TR: ELIT SINEMA YERLI 1
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44958
-#EXTINF:-1,TR: ELIT SINEMA YERLI 2
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44959
-#EXTINF:-1,TR: ELIT KORKU
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44960
-#EXTINF:-1,TR: ENO AILE
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44961
-#EXTINF:-1,TR: ENO AKSIYON 1
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44962
-#EXTINF:-1,TR: ENO AKSIYON 2
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44963
-#EXTINF:-1,TR: ENO AKSIYON 3
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44964
-#EXTINF:-1,TR: ENO AKSIYON 4
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44965
-#EXTINF:-1,TR: ENO BILIM KURGU
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44966
-#EXTINF:-1,TR: ENO BILIM KURGU 2
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44967
-#EXTINF:-1,TR: ENOFLIX 1
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44968
-#EXTINF:-1,TR: ENOFLIX 2
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44969
-#EXTINF:-1,TR: ENOFLIX 3
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44970
-#EXTINF:-1,TR: ENO KOMEDI
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44971
-#EXTINF:-1,TR: ENO TURK
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44972
-#EXTINF:-1,TR: ENO YESILCAM
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44973
-#EXTINF:-1,TR: FIBERBOX KEMAL SUNAL
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44974
-#EXTINF:-1,TR: FILMBOX AKSIYON
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44975
-#EXTINF:-1,TR: FILMBOX AILE
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44976
-#EXTINF:-1,TR: FILMBOX BILIM KURGU
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44977
-#EXTINF:-1,TR: FILMBOX DRAM
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44978
-#EXTINF:-1,TR: FILMBOX FANTASTIK
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44979
-#EXTINF:-1,TR: FILMBOX KOMEDI
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44980
-#EXTINF:-1,TR: FILMBOX KORKU
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44981
-#EXTINF:-1,TR: FILMBOX KEMAL SUNAL
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44982
-#EXTINF:-1,TR: FOX AILE
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44983
-#EXTINF:-1,TR: GOLD AKSIYON
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44984
-#EXTINF:-1,TR: GOLD DOVUS
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44985
-#EXTINF:-1,TR: GOLD DRAM
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44986
-#EXTINF:-1,TR: GOLD GERILIM
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44987
-#EXTINF:-1,TR: GOLD KEMAL SUNAL 1
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44988
-#EXTINF:-1,TR: GOLD KEMAL SUNAL 2
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44989
-#EXTINF:-1,TR: GOLD KEMAL SUNAL 3
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44990
-#EXTINF:-1,TR: GOLD KORKU
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44991
-#EXTINF:-1,TR: GOLD KOMEDI
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44992
-#EXTINF:-1,TR: GOLD MACERA
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44993
-#EXTINF:-1,TR: GOLD WESTERN
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44994
-#EXTINF:-1,TR: GOLD YERLI 1
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44995
-#EXTINF:-1,TR: GOLD YERLI 2
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44996
-#EXTINF:-1,TR: GOLD YERLI 3
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44997
-#EXTINF:-1,TR: GOLD YERLI 4
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44998
-#EXTINF:-1,TR: GOLD YERLI 5
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44999
-#EXTINF:-1,TR: MARVEL STUDIOS - BILGI
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45000
-#EXTINF:-1,TR: MARVEL STUDIOS 1
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45001
-#EXTINF:-1,TR: MARVEL STUDIOS 2
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45002
-#EXTINF:-1,TR: MARVEL STUDIOS 3
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45003
-#EXTINF:-1,TR: MARVEL STUDIOS 4
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45004
-#EXTINF:-1,TR: MARVEL STUDIOS 5
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45005
-#EXTINF:-1,TR: MARVEL STUDIOS 6
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45006
-#EXTINF:-1,TR: MARVEL STUDIOS 7
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45007
-#EXTINF:-1,TR: MARVEL STUDIOS 8
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45008
-#EXTINF:-1,TR: MARVEL STUDIOS 9
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45009
-#EXTINF:-1,TR: MARVEL STUDIOS 10
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45010
-#EXTINF:-1,TR: MAX 007
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45011
-#EXTINF:-1,TR: MAX 4K
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45012
-#EXTINF:-1,TR: MAX AKSIYON
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45013
-#EXTINF:-1,TR: MAX AKSIYON 2
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45014
-#EXTINF:-1,TR: MAX GOLD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45015
-#EXTINF:-1,TR: MAX ORJINAL
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45016
-#EXTINF:-1,TR: MAX PREMIER
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45017
-#EXTINF:-1,TR: MAX PREMIER 2
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45018
-#EXTINF:-1,TR: MAX PLUS
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45019
-#EXTINF:-1,TR: MAX TURK
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45020
-#EXTINF:-1,TR: MAX VIZYON
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45021
-#EXTINF:-1,TR: MAX VIZYON 2
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45022
-#EXTINF:-1,TR: MAX VIZYON 3
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45023
-#EXTINF:-1,TR: MAX VIZYON 4
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45024
-#EXTINF:-1,TR: MAX WESTERN
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45025
-#EXTINF:-1,TR: NETSERVER 1
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45026
-#EXTINF:-1,TR: NETSERVER 2
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45027
-#EXTINF:-1,TR: NETSERVER 3
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45028
-#EXTINF:-1,TR: NETSERVER 4
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45029
-#EXTINF:-1,TR: NETSERVER 5
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45030
-#EXTINF:-1,TR: NEXTBOX 4K
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45031
-#EXTINF:-1,TR: NEXTBOX LOCA 1
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45032
-#EXTINF:-1,TR: NEXTBOX LOCA 2
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45033
-#EXTINF:-1,TR: NEXTBOX SCARY
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45034
-#EXTINF:-1,TR: NEXTBOX NOSTALJI
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45035
-#EXTINF:-1,TR: NEXTBOX SUBTITLE
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45036
-#EXTINF:-1,TR: PRIMEBOX AKSIYON 1
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45037
-#EXTINF:-1,TR: PRIMEBOX AKSIYON 2
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45038
-#EXTINF:-1,TR: PRIMEBOX KOMEDI
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45039
-#EXTINF:-1,TR: PRIMEBOX KORKU
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45040
-#EXTINF:-1,TR: PRIMEBOX TURK 1
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45041
-#EXTINF:-1,TR: PRIMEBOX TURK 2
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45042
-#EXTINF:-1,TR: PRIMEBOX VIZYON
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45043
-#EXTINF:-1,TR: PRIMEBOX YESILCAM
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45044
-#EXTINF:-1,TR: SINEVIP SINEMA TV
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45045
-#EXTINF:-1,TR: SINEVIP SINEMA 1001
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45046
-#EXTINF:-1,TR: SINEVIP SINEMA 1002
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45047
-#EXTINF:-1,TR: SINEVIP SINEMA AILE
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45048
-#EXTINF:-1,TR: SINEVIP SINEMA AKSIYON
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45049
-#EXTINF:-1,TR: SINEVIP SINEMA AKSIYON 2
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45050
-#EXTINF:-1,TR: SINEVIP SINEMA KOMEDI
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45051
-#EXTINF:-1,TR: SINEVIP SINEMA KOMEDI 2
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45052
-#EXTINF:-1,TR: SINEVIP SINEMA YERLI
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45053
-#EXTINF:-1,TR: SINEVIP SINEMA YERLI 2
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45054
-#EXTINF:-1,TR: SINEVID SENER SEN TV
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45055
-#EXTINF:-1,TR: SINEMAX KOMEDI
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45056
-#EXTINF:-1,TR: SINEMAX WESTERN
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45057
-#EXTINF:-1,TR: SMART LOCA
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45058
-#EXTINF:-1,TR: SKYTURK 4K
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45059
-#EXTINF:-1,TR: SKYTURK AILE
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45060
-#EXTINF:-1,TR: SKYTURK AKSIYON
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45061
-#EXTINF:-1,TR: SKYTURK GERILIM
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45062
-#EXTINF:-1,TR: SKYTURK SAVAS
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45063
-#EXTINF:-1,TR: STAR KOMEDI
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45064
-#EXTINF:-1,TR: STAR AILE
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45065
-#EXTINF:-1,TR: STAR AKSIYON
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45066
-#EXTINF:-1,TR: STAR DRAMA
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45067
-#EXTINF:-1,TR: STAR FANTASTIK
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45068
-#EXTINF:-1,TR: STAR GOLD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45069
-#EXTINF:-1,TR: STAR KORKU
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45070
-#EXTINF:-1,TR: STAR MACERA
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45071
-#EXTINF:-1,TR: STAR OSCAR
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45072
-#EXTINF:-1,TR: STAR PREMIER
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45073
-#EXTINF:-1,TR: STAR TURK
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45074
-#EXTINF:-1,TR: SINEMAX DRAMA
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45075
-#EXTINF:-1,TR: SINEMAX KORKU
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45076
-#EXTINF:-1,TR: SINEMAX VIZYON 1
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45077
-#EXTINF:-1,TR: SINEMAX VIZYON 3
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45078
-#EXTINF:-1,TR: SINEMAX VIZYON 4
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45079
-#EXTINF:-1,TR: SINEMAX VIZYON 5
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45080
-#EXTINF:-1,TR: VIZIOON AILE
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45081
-#EXTINF:-1,TR: VIZIOON FESTIVAL
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45082
-#EXTINF:-1,TR: VIZIOON PREMIER
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45083
-#EXTINF:-1,TR: VIZIOON PREMIER 2
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45084
-#EXTINF:-1,TR: CHASSE PEACHE
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45085
-#EXTINF:-1,TR: DISCOVERY ID
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45086
-#EXTINF:-1,TR: DTX
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45087
-#EXTINF:-1,TR: LOVE NATURE
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45088
-#EXTINF:-1,TR: OUTDOOR CHANNEL
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45089
-#EXTINF:-1,TR: SCIENCE VIE
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45090
-#EXTINF:-1,TR: ANIMIX 1
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45091
-#EXTINF:-1,TR: ANIMIX 2
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45092
-#EXTINF:-1,TR: BOSS ANIMASYON
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45093
-#EXTINF:-1,TR: BOSS DISNEY
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45094
-#EXTINF:-1,TR: DISNEY XD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45095
-#EXTINF:-1,TR: FIBERBOX ANIMASYON
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45096
-#EXTINF:-1,TR: MAX ANIMASYON 1
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45097
-#EXTINF:-1,TR: MAX ANIMASYON 2
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45098
-#EXTINF:-1,TR: NICKELODEON
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45099
-#EXTINF:-1,TR: NEXTBOX ANIMASYON
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45100
-#EXTINF:-1,TR: NETSERVER ANIMASYON
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45101
-#EXTINF:-1,TR: NETSERVER ANIMASYON 2
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45102
-#EXTINF:-1,TR: NETSERVER ANIMASYON 3
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45103
-#EXTINF:-1,TR: NETSERVER ANIMASYON 4
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45104
-#EXTINF:-1,TR: NETSERVER ANIMASYON 5
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45105
-#EXTINF:-1,TR: NETSERVER ANIMASYON 6
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45106
-#EXTINF:-1,TR: SMART COCUK
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45107
-#EXTINF:-1,TR: SIRINLER 7/24
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45108
-#EXTINF:-1,TR: FASHION TV
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45109
-#EXTINF:-1,TR: FASHION MIDNIGHT*
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45110
-#EXTINF:-1,TR | BEIN SPORTS Max 1 FHD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45111
+#EXTINF:-1,TR| ATV
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10792
+#EXTINF:-1,TR| A HABER
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10791
+#EXTINF:-1,TR| KANAL D
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10762
+#EXTINF:-1,TR| STAR TV
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10725
+#EXTINF:-1,TR| SHOW TV
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10794
+#EXTINF:-1,TR| TRT 1
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10790
+#EXTINF:-1,TR| TRT AVAZ
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10789
+#EXTINF:-1,TR| TRT BELGESEL
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10788
+#EXTINF:-1,TR| TRT COCUK
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10787
+#EXTINF:-1,TR| TRT DIYANET
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10786
+#EXTINF:-1,TR| TRT HABER
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10785
+#EXTINF:-1,TR| TRT MUZIK
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10784
+#EXTINF:-1,TR| TRT SPOR
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10783
+#EXTINF:-1,TR| TRT WORLD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10782
+#EXTINF:-1,TR| TURKMAX GURME
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10781
+#EXTINF:-1,TR| HABERTURK
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10780
+#EXTINF:-1,TR| BLOOMBERG
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10778
+#EXTINF:-1,TR| CNN TURK
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10777
+#EXTINF:-1,TR| KANAL 24
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10764
+#EXTINF:-1,TR| KANAL 7
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10763
+#EXTINF:-1,TR| A2
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10758
+#EXTINF:-1,TR| TLC SD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10776
+#EXTINF:-1,TR| TV4
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10775
+#EXTINF:-1,TR| TV8
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10774
+#EXTINF:-1,TR| TV8.5
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10773
+#EXTINF:-1,TR| TVEM
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10772
+#EXTINF:-1,TR| TVNET
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10771
+#EXTINF:-1,TR| ULKE TV
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10770
+#EXTINF:-1,TR| YABAN TV
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10768
+#EXTINF:-1,TR| 24 TV
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10760
+#EXTINF:-1,TR| 360 TV
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10761
+#EXTINF:-1,TR| BENGU TURK TV
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10759
+#EXTINF:-1,TR| BEYAZ TV
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10757
+#EXTINF:-1,TR| FOX CRIME TV
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10734
+#EXTINF:-1,TR| FOX LIFE TV
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10733
+#EXTINF:-1,TR| FOX TV
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10732
+#EXTINF:-1,TR| FX
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10731
+#EXTINF:-1,TR| TGRT HABER
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10755
+#EXTINF:-1,TR|  FX HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10726
+#EXTINF:-1,TR| NTV HABER
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10756
+#EXTINF:-1,TR| NUMBER1 TURK
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10729
+#EXTINF:-1,TR| POWERTURK
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10728
+#EXTINF:-1,TR| TLC
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10730
+#EXTINF:-1,TR| Baby TV
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10754
+#EXTINF:-1,TR| Boomerang
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10753
+#EXTINF:-1,TR| Disney
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10751
+#EXTINF:-1,TR| Disney Junior
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10750
+#EXTINF:-1,TR| Disney XD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10749
+#EXTINF:-1,TR| Nickelodeon
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10746
+#EXTINF:-1,TR| Nick Jr
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10745
+#EXTINF:-1,TR| Minika Cocuk
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10748
+#EXTINF:-1,TR| MINIKA GO
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10747
+#EXTINF:-1,TR| NATIONAL GEO
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10744
+#EXTINF:-1,TR| NATIONAL GEO PEOPLE
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10743
+#EXTINF:-1,TR| NATIONAL GEO WILD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10742
+#EXTINF:-1,TR| ANIMAL PLANET TR
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10741
+#EXTINF:-1,TR| DISCOVERY
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10740
+#EXTINF:-1,TR| DISCOVERY SHOWCASE
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10739
+#EXTINF:-1,TR| DISCOVERY SCIENCE
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10738
+#EXTINF:-1,TR| DTX
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10737
+#EXTINF:-1,TR| HISTORY
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10736
+#EXTINF:-1,TR| beIN BOX OFFICE 1
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10724
+#EXTINF:-1,TR| beIN BOX OFFICE 2
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10723
+#EXTINF:-1,TR| beIN BOX OFFICE 3
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10722
+#EXTINF:-1,TR| BEIN MOVIE Turk HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/12361
+#EXTINF:-1,TR| BEIN MOVIES COMEDY HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/12360
+#EXTINF:-1,TR| BEIN MOVIES FESTIVAL HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/12359
+#EXTINF:-1,TR| BEIN MOVIES PREMIER HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/27836
+#EXTINF:-1,TR| BEINMOVIES ACTION
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/27834
+#EXTINF:-1,TR| BEINMOVIES ACTION HD2
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/27837
+#EXTINF:-1,TR| BEINMOVIES FAMILY HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/27833
+#EXTINF:-1,TR| BEINMOVIES PREMIER HD2
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/27838
+#EXTINF:-1,TR| BEINMOVIES STARS HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/27832
+#EXTINF:-1,TR| FilmHD 01
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10721
+#EXTINF:-1,TR| FilmHD 02
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10720
+#EXTINF:-1,TR| FilmHD 03
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10719
+#EXTINF:-1,TR| FilmHD 04
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10718
+#EXTINF:-1,TR| FilmHD 05
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10717
+#EXTINF:-1,TR| FilmHD 06
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10716
+#EXTINF:-1,TR| FilmHD 07
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10715
+#EXTINF:-1,TR| FilmHD 08
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10714
+#EXTINF:-1,TR| FilmHD 09
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10713
+#EXTINF:-1,TR| FilmHD 10
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10711
+#EXTINF:-1,TR| FilmHD 11
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10710
+#EXTINF:-1,TR| FilmHD 12
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10709
+#EXTINF:-1,TR| FilmHD 13
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10708
+#EXTINF:-1,TR| FilmHD 14
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10703
+#EXTINF:-1,TR| FILMBOX- ANIMASYON
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10712
+#EXTINF:-1,TR| Movies Action HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/75730
+#EXTINF:-1,TR| Movies Action 2 HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/75750
+#EXTINF:-1,TR| SINEMA  TV  HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10766
+#EXTINF:-1,TR| SINEMA TV 1001 HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10767
+#EXTINF:-1,TR| SINEMA TV 1002 HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10769
+#EXTINF:-1,TR| SINEMA TV YERLI HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10707
+#EXTINF:-1,TR| SINEMA TV KOMEDI 2HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10706
+#EXTINF:-1,TR| SINEMA TV AILE HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10705
+#EXTINF:-1,TR|  SINEMA TV ACTION HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10704
+#EXTINF:-1,TR| beIN HABER
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10702
+#EXTINF:-1,TR| beINSPORT 1 FHD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10698
+#EXTINF:-1,TR| beINSPORT 1 HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10701
+#EXTINF:-1,TR| beINSPORT 2 FHD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10697
+#EXTINF:-1,TR| beINSPORT 2 HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10700
+#EXTINF:-1,TR| beINSPORT 3 FHD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10696
+#EXTINF:-1,TR| beINSPORT 3 HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10699
+#EXTINF:-1,TR| beINSPORT 4 FHD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10695
+#EXTINF:-1,TR| beINSPORT 4 HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/44446
+#EXTINF:-1,TR| beIN SPORT MAX  1 FHD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/44444
+#EXTINF:-1,TR| beIN SPORT MAX  1 HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/44442
+#EXTINF:-1,TR| beIN SPORT MAX  2 FHD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/44445
+#EXTINF:-1,TR| beIN SPORT MAX  2 HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/44443
+#EXTINF:-1,TR| Smart Spor 1
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10688
+#EXTINF:-1,TR| TIVIBU SPOR 2 HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/54287
+#EXTINF:-1,TR| TIVIBU SPOR 3 HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/54288
+#EXTINF:-1,TR| TIVIBU SPOR 1 HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/54289
+#EXTINF:-1,TR| A SPOR
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10694
+#EXTINF:-1,TR| S-SPORT
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10689
+#EXTINF:-1,TR| NBA TV
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10690
+#EXTINF:-1,TR| NTV SPOR
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/10693
+#EXTINF:-1,TR| SineMax Comedy HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/12367
+#EXTINF:-1,TR| SineMax Drama HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/12366
+#EXTINF:-1,TR| SineMax Family HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/12365
+#EXTINF:-1,TR| SineMax Fear HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/12364
+#EXTINF:-1,TR| SineMax Nostalgia HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/12363
+#EXTINF:-1,TR| SineMax Turk HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/12362
+#EXTINF:-1,TR| MOVIESMART TURK HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/12378
+#EXTINF:-1,TR| MOVIESMART PLATIN HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/27831
+#EXTINF:-1,TR| MOVIESMART PREMIUM HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/27830
+#EXTINF:-1,TR| TURKMAX GURME HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/27829
+#EXTINF:-1,TR| MOVIESMART PREMIUM HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/12377
+#EXTINF:-1,TR| MOVIESMART PLATIN 2 HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/12376
+#EXTINF:-1,TR| MOVIESMART GOLD HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/12375
+#EXTINF:-1,TR| MOVIESMART FEST HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/12374
+#EXTINF:-1,TR| MOVIESMART FAMILY HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/12373
+#EXTINF:-1,TR| MOVIESMART FAMLY HD+
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/12372
+#EXTINF:-1,TR| MOVIESMART ACTİON HD+
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/12371
+#EXTINF:-1,TR| MOVİESMART PREMİUM HD+
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/12370
+#EXTINF:-1,TR| MaGicBoX Western HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/12369
+#EXTINF:-1,TR| MaGicBoX  Yerli HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/12368
+#EXTINF:-1,TR| FILMHD SALONDA NE VAR
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/55185
+#EXTINF:-1,TR|  Action TV
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/133884
+#EXTINF:-1,TR|  AILE SINEMA
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/133866
+#EXTINF:-1,TR|  Bilim Kurgu 1
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/133875
+#EXTINF:-1,TR|  Bilim Kurgu 2
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/133876
+#EXTINF:-1,TR|  Bollywood TV
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/133879
+#EXTINF:-1,TR|  BOX OFFICE  1
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/133863
+#EXTINF:-1,TR|  BOX OFFICE 2
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/133864
+#EXTINF:-1,TR|  BOX OFFICE 3
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/133865
+#EXTINF:-1,TR|  Gerilim Plus HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/133880
+#EXTINF:-1,TR|  Korku Plus HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/133881
+#EXTINF:-1,TR|  Korku Series 1
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/133867
+#EXTINF:-1,TR|  Korku Series 2
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/133868
+#EXTINF:-1,TR|  Movies Comedy HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/133890
+#EXTINF:-1,TR|  Movies Family HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/133889
+#EXTINF:-1,TR|  Movies Festival HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/133888
+#EXTINF:-1,TR|  Movies Premier 2 HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/133887
+#EXTINF:-1,TR|  Movies Premier HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/133886
+#EXTINF:-1,TR|  Movies Stars HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/133885
+#EXTINF:-1,TR|  Oscar Plus HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/133882
+#EXTINF:-1,TR|  Sinema Yerli 1
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/133877
+#EXTINF:-1,TR|  Sinema Yerli 2
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/133878
+#EXTINF:-1,TR|  Smart Classic
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/133874
+#EXTINF:-1,TR|  Smart Turk
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/133873
+#EXTINF:-1,TR|  Turk Plus HD
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/133883
+#EXTINF:-1,TR|  Yesilcam Plus
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/133872
+#EXTINF:-1,TR|  Yesilcam Series 1
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/133869
+#EXTINF:-1,TR|  Yesilcam Series 2
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/133870
+#EXTINF:-1,TR|  Yesilcam Series 3
+http://grtsa.sralm87.com:2082/Mohamed77_024038/3NeI9osL/133871
