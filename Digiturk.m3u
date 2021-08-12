@@ -1,497 +1,627 @@
 #EXTM3U
-#EXTINF:-1,TR: beIN Sports 1 HD
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/73093
-#EXTINF:-1,TR: beIN Sports 1 FULLHD
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54531
-#EXTINF:-1,TR: BEIN SPORT 1 UHD
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54532
-#EXTINF:-1,TR: BEIN SPORT 1 H265 4K
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54535
-#EXTINF:-1,TR: beIN Sports 1 SD
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54533
-#EXTINF:-1,TR: beIN Sports 1  YEDEK 1
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54534
-#EXTINF:-1,TR: beIN Sports 2 FULLHD
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54536
-#EXTINF:-1,TR: BEIN SPORTS 2 UHD
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54537
-#EXTINF:-1,TR: beIN Sports 2 SD
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54538
-#EXTINF:-1,TR: beIN Sports 2 YEDEK
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54539
-#EXTINF:-1,TR: BEIN SPORT 2 H265 4K
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54540
-#EXTINF:-1,TR: beIN Sports 3 FULLHD
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54541
-#EXTINF:-1,TR: BEIN SPORT 3 UHD
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54542
-#EXTINF:-1,TR: beIN Sports 3 SD
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54543
-#EXTINF:-1,TR: BEIN SPORT 3 H265 4K
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54544
-#EXTINF:-1,TR: beIN Sports 4
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54545
-#EXTINF:-1,TR: beIN Sports MAX 1
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54546
-#EXTINF:-1,TR: beIN Sports MAX 2
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54547
-#EXTINF:-1,TR: BEIN SPORTS HABER
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54548
-#EXTINF:-1,TR: SMART SPOR
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54549
-#EXTINF:-1,TR: SMART SPOR_UHD
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54550
-#EXTINF:-1,TR: S_SPORT
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54551
-#EXTINF:-1,TR: S_SPORT UHD
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54552
-#EXTINF:-1,TR: S SPORT 2
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/56708
-#EXTINF:-1,TR: TIVIBU SPOR 1
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54554
-#EXTINF:-1,TR: TIVIBU SPOR 2
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54555
-#EXTINF:-1,TR: TIVIBU SPOR 3
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54556
-#EXTINF:-1,TR: TRT SPOR
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54559
-#EXTINF:-1,TR: TRT SPOR 2
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54842
-#EXTINF:-1,TR: A SPOR
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54560
+#EXTINF:-1,##TR: SPOR##
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70621
+#EXTINF:-1,TR: beIN Sports Haber HD+
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70622
+#EXTINF:-1,TR: beIN SPORTS 1 HD+
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70623
+#EXTINF:-1,TR: beIN SPORTS HD+
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70624
+#EXTINF:-1,TR: beIN SPORTS 1 FEED
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70625
+#EXTINF:-1,TR: beIN SPORTS 2 HD+
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70626
+#EXTINF:-1,TR: beIN SPORTS 2 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70627
+#EXTINF:-1,TR: beIN SPORTS 3 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70628
+#EXTINF:-1,TR: beIN SPORTS 3 HD+
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70629
+#EXTINF:-1,TR: beIN SPORTS 3 HD+
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70630
+#EXTINF:-1,TR: beIN SPORTS 4 HD+
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70631
+#EXTINF:-1,TR: beIN SPORTS 4 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70632
+#EXTINF:-1,TR: beIN SPORTS MAX 1 HD+
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70633
+#EXTINF:-1,TR: beIN SPORT 1 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70634
+#EXTINF:-1,TR: beIN SPORTS MAX 2 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70635
+#EXTINF:-1,TR: beIN SPORTS MAX 2 HD+
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70636
+#EXTINF:-1,TR: TIVIBU SPOR 1 HD+
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70637
+#EXTINF:-1,TR: TIVIBU SPOR 2 HD+
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70638
+#EXTINF:-1,TR: TIVIBU SPOR 3 HD+
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70639
+#EXTINF:-1,TR: Spor Smart HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70640
+#EXTINF:-1,TR: S Sport PLUS HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70641
+#EXTINF:-1,TR: S Sport 2 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70642
+#EXTINF:-1,TR: S Sport HD+
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70643
+#EXTINF:-1,TR: EUROSPORT 1 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70644
+#EXTINF:-1,TR: EUROSPORT 2
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70645
+#EXTINF:-1,TR: NBA TV HD+
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70646
+#EXTINF:-1,TR: TRT SPOR HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70647
+#EXTINF:-1,TR: TRT SPOR 2 HD+
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70648
+#EXTINF:-1,TR: A Spor HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70649
+#EXTINF:-1,TR: A SPOR HD+
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70650
 #EXTINF:-1,TR: GS TV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54561
-#EXTINF:-1,TR: FB TV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54562
-#EXTINF:-1,TR: SPORTS TV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54713
-#EXTINF:-1,TR: TAY TV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/60144
-#EXTINF:-1,TR: TRT 1 SD
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54622
-#EXTINF:-1,TR: TRT 1 HD.
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54623
-#EXTINF:-1,TR: ATV SD
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54624
-#EXTINF:-1,TR: ATV HD.
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54625
-#EXTINF:-1,TR: STAR TV_SD
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54626
-#EXTINF:-1,TR: STAR TV_HD.
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54627
-#EXTINF:-1,TR: KANAL D SD
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54628
-#EXTINF:-1,TR: KANAL D_HD
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54629
-#EXTINF:-1,TR: SHOW TV_SD
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54630
-#EXTINF:-1,TR: SHOW TV_HD.
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54631
-#EXTINF:-1,TR: FOX TV_SD
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54632
-#EXTINF:-1,TR: FOX TV_HD.
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54633
-#EXTINF:-1,TR: TV8_SD
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54634
-#EXTINF:-1,TR: TV8_HD
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54635
-#EXTINF:-1,TR: TV8 5
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54636
-#EXTINF:-1,TR: BEYAZ TV SD
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/63039
-#EXTINF:-1,TR: BEYAZ TV HD
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54637
-#EXTINF:-1,TR: KANAL 7 SD
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/63038
-#EXTINF:-1,TR: KANAL 7 HD
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54638
-#EXTINF:-1,TR: TEVE 2
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54639
-#EXTINF:-1,TR: A2 TV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/63680
-#EXTINF:-1,TR: TRT 2
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54641
-#EXTINF:-1,TR: NTV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54643
-#EXTINF:-1,TR: TRT HABER
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54644
-#EXTINF:-1,TR: CNN TURK
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54645
-#EXTINF:-1,TR: A HABER
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54646
-#EXTINF:-1,TR: HABERTuRK
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54647
-#EXTINF:-1,TR: HALK TV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54648
-#EXTINF:-1,TR: ULUSAL KANAL
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54649
-#EXTINF:-1,TR: 24 TV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54650
-#EXTINF:-1,TR: TGRT HABER.
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54651
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70651
+#EXTINF:-1,TR: FB TV HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70652
+#EXTINF:-1,TR: TJK HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70653
+#EXTINF:-1,TR: Tivibu Spor 4
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70654
+#EXTINF:-1,TR: beIN SPORTS 1 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70655
+#EXTINF:-1,TR: TRT SPOR 2
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70656
+#EXTINF:-1,TR : Smart Spor 2
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70657
+#EXTINF:-1,EXXEN FEED
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70658
+#EXTINF:-1,TR: A Haber HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70659
+#EXTINF:-1,TR: CNN Turk HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70660
+#EXTINF:-1,TR: CNN Turk HD+
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70661
+#EXTINF:-1,TR: Haber Turk HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70662
+#EXTINF:-1,TR: TGRT Haber HD+
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70663
+#EXTINF:-1,TR: NTV HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70664
+#EXTINF:-1,TR: NTV Haber HD+
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70665
+#EXTINF:-1,TR: Ulke TV HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70666
+#EXTINF:-1,TR: Ulke TV HD+
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70667
 #EXTINF:-1,TR: TELE 1
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54652
-#EXTINF:-1,TR: DHA TV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54607
-#EXTINF:-1,TR: AA TV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54838
-#EXTINF:-1,TR: TBMM TV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54656
-#EXTINF:-1,TR: EKOTURK
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54653
-#EXTINF:-1,TR: BLOOMBERG HT
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54654
-#EXTINF:-1,TR:  A PARA
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54655
-#EXTINF:-1,TR: TRT COCUK
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54681
-#EXTINF:-1,TR: DISNEY  COCUK
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54682
-#EXTINF:-1,TR: BOOMERANG
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/56565
-#EXTINF:-1,TR: BABY TV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54684
-#EXTINF:-1,TR: MINIKA GO
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54685
-#EXTINF:-1,TR: MINIKA COCUK
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54686
-#EXTINF:-1,TR: MASA ILE KOCA AYI TV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54687
-#EXTINF:-1,TR: BBC COCUK
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54688
-#EXTINF:-1,TR: NICKELEDIONS
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54690
-#EXTINF:-1,TR: COCUK SMART
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54691
-#EXTINF:-1,TR: DA Vinci KIDS
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54675
-#EXTINF:-1,TR: SUPER WHY
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/59335
-#EXTINF:-1,TR: PINGU TV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/73212
-#EXTINF:-1,TR: NILOYA TV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/73211
-#EXTINF:-1,TR: FX
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54706
-#EXTINF:-1,TR: FOX CRIME
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54707
-#EXTINF:-1,TR: YESILCAM TV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/59216
-#EXTINF:-1,TR: YESILCAM TV 2
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/59217
-#EXTINF:-1,TR: SINEMA TV 
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54709
-#EXTINF:-1,TR: SINEMA TV YERLI 2
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/75310
-#EXTINF:-1,TR: SINEMA TV AKSIYON
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/75309
-#EXTINF:-1,TR: SINEMA TV AILE
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/75308
-#EXTINF:-1,TR: SINEMA TV 1001
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/75307
-#EXTINF:-1,TR: SINEMA TV AILE 2
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/75228
-#EXTINF:-1,TR: SINEMA TV YERLI
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/75227
-#EXTINF:-1,TR: SINEMA TV AKSIYON 2
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/75226
-#EXTINF:-1,TR: SINEMA TV 1002
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/75225
-#EXTINF:-1,TR: SINEMA TV KOMEDI 2
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/75224
-#EXTINF:-1,TR: Film Star Wars Series
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/75223
-#EXTINF:-1,TR: BEIN MOVIES PREMIERE 2
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/75229
-#EXTINF:-1,TR: beIN Movies Family HD
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/75316
-#EXTINF:-1,TR: beIN Movies Stars HD
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/75315
-#EXTINF:-1,TR: beIN Series Sci-Fi HD
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/75314
-#EXTINF:-1,TR: beIN Series Vice HD
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/75313
-#EXTINF:-1,TR: beIN Movies Premier HD
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/75312
-#EXTINF:-1,TR: beIN Movies Action 2
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/75311
-#EXTINF:-1,TR: beIN MOVIES ACTION HD
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/56557
-#EXTINF:-1,TR: MovieSmart Premium HD
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/56312
-#EXTINF:-1,TR: MOVIESMART TURK
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/55392
-#EXTINF:-1,TR: Dizi Smart Premium HD_
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/63678
-#EXTINF:-1,TR: MOVIESMART PREMIUM
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54728
-#EXTINF:-1,TR: LOCA 1
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54730
-#EXTINF:-1,TR: LOCA 2
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54714
-#EXTINF:-1,TR: HABABAM SINIFI TV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54725
-#EXTINF:-1,TR: KS TV _ kemal sunal tv
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54737
-#EXTINF:-1,TR: BBC EARTH
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54661
-#EXTINF:-1,TR: ID XTRA.
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54663
-#EXTINF:-1,TR: DISCOVERY CHANNEL
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54671
-#EXTINF:-1,TR: DISCOVERY SCIENCE.
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54672
-#EXTINF:-1,TR: History Channel HD
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54665
-#EXTINF:-1,TR: VIASAT NATURE HISTORY
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54674
-#EXTINF:-1,TR: ANIMAL PLANET
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54666
-#EXTINF:-1,TR: NAT GEO
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54667
-#EXTINF:-1,TR: NAT GEO WILD
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54668
-#EXTINF:-1,TR: BEIN IZ
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54670
-#EXTINF:-1,TR: 24 KITCHEN
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54676
-#EXTINF:-1,TR: bein Gurme
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54677
-#EXTINF:-1,TR: DMAX
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54678
-#EXTINF:-1,TR: TLC
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54679
-#EXTINF:-1,TR: AV tv
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54680
-#EXTINF:-1,TR: TRT BELGESEL
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54664
-#EXTINF:-1,TR: POWER TURK HD
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/51629
-#EXTINF:-1,TR: TRT MUZIK
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54693
-#EXTINF:-1,TR: KRAL TV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54694
-#EXTINF:-1,TR: KRAL POP TV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54695
-#EXTINF:-1,TR: DREAM TURK TV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54696
-#EXTINF:-1,TR:  NR1 TURK
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54697
-#EXTINF:-1,TR: TATLISES TV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/78961
-#EXTINF:-1,TR: MILYON TV MUZIK
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/63662
-#EXTINF:-1,TR: tv DAMAR
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/63125
-#EXTINF:-1,TR: NR1 TV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/59233
-#EXTINF:-1,TR: POWER TV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/59261
-#EXTINF:-1,TR: KRT TV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54746
-#EXTINF:-1,TR: PAMUKKALE TV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/63040
-#EXTINF:-1,TR: TURK HABER
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54742
-#EXTINF:-1,TR: HABER GLOBAL
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54743
-#EXTINF:-1,TR: ULKE TV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54744
-#EXTINF:-1,TR:  YOL TV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54745
-#EXTINF:-1,TR: DRT DENIZLI
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54749
-#EXTINF:-1,TR: CAN TV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54750
-#EXTINF:-1,TR: CEM TV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54751
-#EXTINF:-1,TR: BENGUTURK TV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54752
-#EXTINF:-1,TR: ARTI TV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54753
-#EXTINF:-1,TR: GUNEYDOGU TV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54754
-#EXTINF:-1,TR: TV 4
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54755
-#EXTINF:-1,TR: 360 tv
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54756
-#EXTINF:-1,TR:  TV DEN
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54759
-#EXTINF:-1,TR: SHOW MAX
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/59300
-#EXTINF:-1,TR: MAVI KARADENIZ
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54762
-#EXTINF:-1,TR: KON TV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54765
-#EXTINF:-1,TR: KANAL B
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54766
-#EXTINF:-1,TR: KANAL 19
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54768
-#EXTINF:-1,TR: KANAL 68
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54769
-#EXTINF:-1,TR: DEHA TV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54770
-#EXTINF:-1,TR: TRT AVAZ
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54771
-#EXTINF:-1,TR: AFYON TURK
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54772
-#EXTINF:-1,TR: KANAL 26
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/2676
-#EXTINF:-1,TR: KARADENIZ TURK
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/2850
-#EXTINF:-1,TR: AKSU TV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/59330
-#EXTINF:-1,TR: AS TV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/59329
-#EXTINF:-1,TR: ES TV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/59328
-#EXTINF:-1,TR: KARABUK BLD TV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/59327
-#EXTINF:-1,TR: DIM TV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/59326
-#EXTINF:-1,TR: EGE TV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/59325
-#EXTINF:-1,TR: ER TV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/59324
-#EXTINF:-1,TR: IBB TV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/59323
-#EXTINF:-1,TR: KANAL 15
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/59321
-#EXTINF:-1,TR: KANAL 23
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/59320
-#EXTINF:-1,TR: KANAL FIRAT
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/59319
-#EXTINF:-1,TR: KANAL Z
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/59318
-#EXTINF:-1,TR: KENT TURK
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/59317
-#EXTINF:-1,TR: LIFE TV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/59316
-#EXTINF:-1,TR: OLAY TURK
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/59315
-#EXTINF:-1,TR: TEMPO TV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/59313
-#EXTINF:-1,TR: TON TV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/59312
-#EXTINF:-1,TR: TV 41 KOCAELI
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/59311
-#EXTINF:-1,TR: TE60 TV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/59310
-#EXTINF:-1,TR: SUN TV MERSIN
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/59309
-#EXTINF:-1,TR: CAY TV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/59308
-#EXTINF:-1,TR: KANAL 12
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/59306
-#EXTINF:-1,TR: LINE TV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/59305
-#EXTINF:-1,TR: TV 52
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/59303
-#EXTINF:-1,TR: AHI TV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/59302
-#EXTINF:-1,TR: HABER 61
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/59301
-#EXTINF:-1,TR: ICEL TV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/59299
-#EXTINF:-1,TR: ETV MANISA
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/59298
-#EXTINF:-1,TR: TV EM
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/56720
-#EXTINF:-1,TR: DENIZ POSTASI TV KAYSERI
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/59297
-#EXTINF:-1,TR: VATAN TV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/59295
-#EXTINF:-1,TR: ISTANBUL TV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/59294
-#EXTINF:-1,TR: BUSINESS CHANNELL
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/59293
-#EXTINF:-1,TR: KANAL V ANTALYA
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/59291
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70668
+#EXTINF:-1,TR: A HABER HD+
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70669
+#EXTINF:-1,TR: A PARA HD+
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70670
+#EXTINF:-1,TR: A SPOR HD+
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70671
+#EXTINF:-1,TR: APARA HD+
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70672
+#EXTINF:-1,TR: BLOOMBERG HT HD+
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70673
+#EXTINF:-1,TR: BLOOMBERG HT HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70674
+#EXTINF:-1,TR: GLOBAL HABER HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70675
+#EXTINF:-1,TR: HABER GLOBAL HD+
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70676
+#EXTINF:-1,TR: HABER TURK HD+
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70677
+#EXTINF:-1,TR: HALK TV HD+
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70678
+#EXTINF:-1,TR: TGRT HABER HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70679
+#EXTINF:-1,TR: TRT HABER HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70680
+#EXTINF:-1,TR: TRT Haber HD+
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70681
+#EXTINF:-1,TR: TRT 1 4K
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70682
+#EXTINF:-1,TR: ATV Avrupa
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70683
+#EXTINF:-1,TR: Euro Star
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70684
+#EXTINF:-1,TR: Star TV HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70685
+#EXTINF:-1,TR: Show TV HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70686
+#EXTINF:-1,TR: Show Turk
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70687
+#EXTINF:-1,TR: Kanal D
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70688
+#EXTINF:-1,TR: Fox HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70689
+#EXTINF:-1,TR: Kanal 7 Avrupa
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70690
+#EXTINF:-1,TR: Kanal 7 HD+
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70691
+#EXTINF:-1,TR: Kanal 7 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70692
+#EXTINF:-1,TR: Beyaz HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70693
+#EXTINF:-1,TR: TV 8 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70694
+#EXTINF:-1,TR: TV 8 HD+
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70695
+#EXTINF:-1,TR: ATV HD+
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70696
+#EXTINF:-1,TR: ATV HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70697
+#EXTINF:-1,TR: BEYAZ TV HD+
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70698
+#EXTINF:-1,TR: FOX TV HD+
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70699
+#EXTINF:-1,TR: KANAL D HD+
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70700
+#EXTINF:-1,TR: SHOW TV HD+
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70701
+#EXTINF:-1,TR: STAR TV HD+
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70702
+#EXTINF:-1,TR: TRT 1 HD+
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70703
+#EXTINF:-1,TR: TRT TURK HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70704
+#EXTINF:-1,TR: TRT 4K
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70705
+#EXTINF:-1,TR: TRT 1 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70706
+#EXTINF:-1,TR: TV 8.5 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70707
+#EXTINF:-1,TR: ULUSAL TV HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70708
+#EXTINF:-1,TR: SKY 360 TV HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70709
+#EXTINF:-1,TR: A2 HD+
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70710
+#EXTINF:-1,TR: A2 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70711
+#EXTINF:-1,TR: SKY TURK 360 TV FHD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70712
+#EXTINF:-1,TR: TEVE 2 HD+
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70713
+#EXTINF:-1,TR: TEVE 2
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70714
+#EXTINF:-1,##TR: ULUSAL##
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70715
+#EXTINF:-1,TR: A Haber HD+
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70716
+#EXTINF:-1,TR: EURO D
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70717
 #EXTINF:-1,TR: TV 100
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/51902
-#EXTINF:-1,TR: KUDUS TV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/59292
-#EXTINF:-1,TR: AKIT TV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54758
-#EXTINF:-1,TR: LALEGUL TV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54764
-#EXTINF:-1,TR: REHBER TV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/59304
-#EXTINF:-1,TR: SEMERKAND TV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54775
-#EXTINF:-1,TR: DIYANET TV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54780
-#EXTINF:-1,TR: MELTEM TV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/63653
-#EXTINF:-1,TR: UCAN KUS TV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/54326
-#EXTINF:-1,TR: KANAL 38
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/63654
-#EXTINF:-1,TR: SAT 7 TURK
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/59314
-#EXTINF:-1,TR: DOST TV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/60934
-#EXTINF:-1,TR: MESAJ TV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/63681
-#EXTINF:-1,TR: BRUKSEL TURK TV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/64274
-#EXTINF:-1,TR: ON MEDYA 
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/64273
-#EXTINF:-1,TR: CINE 5
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/64271
-#EXTINF:-1,TR: MUGLA TURK
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/64270
-#EXTINF:-1,TR: KARDELEN TV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/64269
-#EXTINF:-1,TR: KANAL A ALANYA
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/64268
-#EXTINF:-1,TR: POSTA TV ALANYA
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/64267
-#EXTINF:-1,TR: HUNAT TV KAYSERI
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/64266
-#EXTINF:-1,TR: KANAL 34 TV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/64265
-#EXTINF:-1,TR: YESILYURT TV MALATYA
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/64264
-#EXTINF:-1,TR: VUSLAT TV MALATYA
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/64263
-#EXTINF:-1,TR: VIZYON 58 SIVAS
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/64262
-#EXTINF:-1,TR: TURKAY TV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/64261
-#EXTINF:-1,TR: MERCAN TV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/64260
-#EXTINF:-1,TR: KAY TV KAYSERI
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/64259
-#EXTINF:-1,TR: KANAL 3
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/64258
-#EXTINF:-1,TR: GRT TV ANTEP
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/64257
-#EXTINF:-1,TR: BR TV KARADENIZ
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/64279
-#EXTINF:-1,TR: METEOROLOJI TV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/64278
-#EXTINF:-1,TR: YABAN TV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/64277
-#EXTINF:-1,TR: BURSA TV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/64276
-#EXTINF:-1,TR: CIFTCI TV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/64275
-#EXTINF:-1,TR: MARMARA TV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/64661
-#EXTINF:-1,TR: TV8 INT
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/73977
-#EXTINF:-1,TR: SHOW TURK
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/73976
-#EXTINF:-1,TR: KANAL 7 AVRUPA
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/73975
-#EXTINF:-1,TR: ATV AVRUPA
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/73972
-#EXTINF:-1,TR: NHT TV BELGESEL
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/73978
-#EXTINF:-1,TR: BERAT TV
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/73980
-#EXTINF:-1,TR: TV 5
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/59213
-#EXTINF:-1,TR: AL ZAHRA TV 
-http://dred.uhdiptv.net:8000/mtlduzyatan/hamit987765/59296
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70718
+#EXTINF:-1,TR: KRT
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70719
+#EXTINF:-1,TR: ARTI TV HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70720
+#EXTINF:-1,TR: TV 8.5 HD+
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70721
+#EXTINF:-1,TR: TV 8 INT
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70722
+#EXTINF:-1,TR: ATV Hevc
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70723
+#EXTINF:-1,TR: FOX TV Hevc
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70724
+#EXTINF:-1,TR: KANAL D Hevc
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70725
+#EXTINF:-1,TR: SHOW TV FHD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70726
+#EXTINF:-1,TR: TRT 1 FHD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70727
+#EXTINF:-1,TR: TV 8.5 Hevc
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70728
+#EXTINF:-1,TR: BEYAZ TV Hevc
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70729
+#EXTINF:-1,TR: TV8 Hevc
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70730
+#EXTINF:-1,TR: KANAL 7 Hevc
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70731
+#EXTINF:-1,TR: TV 100 FHD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70732
+#EXTINF:-1,TR: TEVE 2 Hevc
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70733
+#EXTINF:-1,TR: A2 Hevc
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70734
+#EXTINF:-1,TR: TRT 4K UHD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70735
+#EXTINF:-1,TR: STAR TV Hevc
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70736
+#EXTINF:-1,TR: TRT 2 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70737
+#EXTINF:-1,TR: YILDIZ TV EN
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70738
+#EXTINF:-1,TR: ANADOLU DERNEK TV
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70739
+#EXTINF:-1,TR: TRT AVAZ FHD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70740
+#EXTINF:-1,TR: IBB TV
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70741
+#EXTINF:-1,TR: Meclis TV HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70742
+#EXTINF:-1,TR: GAZIANTEP OLAY TV
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70743
+#EXTINF:-1,TR: KANAL 19
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70744
+#EXTINF:-1,TR: KANAL 56
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70745
+#EXTINF:-1,TR: KANAL 58
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70746
+#EXTINF:-1,TR: KANAL ANTALYA
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70747
+#EXTINF:-1,TR: KANAL YALOVA
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70748
+#EXTINF:-1,TR: TEMPO TV
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70749
+#EXTINF:-1,TR: 38 KENT TURK
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70750
+#EXTINF:-1,TR: Mekke TV
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70751
+#EXTINF:-1,TR: MEDINE TV
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70752
+#EXTINF:-1,TR: CINE5 TV
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70753
+#EXTINF:-1,TR: Yol Tv HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70754
+#EXTINF:-1,TR: CEM TV
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70755
+#EXTINF:-1,TR: Tom Ve Jerry Klasik
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70756
+#EXTINF:-1,TR: Heidi 3D
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70757
+#EXTINF:-1,TR: Sünger Bob
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70758
+#EXTINF:-1,TR: PAW Patrol
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70759
+#EXTINF:-1,TR: Peppa Pig HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70760
+#EXTINF:-1,TR: Pijamaskeliler 1 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70761
+#EXTINF:-1,TR: 80 Günde Devr-i Alem HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70762
+#EXTINF:-1,TR: Bin Bir Massal 1 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70763
+#EXTINF:-1,TR: Maşa ile Koca Ayı 1 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70764
+#EXTINF:-1,TR: Şirinler 1 FHD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70765
+#EXTINF:-1,TR: Rafadan Tayfa 1 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70766
+#EXTINF:-1,TR: Keloğlan 1 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70767
+#EXTINF:-1,TR: Oddbods HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70768
+#EXTINF:-1,TR: Kukuli 1 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70769
+#EXTINF:-1,TR: Pepee 1 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70770
+#EXTINF:-1,TR: Limon ile Zeytin 1 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70771
+#EXTINF:-1,TR: Canım Kardeşim 1 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70772
+#EXTINF:-1,TR: Niloya 2 FHD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70773
+#EXTINF:-1,TR: Temel Reis
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70774
+#EXTINF:-1,TR: Niloya TV HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70775
+#EXTINF:-1,TR: DISNEY CHANNEL HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70776
+#EXTINF:-1,TR: SMART COCUK HD+
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70777
+#EXTINF:-1,TR: TRT EBA iLKOKUL нᴅ
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70778
+#EXTINF:-1,TR: TRT EBA ORTAOKUL нᴅ
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70779
+#EXTINF:-1,TR: TRT EBA LiSE нᴅ
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70780
+#EXTINF:-1,TR: DA VINCI KIDS ғнᴅ
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70781
+#EXTINF:-1,TR: TRT COCUK нᴅ
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70782
+#EXTINF:-1,TR: BOOMERANG ғнᴅ
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70783
+#EXTINF:-1,TR: CARTOON NETWORK ѕᴅ
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70784
+#EXTINF:-1,TR: DISNEY CHANNEL ѕᴅ
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70785
+#EXTINF:-1,TR: DISNEY JUNIOR ѕᴅ
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70786
+#EXTINF:-1,TR: DISNEY XD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70787
+#EXTINF:-1,TR: MINIKA GO ѕᴅ
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70788
+#EXTINF:-1,TR: MINIKA COCUK ѕᴅ
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70789
+#EXTINF:-1,TR: NICKELODEON нᴅ
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70790
+#EXTINF:-1,TR: NICKELODEON JR ѕᴅ
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70791
+#EXTINF:-1,TR: SMART COCUK FHD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70792
+#EXTINF:-1,TR: BABY TV HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70793
+#EXTINF:-1,TR: CBEEBiES HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70794
+#EXTINF:-1,TR: HİSTORY HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70795
+#EXTINF:-1,TR: Discovery IDX
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70796
+#EXTINF:-1,TR: TRT Belgesel HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70797
+#EXTINF:-1,TR: TLC
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70798
+#EXTINF:-1,TR: Animal Planet HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70799
+#EXTINF:-1,TR: Discovery Channel
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70800
+#EXTINF:-1,TR: Discovery IDX HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70801
+#EXTINF:-1,TR: History Channel HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70802
+#EXTINF:-1,TR: Nat Geo HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70803
+#EXTINF:-1,TR: Nat Geo Wild HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70804
+#EXTINF:-1,TR: Yaban TV
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70805
+#EXTINF:-1,TR: DMAX
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70806
+#EXTINF:-1,TR: Fox Crime HD+
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70807
+#EXTINF:-1,TR: beIN IZ HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70808
+#EXTINF:-1,TR: Da Vinci Learning HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70809
+#EXTINF:-1,TR: DISCOVERY CHANNEL
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70810
+#EXTINF:-1,TR: VIASAT HISTORY
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70811
+#EXTINF:-1,TR: beIN GURME HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70812
+#EXTINF:-1,TR: DISCOVERY SCIENCE HD+
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70813
+#EXTINF:-1,TR: BBC EARTH
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70814
+#EXTINF:-1,TR: Discovery Turbo Extra HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70815
+#EXTINF:-1,##TR: SINEMA##
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70816
+#EXTINF:-1,TR: Kemal Sunal 1 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70817
+#EXTINF:-1,TR: Kemal Sunal 2 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70818
+#EXTINF:-1,TR: Kemal Sunal 3 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70819
+#EXTINF:-1,TR: Kemal Sunal 4 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70820
+#EXTINF:-1,TR: Kemal Sunal 5 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70821
+#EXTINF:-1,TR: Yesilcam Tv
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70822
+#EXTINF:-1,TR: Siyah Beyaz Yesilcam
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70823
+#EXTINF:-1,TR: Cine Gold Bilim Kurgu HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70824
+#EXTINF:-1,TR: Gine Gold Dram/Western HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70825
+#EXTINF:-1,TR: Cine Gold Polisiye HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70826
+#EXTINF:-1,TR: Cine Gold Dövüş HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70827
+#EXTINF:-1,TR: Cine Gold Dram HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70828
+#EXTINF:-1,TR: Gine Gold Gerilim HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70829
+#EXTINF:-1,TR: Cine Gold Animasyon HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70830
+#EXTINF:-1,TR: Cine Gold Komedi HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70831
+#EXTINF:-1,TR: Cine Gold Korku HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70832
+#EXTINF:-1,TR: Cine Gold Macera HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70833
+#EXTINF:-1,TR: Cine Gold Aksiyon 1 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70834
+#EXTINF:-1,TR: Cine Gold Yerli 5 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70835
+#EXTINF:-1,TR: Cine Gold Belgesel 1 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70836
+#EXTINF:-1,TR: Cine Gold Yerli 1 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70837
+#EXTINF:-1,TR: Cine Gold Yerli 2 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70838
+#EXTINF:-1,TR: Cine Gold Yerli 3 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70839
+#EXTINF:-1,TR: Cine Gold Yerli 4 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70840
+#EXTINF:-1,TR: Kurtlar Vadisi Pusu 1. Sezon
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70841
+#EXTINF:-1,TR: Kurtlar Vadisi Pusu 2. Sezon
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70842
+#EXTINF:-1,TR: Kurtlar Vadisi Pusu 3. Sezon
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70843
+#EXTINF:-1,TR: Kurtlar Vadisi Pusu 4. Sezon
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70844
+#EXTINF:-1,TR: Kurtlar Vadisi Pusu 5. Sezon
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70845
+#EXTINF:-1,TR: Kurtlar Vadisi Pusu 6. Sezon
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70846
+#EXTINF:-1,TR: Kurtlar Vadisi Pusu 7.Sezon
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70847
+#EXTINF:-1,TR: Kurtlar Vadisi Pusu 8. Sezon
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70848
+#EXTINF:-1,TR: CUKUR Sezon 1
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70849
+#EXTINF:-1,TR: Eşkıya Dünyaya Hükümdar Olmaz
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70850
+#EXTINF:-1,TR: HyperKids Prenses
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70851
+#EXTINF:-1,TR: dizi SMART
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70852
+#EXTINF:-1,TR: FX HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70853
+#EXTINF:-1,TR: FOX LIFE
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70854
+#EXTINF:-1,TR: FIGHT BOX HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70855
+#EXTINF:-1,TR: BEIN MOVIES PREMIERE HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70856
+#EXTINF:-1,TR: BEIN MOVIES ACTION HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70857
+#EXTINF:-1,TR: BEIN MOVIES ACTION 2 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70858
+#EXTINF:-1,TR: BEINMOVIES STARS HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70859
+#EXTINF:-1,TR: BEIN MOVIES FAMLY HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70860
+#EXTINF:-1,TR: BEIN MOVIES TURK HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70861
+#EXTINF:-1,TR: Moviesmart Premium 1 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70862
+#EXTINF:-1,TR: Moviesmart Classic HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70863
+#EXTINF:-1,TR: MovieSmart Turk
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70864
+#EXTINF:-1,TR: Sinema TV HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70865
+#EXTINF:-1,TR: Sinema TV Aile HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70866
+#EXTINF:-1,TR: Sinema TV Action HD 1080
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70867
+#EXTINF:-1,TR: Sinema TV Yerli
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70868
+#EXTINF:-1,TR: Sinema TV Comedy HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70869
+#EXTINF:-1,TR: MAXBOX 1 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70870
+#EXTINF:-1,TR: MAXBOX 2 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70871
+#EXTINF:-1,TR: MAXBOX 3 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70872
+#EXTINF:-1,TR: MAXBOX 4 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70873
+#EXTINF:-1,TR: MAXBOX 5 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70874
+#EXTINF:-1,TR: MAXBOX 6 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70875
+#EXTINF:-1,TR: MAXBOX 7 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70876
+#EXTINF:-1,TR: MAXBOX 8 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70877
+#EXTINF:-1,TR: MAXBOX 9 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70878
+#EXTINF:-1,TR: MAXBOX 10 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70879
+#EXTINF:-1,TR: MAXBOX 11 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70880
+#EXTINF:-1,TR: MAXBOX 12 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70881
+#EXTINF:-1,TR: MAXBOX 13 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70882
+#EXTINF:-1,TR: MAXBOX 14 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70883
+#EXTINF:-1,TR: MAXBOX 15 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70884
+#EXTINF:-1,TR: MAXBOX 16 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70885
+#EXTINF:-1,TR: MAXBOX 17 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70886
+#EXTINF:-1,TR: MAXBOX 18 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70887
+#EXTINF:-1,TR: MAXBOX 19 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70888
+#EXTINF:-1,TR: MAXBOX 20 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70889
+#EXTINF:-1,TR: MAXBOX YESILCAM 1 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70890
+#EXTINF:-1,TR: MAXBOX YESILCAM 2 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70891
+#EXTINF:-1,TR: MAXBOX YESILCAM 3 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70892
+#EXTINF:-1,TR: MAXBOX YESILCAM 4 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70893
+#EXTINF:-1,TR: MAXBOX YESILCAM 5 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70894
+#EXTINF:-1,TR: MAXBOX YESILCAM 6 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70895
+#EXTINF:-1,TR: MAXBOX YESILCAM 7 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70896
+#EXTINF:-1,TR: MAXBOX YESILCAM 8 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70897
+#EXTINF:-1,TR: MAXBOX YESILCAM 9 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70898
+#EXTINF:-1,TR: MAXBOX YESILCAM 10 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70899
+#EXTINF:-1,TR: MaxBox Turk 1 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70900
+#EXTINF:-1,TR: MaxBox Turk 2 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70901
+#EXTINF:-1,TR: MaxBox Turk 3 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70902
+#EXTINF:-1,TR: MaxBox Turk 4 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70903
+#EXTINF:-1,TR: MaxBox Turk 5 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70904
+#EXTINF:-1,TR: MaxBox Turk 6 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70905
+#EXTINF:-1,TR: MaxBox Turk 7 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70906
+#EXTINF:-1,TR: MaxBox Turk 8 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70907
+#EXTINF:-1,TR: MaxBox Turk 9 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70908
+#EXTINF:-1,TR: MaxBox Turk 10 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70909
+#EXTINF:-1,TR: MaxBox Netflix 1 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70910
+#EXTINF:-1,TR: MaxBox Netflix 2 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70911
+#EXTINF:-1,TR: MaxBox Netflix 3 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70912
+#EXTINF:-1,TR: MaxBox Netflix 4 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70913
+#EXTINF:-1,TR: MaxBox Netflix 5 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70914
+#EXTINF:-1,TR: MaxBox Netflix 6 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70915
+#EXTINF:-1,TR: MaxBox Netflix 7 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70916
+#EXTINF:-1,TR: MaxBox Netflix 8 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70917
+#EXTINF:-1,TR: MaxBox Netflix 9 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70918
+#EXTINF:-1,TR: MaxBox Netflix 10 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70919
+#EXTINF:-1,TR: MaxBox Cocuk 1 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70920
+#EXTINF:-1,TR: MaxBox Cocuk 2 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70921
+#EXTINF:-1,TR: MaxBox Cocuk 3 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70922
+#EXTINF:-1,TR: MaxBox Cocuk 4 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70923
+#EXTINF:-1,TR: MaxBox Cocuk 5 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70924
+#EXTINF:-1,TR: MaxBox Cocuk 6 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70925
+#EXTINF:-1,TR: MaxBox Cocuk 7 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70926
+#EXTINF:-1,TR: MaxBox Cocuk 8 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70927
+#EXTINF:-1,TR: MaxBox Cocuk 9 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70928
+#EXTINF:-1,TR: MaxBox Cocuk 10 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70929
+#EXTINF:-1,TR: BEIN SERIES SCI FI
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70930
+#EXTINF:-1,TR: BEIN SERIES COMEDY
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70931
+#EXTINF:-1,TR: BEIN SERIES VICE
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70932
+#EXTINF:-1,TR: BEIN MOVIES PREMIERE 2 HD
+http://dimapro.cz:8080/00:1A:79:16:FE:B8/zizokkkkuidfdiufudi@/70933
