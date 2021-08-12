@@ -1,657 +1,733 @@
 #EXTM3U
+#EXTINF:-1,TR: TRT 1 FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/97584
 #EXTINF:-1,TR: TRT 1 HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44651
-#EXTINF:-1,TR: TRT 4K
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44652
+http://xtream-iptvpanel.com:8080/alican01/01alican/46517
+#EXTINF:-1,TR: TRT 2 FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46520
+#EXTINF:-1,TR: ATV FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/97585
 #EXTINF:-1,TR: ATV HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44653
+http://xtream-iptvpanel.com:8080/alican01/01alican/46524
+#EXTINF:-1,TR: STAR TV FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/97588
 #EXTINF:-1,TR: STAR TV HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44654
+http://xtream-iptvpanel.com:8080/alican01/01alican/46525
+#EXTINF:-1,TR: SHOW TV FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/97586
 #EXTINF:-1,TR: SHOW TV HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44655
+http://xtream-iptvpanel.com:8080/alican01/01alican/46526
+#EXTINF:-1,TR: KANAL D FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/97587
 #EXTINF:-1,TR: KANAL D HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44656
+http://xtream-iptvpanel.com:8080/alican01/01alican/46527
+#EXTINF:-1,TR: FOX TV FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/97589
 #EXTINF:-1,TR: FOX TV HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44657
-#EXTINF:-1,TR: TV8 HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44658
-#EXTINF:-1,TR: TV8.5 HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44659
-#EXTINF:-1,TR: BEYAZ TV HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44660
-#EXTINF:-1,TR: KANAL 7 HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44661
-#EXTINF:-1,TR: TEVE 2 HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44662
-#EXTINF:-1,TR: A HABER HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44663
-#EXTINF:-1,TR: TV 360 HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44664
-#EXTINF:-1,TR: KANAL B
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44665
-#EXTINF:-1,TR: ANIMAL PLANET HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44666
-#EXTINF:-1,TR: CHASSE ET PECHE HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44667
-#EXTINF:-1,TR: National Geographic Wild Hd
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44668
-#EXTINF:-1,TR: National Geographic People HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44669
-#EXTINF:-1,TR: National Geographic  HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44670
-#EXTINF:-1,TR: VIASAT HISTORY HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44671
-#EXTINF:-1,TR: HISTORY CHANNEL HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44672
-#EXTINF:-1,TR: DA VINCI LEARNING
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44673
-#EXTINF:-1,TR: DISCOVERY SCIENSE HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44674
-#EXTINF:-1,TR: DISCOVERY CHANNEL HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44675
-#EXTINF:-1,TR | BEIN SPORTS 1 4K/FHD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44676
-#EXTINF:-1,TR | BEIN SPORTS 3 FHD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44677
-#EXTINF:-1,TR | BEIN SPORTS Max 2 
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44678
-#EXTINF:-1,TR: S-SPORT HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44679
-#EXTINF:-1,TR: SMART SPOR HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44680
-#EXTINF:-1,TR: A SPOR HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44683
-#EXTINF:-1,TR: TRT SPOR HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44684
-#EXTINF:-1,TR: FX HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44685
-#EXTINF:-1,TR: FOX CRIME HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44686
-#EXTINF:-1,TR | BEIN Movies Turk HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44687
-#EXTINF:-1,TR | BEIN Movies Stars FHD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44688
-#EXTINF:-1,TR | BEIN Movies Action FHD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44689
-#EXTINF:-1,TR | BEIN Movies Action 2 FHD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44690
-#EXTINF:-1,TR | BEIN Movies Premiere HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44691
-#EXTINF:-1,TR | BEIN Movies Premier 2 HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44692
-#EXTINF:-1,TR | BEIN Series Vice FHD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44693
-#EXTINF:-1,TR | BEIN Series Sci-Fi FHD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44694
-#EXTINF:-1,TR | BEIN Series Drama FHD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44695
-#EXTINF:-1,TR |  BEIN Series Comedy FHD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44696
-#EXTINF:-1,TR: MOVIESMART TURK HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44697
-#EXTINF:-1,TR: MOVIESMART PREMIUM HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44698
-#EXTINF:-1,TR: MOVIESMART PREMIUM 2 HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44699
-#EXTINF:-1,TR: MOVIESMART PLATIN HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44700
-#EXTINF:-1,TR: MOVIESMART PLATIN 2 HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44701
-#EXTINF:-1,TR: MOVIESMART GOLD HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44702
-#EXTINF:-1,TR: MOVIESMART FEST HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44703
-#EXTINF:-1,TR: MOVIESMART FAMILY HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44704
-#EXTINF:-1,TR: MOVIESMART ACTION HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44705
-#EXTINF:-1,TR: SINEMA TV HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44706
-#EXTINF:-1,TR: SINEMA TV YERLI 1 HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44707
-#EXTINF:-1,TR: SINEMA TV AILE 1 HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44708
-#EXTINF:-1,TR: SINEMA TV 1001 HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44709
-#EXTINF:-1,TR: SINEMA TV KOMEDI 1 HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44710
-#EXTINF:-1,TR: SINEMA TV AKSIYON 1 HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44711
-#EXTINF:-1,TR: FiberBox Turk HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44712
-#EXTINF:-1,TR: FiberBox Komedi HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44713
-#EXTINF:-1,TR: FiberBox Korku HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44714
-#EXTINF:-1,TR: Fiber Aksiyon HD (ALTYAZI)
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44715
-#EXTINF:-1,TR: FiberBox Aksiyon HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44716
-#EXTINF:-1,TR: FiberBox Dram HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44717
-#EXTINF:-1,TR: FiberBox Fantastik HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44718
-#EXTINF:-1,TR: FiberBox Yesilcam HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44719
-#EXTINF:-1,TR: FILMBOX NOSTALGIL HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44720
-#EXTINF:-1,TR: FILMBOX FESTIVAL HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44721
-#EXTINF:-1,TR: FILMBOX STARS HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44722
-#EXTINF:-1,TR: FILMBOX PREMIER HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44723
-#EXTINF:-1,TR: FILMBOX GOLD HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44724
-#EXTINF:-1,TR: FILMBOX 4K UHD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44725
-#EXTINF:-1,TR: FILMBOX YESILCAM HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44726
-#EXTINF:-1,TR: FILMBOX TURK HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44727
-#EXTINF:-1,TR: SINEMA TV 2 HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44728
-#EXTINF:-1,TR: SINEMA TV AILE 2 HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44729
-#EXTINF:-1,TR: SINEMA TV AKSIYON 2 HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44730
-#EXTINF:-1,TR: SINEMA TV KOMEDI 2 HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44731
-#EXTINF:-1,TR: SINEMA TV YERLI 2 HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44732
-#EXTINF:-1,TR | BEIN SPORTS Haber HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44736
-#EXTINF:-1,TR | BEIN SPORTS 1 FHD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44737
-#EXTINF:-1,TR | BEIN SPORTS 1 HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44738
-#EXTINF:-1,TR | BEIN SPORTS 3 HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44739
-#EXTINF:-1,TR | BEIN SPORTS Haber FHD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44740
-#EXTINF:-1,TR | BEIN SPORTS 2 HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44741
-#EXTINF:-1,TR | BEIN SPORTS 4 HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44742
-#EXTINF:-1,TR | BEIN SPORTS Max 1 HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44743
-#EXTINF:-1,TR | BEIN SPORTS Max 2 SD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44744
-#EXTINF:-1,TR | TIVIBU SPOR 1 HD (Local)
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44745
-#EXTINF:-1,TR | TIVIBU SPOR 2 HD (Local)
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44746
-#EXTINF:-1,TR | TIVIBU SPOR 3 HD (Local)
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44747
-#EXTINF:-1,TR | S-SPORT 2 HD (Local)
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44748
-#EXTINF:-1,TR | NBA TV HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44749
-#EXTINF:-1,TR | TRT SPOR 2 HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44750
-#EXTINF:-1,TR | FB TV HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44751
-#EXTINF:-1,TR | GS TV HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44752
-#EXTINF:-1,TR | TAY TV HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44753
-#EXTINF:-1,TR | TRT 2 HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44761
-#EXTINF:-1,TR | TRT AVAZ
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44762
-#EXTINF:-1,TR | TRT TURK HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44763
-#EXTINF:-1,TR | TRT WORLD HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44764
-#EXTINF:-1,TR | TRT Diyanet TV
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44765
-#EXTINF:-1,TR | A2 TV HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44766
-#EXTINF:-1,TR | BeIN IZ FHD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44836
-#EXTINF:-1,TR | BEIN GURME HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44838
-#EXTINF:-1,TR: FILMBOX SINEVIZYON 9
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44873
-#EXTINF:-1,TR: FILMBOX SINEVIZYON 8
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44874
-#EXTINF:-1,TR: FILMBOX SINEVIZYON 7
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44875
-#EXTINF:-1,TR: FILMBOX SINEVIZYON 6
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44876
-#EXTINF:-1,TR: FILMBOX SINEVIZYON 5
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44877
-#EXTINF:-1,TR: FILMBOX SINEVIZYON 4
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44878
-#EXTINF:-1,TR: FILMBOX SINEVIZYON 3
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44879
-#EXTINF:-1,TR: FILMBOX SINEVIZYON 20
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44880
-#EXTINF:-1,TR: FILMBOX SINEVIZYON 2
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44881
-#EXTINF:-1,TR: FILMBOX SINEVIZYON 19
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44882
-#EXTINF:-1,TR: FILMBOX SINEVIZYON 18
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44883
-#EXTINF:-1,TR: FILMBOX SINEVIZYON 17
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44884
-#EXTINF:-1,TR: FILMBOX SINEVIZYON 16
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44885
-#EXTINF:-1,TR: FILMBOX SINEVIZYON 15
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44886
-#EXTINF:-1,TR: FILMBOX SINEVIZYON 14
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44887
-#EXTINF:-1,TR: FILMBOX SINEVIZYON 13
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44888
-#EXTINF:-1,TR: FILMBOX SINEVIZYON 12
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44889
-#EXTINF:-1,TR: FILMBOX SINEVIZYON 11
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44890
-#EXTINF:-1,TR: FILMBOX SINEVIZYON 10
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44891
-#EXTINF:-1,TR: FILMBOX SINEVIZYON 1
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44892
-#EXTINF:-1,TR | TIVIBU SPOR 4 HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44909
-#EXTINF:-1,TR | BEIN SPORTS 1 FHD HEVC
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44910
-#EXTINF:-1,TR | BEIN SPORTS 1 SD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44911
-#EXTINF:-1,TR | BEIN SPORTS 2 FHD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44912
-#EXTINF:-1,TR | BEIN SPORTS 3 FHD HEVC
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44913
-#EXTINF:-1,TR | BEIN SPORTS 4 FHD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44914
-#EXTINF:-1,TR: S SPORT 1 HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44915
-#EXTINF:-1,TR: S SPORT 2 HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44917
-#EXTINF:-1,TR: S SPORT 2 UHD++
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44918
-#EXTINF:-1,TR: SPOR SMART HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44919
-#EXTINF:-1,TR: SPOR SMART UHD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44920
-#EXTINF:-1,TR: SPOR SMART UHD+
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44921
-#EXTINF:-1,TR: SPOR SMART UHD++
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44922
-#EXTINF:-1,TR: SPOR SMART 2 (MAÇTA AKTİF)
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44923
-#EXTINF:-1,TR: SPORTS TV
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44924
-#EXTINF:-1,TR: AUTOMOTO
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44925
-#EXTINF:-1,TR: FIGHT BOX
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44926
-#EXTINF:-1,TR: TJK TV
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44927
-#EXTINF:-1,TR: TRT 4K
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44928
+http://xtream-iptvpanel.com:8080/alican01/01alican/46528
+#EXTINF:-1,TR: TV8 FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/97590
 #EXTINF:-1,TR: TV 8 HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44929
-#EXTINF:-1,TR: TV 8 FHD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44930
+http://xtream-iptvpanel.com:8080/alican01/01alican/46529
+#EXTINF:-1,TR: TV8.5 FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/97591
 #EXTINF:-1,TR: TV 8.5 HD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44931
-#EXTINF:-1,TR: DMAX
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44932
-#EXTINF:-1,TR: TV 100
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44933
-#EXTINF:-1,TR: TV 5
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44934
-#EXTINF:-1,TR: 24 TV
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44935
-#EXTINF:-1,TR: AFYON TURK
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44936
-#EXTINF:-1,TR | BEIN Movies Family FHD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44937
-#EXTINF:-1,TR | BEIN BOX OFFICE 1 FHD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44938
-#EXTINF:-1,TR | BEIN BOX OFFICE 2 FHD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44939
-#EXTINF:-1,TR | BEIN BOX OFFICE 3 FHD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44940
-#EXTINF:-1,TR: BOSS MOVIES 1
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44941
-#EXTINF:-1,TR: BOSS MOVIES 2
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44942
-#EXTINF:-1,TR: BOSS MOVIES 3
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44943
-#EXTINF:-1,TR: BOSS MOVIES 4
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44944
-#EXTINF:-1,TR: BOSS MOVIES 5
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44945
-#EXTINF:-1,TR: BOSS MOVIES 6
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44946
-#EXTINF:-1,TR: BOSS MOVIES 7
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44947
-#EXTINF:-1,TR: BOSS MOVIES 8
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44948
-#EXTINF:-1,TR: BOSS MOVIES 9
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44949
-#EXTINF:-1,TR: BOSS MOVIES 10
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44950
-#EXTINF:-1,TR: BOSS KEMAL SUNAL
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44951
-#EXTINF:-1,TR: DIZI SMART MAX
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44952
-#EXTINF:-1,TR: ELIT MOVIES ACTION
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44953
-#EXTINF:-1,TR: ELIT MOVIES FAMILY
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44954
-#EXTINF:-1,TR: ELIT MOVIES FESTIVAL
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44955
-#EXTINF:-1,TR: ELIT SINEMA AKSIYON
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44956
-#EXTINF:-1,TR: ELIT SINEMA 1002
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44957
-#EXTINF:-1,TR: ELIT SINEMA YERLI 1
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44958
-#EXTINF:-1,TR: ELIT SINEMA YERLI 2
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44959
-#EXTINF:-1,TR: ELIT KORKU
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44960
-#EXTINF:-1,TR: ENO AILE
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44961
-#EXTINF:-1,TR: ENO AKSIYON 1
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44962
-#EXTINF:-1,TR: ENO AKSIYON 2
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44963
-#EXTINF:-1,TR: ENO AKSIYON 3
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44964
-#EXTINF:-1,TR: ENO AKSIYON 4
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44965
-#EXTINF:-1,TR: ENO BILIM KURGU
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44966
+http://xtream-iptvpanel.com:8080/alican01/01alican/46531
+#EXTINF:-1,TR: A2 FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/97595
+#EXTINF:-1,TR: A2 HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46532
+#EXTINF:-1,TR: BEYAZ TV FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/97592
+#EXTINF:-1,TR:  BEYAZ TV HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46533
+#EXTINF:-1,TR: KANAL 7 FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/97593
+#EXTINF:-1,TR: KANAL 7 HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46534
+#EXTINF:-1,TR: TEVE 2 FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/97594
+#EXTINF:-1,TR: TEVE 2 HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46535
+#EXTINF:-1,TR: ARTI TV FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/102759
+#EXTINF:-1,TR: SHOW MAX
+http://xtream-iptvpanel.com:8080/alican01/01alican/46536
+#EXTINF:-1,TR: ATV AVRUPA
+http://xtream-iptvpanel.com:8080/alican01/01alican/46537
+#EXTINF:-1,TR: SHOW TURK
+http://xtream-iptvpanel.com:8080/alican01/01alican/46539
+#EXTINF:-1,TR: KANAL 7 AVRUPA FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/106686
+#EXTINF:-1,TR: TV 8 INT
+http://xtream-iptvpanel.com:8080/alican01/01alican/46541
+#EXTINF:-1,TR: TV NET HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46542
+#EXTINF:-1,TR: AKILLI TV
+http://xtream-iptvpanel.com:8080/alican01/01alican/46544
+#EXTINF:-1,TR: TRT 4K 
+http://xtream-iptvpanel.com:8080/alican01/01alican/46518
+#EXTINF:-1,TR: TRT AVAZ HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/102758
+#EXTINF:-1,TR: TRT EBATV İLKOKUL
+http://xtream-iptvpanel.com:8080/alican01/01alican/46521
+#EXTINF:-1,TR: TRT EBATV ORTAOKUL
+http://xtream-iptvpanel.com:8080/alican01/01alican/46522
+#EXTINF:-1,TR: TRT EBATV LİSE
+http://xtream-iptvpanel.com:8080/alican01/01alican/46523
+#EXTINF:-1,TR: bEIN SPORTS HABER HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/104616
+#EXTINF:-1,TR: beIN SPORTS 1 Feed 4K 5Mbit
+http://xtream-iptvpanel.com:8080/alican01/01alican/143135
+#EXTINF:-1,TR: BEIN SPORTS 1 Feed FHD 5Mbit
+http://xtream-iptvpanel.com:8080/alican01/01alican/101354
+#EXTINF:-1,TR: BEIN SPORTS 2 Feed FHD 4Mbit
+http://xtream-iptvpanel.com:8080/alican01/01alican/107240
+#EXTINF:-1,TR: bEIN SPORTS 1 FHD*
+http://xtream-iptvpanel.com:8080/alican01/01alican/4285
+#EXTINF:-1,TR: beIN SPORTS 1 FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/132337
+#EXTINF:-1,TR: beIN SPORTS 1 HD*
+http://xtream-iptvpanel.com:8080/alican01/01alican/130648
+#EXTINF:-1,TR: bEIN SPORTS 1 HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/4283
+#EXTINF:-1,TR: bEIN SPORTS 1 SD 
+http://xtream-iptvpanel.com:8080/alican01/01alican/106688
+#EXTINF:-1,TR: bEIN SPORTS 2 FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/4288
+#EXTINF:-1,TR: bEIN SPORTS 2 HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/4292
+#EXTINF:-1,TR: bEIN SPORTS 2 SD
+http://xtream-iptvpanel.com:8080/alican01/01alican/143133
+#EXTINF:-1,TR: bEIN SPORTS 3 FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/4289
+#EXTINF:-1,TR: bEIN SPORTS 3 HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/4293
+#EXTINF:-1,TR: bEIN SPORTS 3 SD
+http://xtream-iptvpanel.com:8080/alican01/01alican/144009
+#EXTINF:-1,TR: bEIN SPORTS 4 FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/4290
+#EXTINF:-1,TR: bEIN SPORTS 4 HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/4294
+#EXTINF:-1,TR: bEIN SPORTS 4 SD
+http://xtream-iptvpanel.com:8080/alican01/01alican/144010
+#EXTINF:-1,TR: bEIN SPORTS MAX 1 Full HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/4298
+#EXTINF:-1,TR: bEIN SPORTS MAX 2 Full HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/4300
+#EXTINF:-1,TR: TiViBUSPOR 1 FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46813
+#EXTINF:-1,TR: TiViBUSPOR 2 FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46814
+#EXTINF:-1,TR: TiViBUSPOR 3 FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46815
+#EXTINF:-1,TR: TiViBUSPOR 4 FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/147414
+#EXTINF:-1,TR: S-SPORT 1+ FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46819
+#EXTINF:-1,TR: S-SPORT 1 HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46820
+#EXTINF:-1,TR: S-SPORT 2 FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46821
+#EXTINF:-1,TR: S-SPORT 2 HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/77912
+#EXTINF:-1,TR: SPORT SMART FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46823
+#EXTINF:-1,TR: SPORT SMART HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46824
+#EXTINF:-1,TR: SPORT SMART 2 FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/144293
+#EXTINF:-1,TR: TRT SPOR YILDIZ FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/145817
+#EXTINF:-1,TR: TRT SPOR YILDIZ HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/145818
+#EXTINF:-1,TR: TRT SPOR FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46832
+#EXTINF:-1,TR: TRT SPOR HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46833
+#EXTINF:-1,TR: TRT SPOR 2 HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46834
+#EXTINF:-1,TR: A SPOR FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46835
+#EXTINF:-1,TR: A SPOR HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46836
+#EXTINF:-1,TR: FIGHTBOX FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/111499
+#EXTINF:-1,TR: NBA TV FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46828
+#EXTINF:-1,TR: NBA TV HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46829
+#EXTINF:-1,TR: SPORTSTV HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46831
+#EXTINF:-1,TR: FB TV  HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46840
+#EXTINF:-1,TR: GS TV HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46841
+#EXTINF:-1,TR: TJK TV HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46842
+#EXTINF:-1,TR: Afyon Türk TV
+http://xtream-iptvpanel.com:8080/alican01/01alican/46664
+#EXTINF:-1,TR: Akit TV
+http://xtream-iptvpanel.com:8080/alican01/01alican/46680
+#EXTINF:-1,TR: Aksaray Kanal 68
+http://xtream-iptvpanel.com:8080/alican01/01alican/46644
+#EXTINF:-1,TR: ANADOLU DERNEK TV
+http://xtream-iptvpanel.com:8080/alican01/01alican/46632
+#EXTINF:-1,TR: ANTALYA Kanal V
+http://xtream-iptvpanel.com:8080/alican01/01alican/46646
+#EXTINF:-1,TR: AV TV
+http://xtream-iptvpanel.com:8080/alican01/01alican/46673
+#EXTINF:-1,TR: Can TV
+http://xtream-iptvpanel.com:8080/alican01/01alican/46684
+#EXTINF:-1,TR: CEM TV HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46633
+#EXTINF:-1,TR: Denizli DEHA TV
+http://xtream-iptvpanel.com:8080/alican01/01alican/46649
+#EXTINF:-1,TR: EGE Turk TV
+http://xtream-iptvpanel.com:8080/alican01/01alican/46668
+#EXTINF:-1,TR: Er TV
+http://xtream-iptvpanel.com:8080/alican01/01alican/46670
+#EXTINF:-1,TR: ESKİŞEHİR KANAL 26
+http://xtream-iptvpanel.com:8080/alican01/01alican/46653
+#EXTINF:-1,TR: FMTV
+http://xtream-iptvpanel.com:8080/alican01/01alican/46688
+#EXTINF:-1,TR: GAZIANTEP GRT TV
+http://xtream-iptvpanel.com:8080/alican01/01alican/46634
+#EXTINF:-1,TR: GAZIANTEP OLAY TV
+http://xtream-iptvpanel.com:8080/alican01/01alican/46635
+#EXTINF:-1,TR: HRT
+http://xtream-iptvpanel.com:8080/alican01/01alican/46637
+#EXTINF:-1,TR: Sivas Vizyon TV
+http://xtream-iptvpanel.com:8080/alican01/01alican/46669
+#EXTINF:-1,TR: Kahramanmaraş AKSU TV
+http://xtream-iptvpanel.com:8080/alican01/01alican/46679
+#EXTINF:-1,TR: KANAL ANTALYA
+http://xtream-iptvpanel.com:8080/alican01/01alican/46543
+#EXTINF:-1,TR: Karadeniz BRTV
+http://xtream-iptvpanel.com:8080/alican01/01alican/46655
+#EXTINF:-1,TR: Kayseri KAY TV
+http://xtream-iptvpanel.com:8080/alican01/01alican/46656
+#EXTINF:-1,TR: Kayseri Kent TV
+http://xtream-iptvpanel.com:8080/alican01/01alican/46659
+#EXTINF:-1,TR: Kayseri Life TV
+http://xtream-iptvpanel.com:8080/alican01/01alican/46657
+#EXTINF:-1,TR: Kayseri Olay Türk TV
+http://xtream-iptvpanel.com:8080/alican01/01alican/46658
+#EXTINF:-1,TR: KONYA KON TV
+http://xtream-iptvpanel.com:8080/alican01/01alican/46672
+#EXTINF:-1,TR: KUDUS TV
+http://xtream-iptvpanel.com:8080/alican01/01alican/46687
+#EXTINF:-1,TR: Malatya ERTV
+http://xtream-iptvpanel.com:8080/alican01/01alican/46642
+#EXTINF:-1,TR: Mavi Karadeniz
+http://xtream-iptvpanel.com:8080/alican01/01alican/46660
+#EXTINF:-1,TR: Meltem TV
+http://xtream-iptvpanel.com:8080/alican01/01alican/46686
+#EXTINF:-1,TR: Mersin İçel TV
+http://xtream-iptvpanel.com:8080/alican01/01alican/46674
+#EXTINF:-1,TR: SAT 7 TURK
+http://xtream-iptvpanel.com:8080/alican01/01alican/46690
+#EXTINF:-1,TR: Sivas
+http://xtream-iptvpanel.com:8080/alican01/01alican/46638
+#EXTINF:-1,TR: Sivas VIZYON 58 TV
+http://xtream-iptvpanel.com:8080/alican01/01alican/46639
+#EXTINF:-1,TR: TEK RUMELİ TV
+http://xtream-iptvpanel.com:8080/alican01/01alican/46682
+#EXTINF:-1,TR: Trabzon Haber 61 TV HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46662
+#EXTINF:-1,TR: TV 52
+http://xtream-iptvpanel.com:8080/alican01/01alican/46681
+#EXTINF:-1,TR: Tvo TV
+http://xtream-iptvpanel.com:8080/alican01/01alican/46654
+#EXTINF:-1,TR: VIZYON 58
+http://xtream-iptvpanel.com:8080/alican01/01alican/46666
+#EXTINF:-1,TR: Yildiz EN TV
+http://xtream-iptvpanel.com:8080/alican01/01alican/46631
+#EXTINF:-1,TR: Zonguldak Kanal Z
+http://xtream-iptvpanel.com:8080/alican01/01alican/46663
+#EXTINF:-1,TR: Çanakkale Boğaz TV
+http://xtream-iptvpanel.com:8080/alican01/01alican/46665
+#EXTINF:-1,TR: ÇANAKKALE TON TV
+http://xtream-iptvpanel.com:8080/alican01/01alican/46641
+#EXTINF:-1,TR: Şanlıurfa Kanal URFA
+http://xtream-iptvpanel.com:8080/alican01/01alican/46677
+#EXTINF:-1,TR: Ucankus
+http://xtream-iptvpanel.com:8080/alican01/01alican/104529
+#EXTINF:-1,TR: EDESSA TV
+http://xtream-iptvpanel.com:8080/alican01/01alican/106358
+#EXTINF:-1,TR: LINE TV
+http://xtream-iptvpanel.com:8080/alican01/01alican/106359
+#EXTINF:-1,TR: Yol Tv
+http://xtream-iptvpanel.com:8080/alican01/01alican/148428
+#EXTINF:-1,TR: CAY TV 
+http://xtream-iptvpanel.com:8080/alican01/01alican/150475
+#EXTINF:-1,TR: TRT Belgesel HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46593
+#EXTINF:-1,TR: TLC TV FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46568
+#EXTINF:-1,TR: DMAX FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46578
+#EXTINF:-1,TR: DMAX HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46579
+#EXTINF:-1,TR: History FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46582
+#EXTINF:-1,TR: BBC Earth HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46571
+#EXTINF:-1,TR: DISCOVERY CHANNEL FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46574
+#EXTINF:-1,TR: DISCOVERY SCIENCE FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46575
+#EXTINF:-1,TR: National Geographic FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46585
+#EXTINF:-1,TR: National Geographic HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/111491
+#EXTINF:-1,TR: NAT GEO WILD FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46586
+#EXTINF:-1,TR: Nat Geo Wild HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46587
+#EXTINF:-1,TR: OUTDOOR HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46591
+#EXTINF:-1,TR: BEIN GURME HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46572
+#EXTINF:-1,TR: beIN IZ FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46573
+#EXTINF:-1,TR: Animaux
+http://xtream-iptvpanel.com:8080/alican01/01alican/46569
+#EXTINF:-1,TR: 24 KiTCHEN FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46570
+#EXTINF:-1,TR: DA VINCI LEARNING
+http://xtream-iptvpanel.com:8080/alican01/01alican/111498
+#EXTINF:-1,TR: DISCOVERY IDX FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46576
+#EXTINF:-1,TR: DISCOVERY IDX HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46577
+#EXTINF:-1,TR: ViASAT HiSTORY FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46580
+#EXTINF:-1,TR: YABAN TV HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46581
+#EXTINF:-1,TR: TGRT BELGESEL
+http://xtream-iptvpanel.com:8080/alican01/01alican/46588
+#EXTINF:-1,TR: INSIGHT TV HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46589
+#EXTINF:-1,TR: LOVE NATURE HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46590
+#EXTINF:-1,TR: FAST & FUN FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46692
+#EXTINF:-1,TR: Viasat Explorer FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/98289
+#EXTINF:-1,TR: Automoto La Chaîne
+http://xtream-iptvpanel.com:8080/alican01/01alican/98290
+#EXTINF:-1,TR: TRT HABER HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46548
+#EXTINF:-1,TR: HABER TURK FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46549
+#EXTINF:-1,TR: A HABER HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46550
+#EXTINF:-1,TR: A NEWS FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46551
+#EXTINF:-1,TR: A PARA FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46552
+#EXTINF:-1,TR: CNN TURK HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46553
+#EXTINF:-1,TR: GLOBAL HABER HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46554
+#EXTINF:-1,TR: NTV HABER HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46555
+#EXTINF:-1,TR: NTV HABER FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/112643
+#EXTINF:-1,TR: TELE 1
+http://xtream-iptvpanel.com:8080/alican01/01alican/46556
+#EXTINF:-1,TR: TV100 HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46557
+#EXTINF:-1,TR: HALK TV HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46558
+#EXTINF:-1,TR: ULUSAL KANAL
+http://xtream-iptvpanel.com:8080/alican01/01alican/46559
+#EXTINF:-1,TR: Bloomberg HT
+http://xtream-iptvpanel.com:8080/alican01/01alican/46560
+#EXTINF:-1,TR: KANAL 24 HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46561
+#EXTINF:-1,TR: KRT TV HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46562
+#EXTINF:-1,TR: 360 HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46563
+#EXTINF:-1,TR: TGRT HABER FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46564
+#EXTINF:-1,TR: ULKETV FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46565
+#EXTINF:-1,TR: UZAY HABER
+http://xtream-iptvpanel.com:8080/alican01/01alican/46566
+#EXTINF:-1,TR: BEIN MOVIES ACTION FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46694
+#EXTINF:-1,TR: beIN MOVIES ACTION 2 FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46695
+#EXTINF:-1,TR: BEIN MOVIES FAMILY FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46696
+#EXTINF:-1,TR: BEIN MOVIES PREMIER FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46697
+#EXTINF:-1,TR: beIN MOVIES PREMIERE 2 FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46698
+#EXTINF:-1,TR: beIN MOVIES STARS FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46699
+#EXTINF:-1,TR: beIN MOVIES TURK FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46700
+#EXTINF:-1,TR: bEIN SERIES COMEDY FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46701
+#EXTINF:-1,TR: bEIN SERIES DRAMA FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46702
+#EXTINF:-1,TR: bEIN SERIES SCFI FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46703
+#EXTINF:-1,TR: BEIN SERIES VICE FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46705
+#EXTINF:-1,TR: MOVİESMART CLASSİC FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46707
+#EXTINF:-1,TR: MOVİESMART PREMİUM 2 FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46714
+#EXTINF:-1,TR: MOVİESMART PREMİUM FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46715
+#EXTINF:-1,TR: MOVİESMART TURK FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46716
+#EXTINF:-1,TR: SINEMA AKSIYON 2 HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46721
+#EXTINF:-1,TR: SINEMA TV 1001 FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46722
+#EXTINF:-1,TR: SINEMA TV 1002 FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/113915
+#EXTINF:-1,TR: SINEMA TV ACTION FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46726
+#EXTINF:-1,TR: SINEMA TV AILE FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46727
+#EXTINF:-1,TR: SİNEMA TV FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/142730
+#EXTINF:-1,TR: SINEMA TV 2 FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/142729
+#EXTINF:-1,TR: SINEMA TV KOMEDI FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46730
+#EXTINF:-1,TR: SINEMA TV YERLI  FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46732
+#EXTINF:-1,TR: DIZI SMART MAX FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46735
+#EXTINF:-1,TR: DIZI SMART PREMIUM HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46736
+#EXTINF:-1,TR: DIZI SMART MAX HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46737
+#EXTINF:-1,TR: FOX CRIME HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46740
+#EXTINF:-1,TR: REDBOX ACTIE 1 HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46773
+#EXTINF:-1,TR: REDBOX MIX 1 HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46775
+#EXTINF:-1,TR: REDBOX BILIMKURGU 1 HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46776
+#EXTINF:-1,TR: REDBOX SINEMA TURK 1 HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46779
+#EXTINF:-1,TR: FX FHD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46791
+#EXTINF:-1,TR: BlueTV Recep İvedik HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/150534
+#EXTINF:-1,TR: BOSS MOVIES 1 HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/53901
+#EXTINF:-1,TR: BOSS MOVIES 2 HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/53902
+#EXTINF:-1,TR: BOSS MOVIES 3 HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/53903
+#EXTINF:-1,TR: BOSS MOVIES 4 HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/53904
+#EXTINF:-1,TR: BOSS MOVIES 5 HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/53905
+#EXTINF:-1,TR: Cinemaximum Komedi HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46763
+#EXTINF:-1,TR: Cinemaximum Dram HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46768
+#EXTINF:-1,TR: Cinemaximum Korku HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46769
+#EXTINF:-1,TR: Cinemaximum Aksiyon HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46762
+#EXTINF:-1,TR: Cinemaximum Dövüş HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46767
+#EXTINF:-1,TR: Cinemaximum Bilim Kurgu HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46764
+#EXTINF:-1,TR: Cinemaximum Romantik HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46770
+#EXTINF:-1,TR: Cinemaximum Yerli 1 HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/147951
+#EXTINF:-1,TR: Cinemaximum Yerli 2 HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/147952
+#EXTINF:-1,TR: Cinemaximum Yerli 3 HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/147953
+#EXTINF:-1,TR: Cinemaximum HD 1
+http://xtream-iptvpanel.com:8080/alican01/01alican/125329
+#EXTINF:-1,TR: Cinemaximum HD 2
+http://xtream-iptvpanel.com:8080/alican01/01alican/125330
+#EXTINF:-1,TR: Cinemaximum HD 3
+http://xtream-iptvpanel.com:8080/alican01/01alican/125331
+#EXTINF:-1,TR: Cinemaximum HD 4
+http://xtream-iptvpanel.com:8080/alican01/01alican/125332
+#EXTINF:-1,TR: Cinemaximum HD 5
+http://xtream-iptvpanel.com:8080/alican01/01alican/125333
+#EXTINF:-1,TR: Cinemaximum HD 6
+http://xtream-iptvpanel.com:8080/alican01/01alican/125334
+#EXTINF:-1,TR: Cinemaximum HD 7
+http://xtream-iptvpanel.com:8080/alican01/01alican/125335
+#EXTINF:-1,TR: Cinemaximum HD 8
+http://xtream-iptvpanel.com:8080/alican01/01alican/125336
+#EXTINF:-1,TR: Cinemaximum HD 9
+http://xtream-iptvpanel.com:8080/alican01/01alican/125337
+#EXTINF:-1,TR: Cinemaximum HD 10
+http://xtream-iptvpanel.com:8080/alican01/01alican/125338
+#EXTINF:-1,TR: Netflix HD 1
+http://xtream-iptvpanel.com:8080/alican01/01alican/125345
+#EXTINF:-1,TR: Netflix HD 2
+http://xtream-iptvpanel.com:8080/alican01/01alican/125346
+#EXTINF:-1,TR: Netflix HD 3
+http://xtream-iptvpanel.com:8080/alican01/01alican/125347
+#EXTINF:-1,TR: Netflix HD 4
+http://xtream-iptvpanel.com:8080/alican01/01alican/125348
+#EXTINF:-1,TR: Netflix HD 5
+http://xtream-iptvpanel.com:8080/alican01/01alican/125349
+#EXTINF:-1,TR: ENO VIZYON 1
+http://xtream-iptvpanel.com:8080/alican01/01alican/143192
+#EXTINF:-1,TR: ENO VIZYON 2
+http://xtream-iptvpanel.com:8080/alican01/01alican/143193
+#EXTINF:-1,TR: ENO VIZYON 3
+http://xtream-iptvpanel.com:8080/alican01/01alican/143194
+#EXTINF:-1,TR: ENO VIZYON 4
+http://xtream-iptvpanel.com:8080/alican01/01alican/143195
+#EXTINF:-1,TR: ENO VIZYON 5
+http://xtream-iptvpanel.com:8080/alican01/01alican/143196
+#EXTINF:-1,TR: ENO TURK 1
+http://xtream-iptvpanel.com:8080/alican01/01alican/143197
+#EXTINF:-1,TR: ENO TURK 2
+http://xtream-iptvpanel.com:8080/alican01/01alican/143198
+#EXTINF:-1,TR: ENO TURK 3
+http://xtream-iptvpanel.com:8080/alican01/01alican/143199
+#EXTINF:-1,TR: ENO TURK 4
+http://xtream-iptvpanel.com:8080/alican01/01alican/143200
+#EXTINF:-1,TR: ENO TURK 5
+http://xtream-iptvpanel.com:8080/alican01/01alican/143201
+#EXTINF:-1,TR: ENO AKSiYON 1
+http://xtream-iptvpanel.com:8080/alican01/01alican/143202
+#EXTINF:-1,TR: ENO AKSiYON 2
+http://xtream-iptvpanel.com:8080/alican01/01alican/143203
+#EXTINF:-1,TR: ENO AKSiYON 3
+http://xtream-iptvpanel.com:8080/alican01/01alican/143204
+#EXTINF:-1,TR: ENO MACERA 1
+http://xtream-iptvpanel.com:8080/alican01/01alican/143205
+#EXTINF:-1,TR: ENO MACERA 2
+http://xtream-iptvpanel.com:8080/alican01/01alican/143206
+#EXTINF:-1,TR: ENO MACERA 3
+http://xtream-iptvpanel.com:8080/alican01/01alican/143207
+#EXTINF:-1,TR: ENO AILE 1
+http://xtream-iptvpanel.com:8080/alican01/01alican/143208
+#EXTINF:-1,TR: ENO AILE 2
+http://xtream-iptvpanel.com:8080/alican01/01alican/143209
+#EXTINF:-1,TR: ENO WESTERN 1
+http://xtream-iptvpanel.com:8080/alican01/01alican/143210
+#EXTINF:-1,TR: ENO BILIM KURGU 1
+http://xtream-iptvpanel.com:8080/alican01/01alican/143211
 #EXTINF:-1,TR: ENO BILIM KURGU 2
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44967
-#EXTINF:-1,TR: ENOFLIX 1
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44968
-#EXTINF:-1,TR: ENOFLIX 2
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44969
-#EXTINF:-1,TR: ENOFLIX 3
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44970
-#EXTINF:-1,TR: ENO KOMEDI
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44971
-#EXTINF:-1,TR: ENO TURK
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44972
-#EXTINF:-1,TR: ENO YESILCAM
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44973
-#EXTINF:-1,TR: FIBERBOX KEMAL SUNAL
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44974
-#EXTINF:-1,TR: FILMBOX AKSIYON
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44975
-#EXTINF:-1,TR: FILMBOX AILE
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44976
-#EXTINF:-1,TR: FILMBOX BILIM KURGU
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44977
-#EXTINF:-1,TR: FILMBOX DRAM
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44978
-#EXTINF:-1,TR: FILMBOX FANTASTIK
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44979
-#EXTINF:-1,TR: FILMBOX KOMEDI
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44980
-#EXTINF:-1,TR: FILMBOX KORKU
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44981
-#EXTINF:-1,TR: FILMBOX KEMAL SUNAL
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44982
-#EXTINF:-1,TR: FOX AILE
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44983
-#EXTINF:-1,TR: GOLD AKSIYON
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44984
-#EXTINF:-1,TR: GOLD DOVUS
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44985
-#EXTINF:-1,TR: GOLD DRAM
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44986
-#EXTINF:-1,TR: GOLD GERILIM
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44987
-#EXTINF:-1,TR: GOLD KEMAL SUNAL 1
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44988
-#EXTINF:-1,TR: GOLD KEMAL SUNAL 2
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44989
-#EXTINF:-1,TR: GOLD KEMAL SUNAL 3
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44990
-#EXTINF:-1,TR: GOLD KORKU
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44991
-#EXTINF:-1,TR: GOLD KOMEDI
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44992
-#EXTINF:-1,TR: GOLD MACERA
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44993
-#EXTINF:-1,TR: GOLD WESTERN
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44994
-#EXTINF:-1,TR: GOLD YERLI 1
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44995
-#EXTINF:-1,TR: GOLD YERLI 2
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44996
-#EXTINF:-1,TR: GOLD YERLI 3
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44997
-#EXTINF:-1,TR: GOLD YERLI 4
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44998
-#EXTINF:-1,TR: GOLD YERLI 5
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/44999
-#EXTINF:-1,TR: MARVEL STUDIOS - BILGI
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45000
-#EXTINF:-1,TR: MARVEL STUDIOS 1
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45001
-#EXTINF:-1,TR: MARVEL STUDIOS 2
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45002
-#EXTINF:-1,TR: MARVEL STUDIOS 3
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45003
-#EXTINF:-1,TR: MARVEL STUDIOS 4
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45004
-#EXTINF:-1,TR: MARVEL STUDIOS 5
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45005
-#EXTINF:-1,TR: MARVEL STUDIOS 6
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45006
-#EXTINF:-1,TR: MARVEL STUDIOS 7
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45007
-#EXTINF:-1,TR: MARVEL STUDIOS 8
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45008
-#EXTINF:-1,TR: MARVEL STUDIOS 9
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45009
-#EXTINF:-1,TR: MARVEL STUDIOS 10
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45010
-#EXTINF:-1,TR: MAX 007
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45011
-#EXTINF:-1,TR: MAX 4K
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45012
-#EXTINF:-1,TR: MAX AKSIYON
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45013
-#EXTINF:-1,TR: MAX AKSIYON 2
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45014
-#EXTINF:-1,TR: MAX GOLD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45015
-#EXTINF:-1,TR: MAX ORJINAL
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45016
-#EXTINF:-1,TR: MAX PREMIER
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45017
-#EXTINF:-1,TR: MAX PREMIER 2
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45018
-#EXTINF:-1,TR: MAX PLUS
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45019
-#EXTINF:-1,TR: MAX TURK
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45020
-#EXTINF:-1,TR: MAX VIZYON
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45021
-#EXTINF:-1,TR: MAX VIZYON 2
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45022
-#EXTINF:-1,TR: MAX VIZYON 3
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45023
-#EXTINF:-1,TR: MAX VIZYON 4
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45024
-#EXTINF:-1,TR: MAX WESTERN
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45025
-#EXTINF:-1,TR: NETSERVER 1
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45026
-#EXTINF:-1,TR: NETSERVER 2
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45027
-#EXTINF:-1,TR: NETSERVER 3
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45028
-#EXTINF:-1,TR: NETSERVER 4
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45029
-#EXTINF:-1,TR: NETSERVER 5
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45030
-#EXTINF:-1,TR: NEXTBOX 4K
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45031
-#EXTINF:-1,TR: NEXTBOX LOCA 1
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45032
-#EXTINF:-1,TR: NEXTBOX LOCA 2
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45033
-#EXTINF:-1,TR: NEXTBOX SCARY
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45034
-#EXTINF:-1,TR: NEXTBOX NOSTALJI
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45035
-#EXTINF:-1,TR: NEXTBOX SUBTITLE
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45036
-#EXTINF:-1,TR: PRIMEBOX AKSIYON 1
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45037
-#EXTINF:-1,TR: PRIMEBOX AKSIYON 2
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45038
-#EXTINF:-1,TR: PRIMEBOX KOMEDI
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45039
-#EXTINF:-1,TR: PRIMEBOX KORKU
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45040
-#EXTINF:-1,TR: PRIMEBOX TURK 1
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45041
-#EXTINF:-1,TR: PRIMEBOX TURK 2
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45042
-#EXTINF:-1,TR: PRIMEBOX VIZYON
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45043
-#EXTINF:-1,TR: PRIMEBOX YESILCAM
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45044
-#EXTINF:-1,TR: SINEVIP SINEMA TV
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45045
-#EXTINF:-1,TR: SINEVIP SINEMA 1001
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45046
-#EXTINF:-1,TR: SINEVIP SINEMA 1002
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45047
-#EXTINF:-1,TR: SINEVIP SINEMA AILE
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45048
-#EXTINF:-1,TR: SINEVIP SINEMA AKSIYON
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45049
-#EXTINF:-1,TR: SINEVIP SINEMA AKSIYON 2
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45050
-#EXTINF:-1,TR: SINEVIP SINEMA KOMEDI
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45051
-#EXTINF:-1,TR: SINEVIP SINEMA KOMEDI 2
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45052
-#EXTINF:-1,TR: SINEVIP SINEMA YERLI
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45053
-#EXTINF:-1,TR: SINEVIP SINEMA YERLI 2
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45054
-#EXTINF:-1,TR: SINEVID SENER SEN TV
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45055
-#EXTINF:-1,TR: SINEMAX KOMEDI
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45056
-#EXTINF:-1,TR: SINEMAX WESTERN
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45057
-#EXTINF:-1,TR: SMART LOCA
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45058
-#EXTINF:-1,TR: SKYTURK 4K
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45059
-#EXTINF:-1,TR: SKYTURK AILE
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45060
-#EXTINF:-1,TR: SKYTURK AKSIYON
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45061
-#EXTINF:-1,TR: SKYTURK GERILIM
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45062
-#EXTINF:-1,TR: SKYTURK SAVAS
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45063
-#EXTINF:-1,TR: STAR KOMEDI
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45064
-#EXTINF:-1,TR: STAR AILE
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45065
-#EXTINF:-1,TR: STAR AKSIYON
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45066
-#EXTINF:-1,TR: STAR DRAMA
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45067
-#EXTINF:-1,TR: STAR FANTASTIK
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45068
-#EXTINF:-1,TR: STAR GOLD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45069
-#EXTINF:-1,TR: STAR KORKU
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45070
-#EXTINF:-1,TR: STAR MACERA
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45071
-#EXTINF:-1,TR: STAR OSCAR
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45072
-#EXTINF:-1,TR: STAR PREMIER
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45073
-#EXTINF:-1,TR: STAR TURK
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45074
-#EXTINF:-1,TR: SINEMAX DRAMA
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45075
-#EXTINF:-1,TR: SINEMAX KORKU
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45076
-#EXTINF:-1,TR: SINEMAX VIZYON 1
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45077
-#EXTINF:-1,TR: SINEMAX VIZYON 3
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45078
-#EXTINF:-1,TR: SINEMAX VIZYON 4
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45079
-#EXTINF:-1,TR: SINEMAX VIZYON 5
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45080
-#EXTINF:-1,TR: VIZIOON AILE
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45081
-#EXTINF:-1,TR: VIZIOON FESTIVAL
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45082
-#EXTINF:-1,TR: VIZIOON PREMIER
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45083
-#EXTINF:-1,TR: VIZIOON PREMIER 2
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45084
-#EXTINF:-1,TR: CHASSE PEACHE
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45085
-#EXTINF:-1,TR: DISCOVERY ID
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45086
-#EXTINF:-1,TR: DTX
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45087
-#EXTINF:-1,TR: LOVE NATURE
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45088
-#EXTINF:-1,TR: OUTDOOR CHANNEL
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45089
-#EXTINF:-1,TR: SCIENCE VIE
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45090
-#EXTINF:-1,TR: ANIMIX 1
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45091
-#EXTINF:-1,TR: ANIMIX 2
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45092
-#EXTINF:-1,TR: BOSS ANIMASYON
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45093
-#EXTINF:-1,TR: BOSS DISNEY
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45094
-#EXTINF:-1,TR: DISNEY XD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45095
-#EXTINF:-1,TR: FIBERBOX ANIMASYON
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45096
-#EXTINF:-1,TR: MAX ANIMASYON 1
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45097
-#EXTINF:-1,TR: MAX ANIMASYON 2
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45098
-#EXTINF:-1,TR: NICKELODEON
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45099
-#EXTINF:-1,TR: NEXTBOX ANIMASYON
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45100
-#EXTINF:-1,TR: NETSERVER ANIMASYON
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45101
-#EXTINF:-1,TR: NETSERVER ANIMASYON 2
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45102
-#EXTINF:-1,TR: NETSERVER ANIMASYON 3
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45103
-#EXTINF:-1,TR: NETSERVER ANIMASYON 4
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45104
-#EXTINF:-1,TR: NETSERVER ANIMASYON 5
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45105
-#EXTINF:-1,TR: NETSERVER ANIMASYON 6
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45106
-#EXTINF:-1,TR: SMART COCUK
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45107
-#EXTINF:-1,TR: SIRINLER 7/24
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45108
-#EXTINF:-1,TR: FASHION TV
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45109
-#EXTINF:-1,TR: FASHION MIDNIGHT*
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45110
-#EXTINF:-1,TR | BEIN SPORTS Max 1 FHD
-http://sawaiptv.vip:80/Darkiptv/Abdelhady/45111
+http://xtream-iptvpanel.com:8080/alican01/01alican/143212
+#EXTINF:-1,TR: ENO HINT 1
+http://xtream-iptvpanel.com:8080/alican01/01alican/143213
+#EXTINF:-1,TR: ENO HINT 2
+http://xtream-iptvpanel.com:8080/alican01/01alican/143214
+#EXTINF:-1,TR: SINEVIZYON 1
+http://xtream-iptvpanel.com:8080/alican01/01alican/143215
+#EXTINF:-1,TR: SINEVIZYON 2
+http://xtream-iptvpanel.com:8080/alican01/01alican/143216
+#EXTINF:-1,TR: SINEVIZYON 3
+http://xtream-iptvpanel.com:8080/alican01/01alican/143217
+#EXTINF:-1,TR: SINEVIZYON 4
+http://xtream-iptvpanel.com:8080/alican01/01alican/143218
+#EXTINF:-1,TR: SINEVIZYON 5
+http://xtream-iptvpanel.com:8080/alican01/01alican/143219
+#EXTINF:-1,TR: SINEVIZYON 6
+http://xtream-iptvpanel.com:8080/alican01/01alican/143220
+#EXTINF:-1,TR: SINEVIZYON 7
+http://xtream-iptvpanel.com:8080/alican01/01alican/143221
+#EXTINF:-1,TR: SINEVIZYON 8
+http://xtream-iptvpanel.com:8080/alican01/01alican/143222
+#EXTINF:-1,TR: SINEVIZYON 9
+http://xtream-iptvpanel.com:8080/alican01/01alican/143223
+#EXTINF:-1,TR: SINEVIZYON 10
+http://xtream-iptvpanel.com:8080/alican01/01alican/143224
+#EXTINF:-1,TR: BlueTV Cukur HD 
+http://xtream-iptvpanel.com:8080/alican01/01alican/145582
+#EXTINF:-1,TR: BlueTV Sıfır Bir HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/145586
+#EXTINF:-1,TR: BlueTV Güldür Güldür HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/145592
+#EXTINF:-1,TR: BlueTV Exxen Konusanlar HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/146230
+#EXTINF:-1,TR: BlueTV O Ses Türkiye Rap HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/146231
+#EXTINF:-1,TR: BlueTV Aşk-ı Memnu
+http://xtream-iptvpanel.com:8080/alican01/01alican/147188
+#EXTINF:-1,TR: BlueTV Kuzey Güney HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/147950
+#EXTINF:-1,TR: BlueTV Kemal Sunal HD 1
+http://xtream-iptvpanel.com:8080/alican01/01alican/46739
+#EXTINF:-1,TR: BlueTV Kemal Sunal HD 2
+http://xtream-iptvpanel.com:8080/alican01/01alican/97312
+#EXTINF:-1,TR: BlueTV Kemal Sunal HD 3 
+http://xtream-iptvpanel.com:8080/alican01/01alican/97313
+#EXTINF:-1,TR: BlueTV Sener Sen HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/150333
+#EXTINF:-1,TR: BlueTV Cüneyit Arkin  HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/150321
+#EXTINF:-1,TR: BlueTV Ferdi Tayfur HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/150324
+#EXTINF:-1,TR: BlueTV Ibrahim Tatlises HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/150325
+#EXTINF:-1,TR: BlueTV Kadir Inanir  HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/150326
+#EXTINF:-1,TR: BlueTV Müslüm Gürses HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/150327
+#EXTINF:-1,TR: BlueTV Orhan Gencebay HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/150328
+#EXTINF:-1,TR: BlueTV Sadri Alisik HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/150329
+#EXTINF:-1,TR: BlueTV Tarik Akan HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/150330
+#EXTINF:-1,TR: BlueTV Yilmaz Güney HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/150331
+#EXTINF:-1,TR: BlueTV Zeki Metin HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/150332
+#EXTINF:-1,TR: BlueTV Yeşilçam 1 HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/146015
+#EXTINF:-1,TR: BlueTV Yeşilçam 2 HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/146016
+#EXTINF:-1,TR: BlueTV Yeşilçam 3 HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/146017
+#EXTINF:-1,TR: BlueTV Yeşilçam 4 HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/146018
+#EXTINF:-1,TR: BlueTV Yeşilçam 5 HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/146019
+#EXTINF:-1,TR: BlueTV Kurtlar Vadisi HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/150334
+#EXTINF:-1,TR: BlueTV O Ses Türkiye HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/150335
+#EXTINF:-1,TR: BlueTV Sokagin Cocuklari HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/150336
+#EXTINF:-1,TR: BlueTV Tolgshow HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/150337
+#EXTINF:-1,TR: BlueTV Yetenek Sizsiniz Türkiye HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/150338
+#EXTINF:-1,TR: BlueTV Diriliş Ertuğrul HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/150531
+#EXTINF:-1,TR: BlueTV Game Of Thrones HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/150532
+#EXTINF:-1,TR: BlueTV Kardeş Payı HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/150533
+#EXTINF:-1,TR: BlueTV Vikingler HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/150535
+#EXTINF:-1,TR: BlueTV Oyun Havaları HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/148563
+#EXTINF:-1,TR: BlueTV Türkçe Pop HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/148564
+#EXTINF:-1,TR: BlueTV Türkçe Rap HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/148565
+#EXTINF:-1,TR: BlueTV Türkçe Slow HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/148566
+#EXTINF:-1,TR: BlueTV Yabancı Rap HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/148567
+#EXTINF:-1,TR: BlueTV Yabancı Pop HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/148568
+#EXTINF:-1,TR: Karadeniz Akustik
+http://xtream-iptvpanel.com:8080/alican01/01alican/46806
+#EXTINF:-1,TR: Neşet Ertaş Tv
+http://xtream-iptvpanel.com:8080/alican01/01alican/136343
+#EXTINF:-1,TR: Ibrahim Tatlises Tv
+http://xtream-iptvpanel.com:8080/alican01/01alican/140202
+#EXTINF:-1,TR: Orhan Gencebay Tv
+http://xtream-iptvpanel.com:8080/alican01/01alican/136344
+#EXTINF:-1,TR: Meyhane Tv
+http://xtream-iptvpanel.com:8080/alican01/01alican/136345
+#EXTINF:-1,TR: Ahmet Kaya Tv
+http://xtream-iptvpanel.com:8080/alican01/01alican/139457
+#EXTINF:-1,TR: Müslüm Gürses Tv
+http://xtream-iptvpanel.com:8080/alican01/01alican/136347
+#EXTINF:-1,TR: Ferdi Tayfur Tv
+http://xtream-iptvpanel.com:8080/alican01/01alican/136348
+#EXTINF:-1,TR: 90´lar Tv
+http://xtream-iptvpanel.com:8080/alican01/01alican/136346
+#EXTINF:-1,TR: TRT Müzik HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46793
+#EXTINF:-1,TR: KRAL POP HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46803
+#EXTINF:-1,TR: KRAL TV  HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46804
+#EXTINF:-1,TR: DREAM TV HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46794
+#EXTINF:-1,TR: DREAM TURK HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46795
+#EXTINF:-1,TR: POWER TURK HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46796
+#EXTINF:-1,TR: POWER HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46797
+#EXTINF:-1,TR: NR1 TURK HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46798
+#EXTINF:-1,TR: NR 1 HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46799
+#EXTINF:-1,TR: DIYANET TV
+http://xtream-iptvpanel.com:8080/alican01/01alican/4533
+#EXTINF:-1,TR: KABE TV CANLI
+http://xtream-iptvpanel.com:8080/alican01/01alican/4534
+#EXTINF:-1,TR: LALEGUL TV
+http://xtream-iptvpanel.com:8080/alican01/01alican/4537
+#EXTINF:-1,TR: REHBER TV
+http://xtream-iptvpanel.com:8080/alican01/01alican/4538
+#EXTINF:-1,TR: SEMERKAND TV HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/4539
+#EXTINF:-1,TR: TV5
+http://xtream-iptvpanel.com:8080/alican01/01alican/4540
+#EXTINF:-1,TR: DOST TV
+http://xtream-iptvpanel.com:8080/alican01/01alican/14432
+#EXTINF:-1,TR: BlueTV Animasyon 1 HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46598
+#EXTINF:-1,TR: BlueTV Animasyon 2 HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46599
+#EXTINF:-1,TR: BlueTV Niloya HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46625
+#EXTINF:-1,TR: BlueTV RedKit HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/146393
+#EXTINF:-1,TR: BlueTV He-Man HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/146425
+#EXTINF:-1,TR: BlueTV Ninja Kaplumbağalar HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/146395
+#EXTINF:-1,TR: BlueTV Maşa ile Koca Ayı HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46596
+#EXTINF:-1,TR: BlueTV Tom & Jerry HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46603
+#EXTINF:-1,TR: BlueTV Şirinler HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46620
+#EXTINF:-1,TR: BOOMERANG HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46604
+#EXTINF:-1,TR: BABY TV HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46605
+#EXTINF:-1,TR: CARTOON NETWORK HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46607
+#EXTINF:-1,TR: DISNEY CHANNEL HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46611
+#EXTINF:-1,TR: DISNEY JR HD+
+http://xtream-iptvpanel.com:8080/alican01/01alican/46612
+#EXTINF:-1,TR: DISNEY JR HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46613
+#EXTINF:-1,TR: DiSNEY XD HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46616
+#EXTINF:-1,TR: MINICA GO
+http://xtream-iptvpanel.com:8080/alican01/01alican/46617
+#EXTINF:-1,TR: MINIKA COCUK
+http://xtream-iptvpanel.com:8080/alican01/01alican/46618
+#EXTINF:-1,TR: NICK JR HD HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46619
+#EXTINF:-1,TR: NICKELODEON HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46621
+#EXTINF:-1,TR: KUKULI TV
+http://xtream-iptvpanel.com:8080/alican01/01alican/46622
+#EXTINF:-1,TR: PIJAMA MASKELILER TV
+http://xtream-iptvpanel.com:8080/alican01/01alican/46624
+#EXTINF:-1,TR: PEPEE TV
+http://xtream-iptvpanel.com:8080/alican01/01alican/46626
+#EXTINF:-1,TR: TRT ÇOCUK HD
+http://xtream-iptvpanel.com:8080/alican01/01alican/46627
