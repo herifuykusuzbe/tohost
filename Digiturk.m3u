@@ -1,408 +1,626 @@
-#EXTM3U
-#EXTINF:0, TR| TRT 4K
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/592
-#EXTINF:0, TR| TRT 1 HD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/500
-#EXTINF:0, TR: TRT1 UHD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/273
-#EXTINF:0, TR: ATV HD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/498
-#EXTINF:0, TR: ATV UHD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/271
-#EXTINF:0, TR| ATV EU
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/552
-#EXTINF:0, TR| SHOW TV HD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/499
-#EXTINF:0, TR: SHOW TV UHD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/269
-#EXTINF:0, TR| SHOWTV EU
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/550
-#EXTINF:0, TR| STARTV HD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/496
-#EXTINF:0, TR: STAR TV UHD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/268
-#EXTINF:0, TR| STARTV EU
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/553
-#EXTINF:0, TR| KANAL D HD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/497
-#EXTINF:0, TR: KANALD UHD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/267
-#EXTINF:0, TR| KANAL D EU
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/551
-#EXTINF:0, TR| FOXTV HD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/503
-#EXTINF:0, TR: FOX TV UHD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/270
-#EXTINF:0, TR| TV 8 HD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/501
-#EXTINF:0, TR: TV8 UHD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/272
-#EXTINF:0, TR| TV 8 INT
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/561
-#EXTINF:0, TR: TV 8.5 UHD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/275
-#EXTINF:0, TR| TV8'5
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/542
-#EXTINF:0, TR| BEYAZ TV HD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/504
-#EXTINF:0, TR| BEYAZ TV UHD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/278
-#EXTINF:0, TR| KANAL 7 EU
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/611
-#EXTINF:0, TR| KANAL 7 HD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/502
-#EXTINF:0, TR| TRT 2 HD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/602
-#EXTINF:0, TR| TRT TÜRK
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/554
-#EXTINF:0, TR| TRT AVAZ
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/544
-#EXTINF:0, 1|TR| TRSPOR HD
-http://37.221.122.86:8383/trspor.ts
-#EXTINF:0, TR| TRT MUZIK
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/568
-#EXTINF:0, TR| TRT BELGESEL HD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/571
-#EXTINF:0, TR| TRT COCUK
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/537
-#EXTINF:0, TR| SHOW MAX HD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/563
-#EXTINF:0, TR| TV NET
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/509
-#EXTINF:0, TR| TV100
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/595
-#EXTINF:0, TR| SKYTÜRK 360
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/527
-#EXTINF:0, TR| TAY TV HD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/607
-#EXTINF:0, TR| TELE1
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/549
-#EXTINF:0, TR| TEVE2 HD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/529
-#EXTINF:0, TR| TGRT BELGESEL
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/596
-#EXTINF:0, TR| TGRT EU
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/600
-#EXTINF:0, TR| SEMERKAND TV
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/572
-#EXTINF:0, TR| TR| KANAL 7  UHD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/277
-#EXTINF:0, TR| TRT DIYANET
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/546
-#EXTINF:0, TR| ÜLKE TV HD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/578
-#EXTINF:0, TR| YABAN TV
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/516
-#EXTINF:0, TR| TBMM TV
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/556
-#EXTINF:0, TR| TRTSPOR HD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/489
-#EXTINF:0, TR| A2
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/545
-#EXTINF:0, TR: A2 UHD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/274
-#EXTINF:0, TR| YOL TV
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/564
-#EXTINF:0, TR| VATAN TV
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/574
-#EXTINF:0, TR| KANAL 24
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/533
-#EXTINF:0, TR| KANAL 32
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/612
-#EXTINF:0, TR| KANAL 38
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/588
-#EXTINF:0, TR| KANAL AVRUPA
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/587
-#EXTINF:0, TR| FOX CRIME
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/526
-#EXTINF:0, TR| FOX LIFE
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/525
-#EXTINF:0, TR| FX HD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/521
-#EXTINF:0, TR | S SPOR PLUS HD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/617
-#EXTINF:0, TR| 24 KITCHEN HD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/613
-#EXTINF:0, TR| AKIT TV
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/555
-#EXTINF:0, TR| ANIMAUX
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/604
-#EXTINF:0, TR| AUTOMOTO HD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/615
-#EXTINF:0, TR: DA Vinci Kids
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/495
-#EXTINF:0, TR| BBC EARTH HD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/534
-#EXTINF:0, TR| BEIN GURME HD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/494
-#EXTINF:0, TR| BEIN IZ HD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/486
-#EXTINF:0, TR| BLOOMBERGHT
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/547
-#EXTINF:0, TR| BOOMERANG HD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/577
-#EXTINF:0, TR| CAN TV
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/557
-#EXTINF:0, TR| CARTOON NETWORK HD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/575
-#EXTINF:0, TR| CBEEBIES
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/511
-#EXTINF:0, TR| CEM TV
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/580
-#EXTINF:0, TR| CIFTCI TV
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/566
-#EXTINF:0, TR| CNN TURK UHD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/279
-#EXTINF:0, TR| CNNTÜRK HD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/523
-#EXTINF:0, TR| DISNEY JUNIOR
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/510
-#EXTINF:0, TR| DISNEY XD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/601
-#EXTINF:0, TR| DOST TV
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/610
-#EXTINF:0, TR| DREAM TURK TV
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/562
-#EXTINF:0, TR| DREAM TV
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/585
-#EXTINF:0, TR| HABER GLOBAL
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/559
-#EXTINF:0, TR| HABERTÜRK
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/520
-#EXTINF:0, TR| HALK TV
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/548
-#EXTINF:0, TR| HISTORY HD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/483
-#EXTINF:0, TR| NTV HABER
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/507
-#EXTINF:0, TR| NTV HABER UHD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/280
-#EXTINF:0, TR| KON TV
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/569
-#EXTINF:0, TR| KRAL POP
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/590
-#EXTINF:0, TR| KRAL TV
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/591
-#EXTINF:0, TR| KRALPOP AKUSTIK
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/540
-#EXTINF:0, TR| KRT KULTURTV
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/593
-#EXTINF:0, TR| LALEGUL TV
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/573
-#EXTINF:0, TR| MAVI KARADENIZ
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/581
-#EXTINF:0, TR| MEDINE TV
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/560
-#EXTINF:0, TR| MINIKA COCUK
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/515
-#EXTINF:0, TR| MINIKA GO
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/565
-#EXTINF:0, TR| NBA TV HD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/543
-#EXTINF:0, TR| NR1 HD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/528
-#EXTINF:0, TR| NR1 TURK
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/567
-#EXTINF:0, TR| ON4 TV HD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/589
-#EXTINF:0, TR| POWER HD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/570
-#EXTINF:0, TR| POWER TÜRK HD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/530
-#EXTINF:0, TR| RUMELI TV
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/579
-#EXTINF:0, TR| S SPORT 2 HD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/605
-#EXTINF:0, TR| S SPORT HD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/532
-#EXTINF:0, TR| S SPORT UHD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/584
-#EXTINF:0, TR| DMAX HD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/491
-#EXTINF:0, TR| NAT GEO PEOPLE HD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/522
-#EXTINF:0, TR| NATIONAL GEO WILD HD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/485
-#EXTINF:0, TR| NATIONAL GEOGRAPHIC HD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/482
-#EXTINF:0, TR| DA VINCI LEARNING
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/524
-#EXTINF:0, TR| DISCOVERY CHANEL HD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/484
-#EXTINF:0, TR| Discovery DTX Turbo HD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/594
-#EXTINF:0, TR| DISCOVERY IDX HD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/536
-#EXTINF:0, TR| DISCOVERY SCIENCE HD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/535
-#EXTINF:0, TR| DISCOVERY SHOWCASE HD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/609
-#EXTINF:0, TR| SCIENCE & VIE TV HD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/616
-#EXTINF:0, TR| TLC HD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/514
-#EXTINF:0, TR| Viasat Explore HD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/606
-#EXTINF:0, TR| ANIMAL PLANET HD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/538
-#EXTINF:0, TR| CHASSE & PECHE
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/603
-#EXTINF:0, TR| VIASAT HISTORY & NATURE HD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/541
-#EXTINF:0, TR| TOM & JERRY TV
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/597
-#EXTINF:0, TR| NICKELODEON HD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/513
-#EXTINF:0, TR| NICKELODEON JR
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/512
-#EXTINF:0, TR| PEPE TV
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/599
-#EXTINF:0, TR| NILOYA TV
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/598
-#EXTINF:0, TR| BENGUTURK
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/608
-#EXTINF:0, TR| ULUSAL KANAL
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/576
-#EXTINF:0, TR| A HABER HD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/508
-#EXTINF:0, TR| A HABER UHD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/282
-#EXTINF:0, TR| A PARA HD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/558
-#EXTINF:0, TR| KANAL 24 UHD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/283
-#EXTINF:0, TR| TGRT HABER
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/519
-#EXTINF:0, TR| TRT HABER  UHD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/281
-#EXTINF:0, TR| TRT HABER HD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/493
-#EXTINF:0, TR| BEIN SPORT 1 (480P)
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/463
-#EXTINF:0, TR| beIN SPORT 1 1800k  MDL
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/465
-#EXTINF:0, TR| UYDU: beIN SPORT 1 1200k  MDL
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/467
-#EXTINF:0, TR| beIN SPORTS 1 UHD &UYDU ALMANYA&
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/477
-#EXTINF:0, TR| beIN SPORTS 1 UHD ULTRA YUKSEK KALITE
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/468
-#EXTINF:0, TR| beIN SPORTS 2 HD & DT PLAY &
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/457
-#EXTINF:0, TR| beIN SPORTS 2 UHD &UYDU ALMANYA&
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/476
-#EXTINF:0, TR| beIN SPORTS 3 HD & DT PLAY &
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/458
-#EXTINF:0, TR| beIN SPORTS 3 UHD  & MDL &
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/472
-#EXTINF:0, TR| beIN SPORTS 4 HD & DT PLAY &
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/459
-#EXTINF:0, TR| beIN SPORTS 4 UHD  & MDL &
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/473
-#EXTINF:0, TR| beIN SPORTS HABER HD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/582
-#EXTINF:0, TR| beIN SPORTS MAX HD 1 & DT PLAY &
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/460
-#EXTINF:0, TR| beIN SPORTS MAX HD 2 & DT PLAY &
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/461
-#EXTINF:0, TR| TIVIBU SPOR-1 HD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/480
-#EXTINF:0, TR| TIVIBU SPOR-2 HD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/481
-#EXTINF:0, TR| TIVIBU SPOR-3 HD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/539
-#EXTINF:0, TR| SMARTSPOR HD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/531
-#EXTINF:0, TR| SMARTSPOR UHD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/583
-#EXTINF:0, TR| SPORTSTV HD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/492
-#EXTINF:0, TR| A SPOR HD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/490
-#EXTINF:0, TR| A SPOR UHD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/284
-#EXTINF:0, TR| TRT SPOR 2
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/586
-#EXTINF:0, TR| TRT SPOR UHD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/276
-#EXTINF:0, TR:TIVIBU | SINEMA TV HD
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/170
-#EXTINF:0, FILMBOX YESILCAM
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/33577
-#EXTINF:0, FILMBOX KEMAL SUNAL TV
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/33578
-#EXTINF:0, FILMBOX SENER SEN TV
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/33579
-#EXTINF:0, FILMBOX ZEKI & METIN TV
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/33580
-#EXTINF:0, FILMBOX TARIK AKAN TV
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/33581
-#EXTINF:0, FILMBOX KADIR INANIR TV
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/33582
-#EXTINF:0, FILMBOX ILYAS SALMAN TV
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/33583
-#EXTINF:0, FILMBOX CUNEYT ARKIN TV
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/33584
-#EXTINF:0, FILMBOX YERLI
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/33575
-#EXTINF:0, FILMBOX SINEVIZYON  INFO
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/33565
-#EXTINF:0, FILMBOX SINEVIZYON 1
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/33564
-#EXTINF:0, FILMBOX SINEVIZYON 2
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/33566
-#EXTINF:0, FILMBOX SINEVIZYON 3
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/33563
-#EXTINF:0, FILMBOX SINEVIZYON 4
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/33562
-#EXTINF:0, FILMBOX SINEVIZYON 5
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/33561
-#EXTINF:0, FILMBOX SINEVIZYON 6
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/33560
-#EXTINF:0, FILMBOX SINEVIZYON 7
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/33559
-#EXTINF:0, FILMBOX SINEVIZYON 8
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/33558
-#EXTINF:0, FILMBOX SINEVIZYON 9
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/33557
-#EXTINF:0, FILMBOX SINEVIZYON 10
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/33567
-#EXTINF:0, FILMBOX SINEVIZYON 11
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/33556
-#EXTINF:0, FILMBOX SINEVIZYON 12
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/33568
-#EXTINF:0, FILMBOX SINEVIZYON 20
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/33548
-#EXTINF:0, FILMBOX SINEVIZYON 19
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/33549
-#EXTINF:0, FILMBOX SINEVIZYON 18
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/33550
-#EXTINF:0, FILMBOX SINEVIZYON 17
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/33551
-#EXTINF:0, FILMBOX SINEVIZYON 16
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/33552
-#EXTINF:0, FILMBOX SINEVIZYON 15
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/33553
-#EXTINF:0, FILMBOX SINEVIZYON 14
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/33554
-#EXTINF:0, FILMBOX SINEVIZYON 13
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/33555
-#EXTINF:0, FILMBOX ACTION
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/33569
-#EXTINF:0, FILMBOX BILIMKURGU
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/33570
-#EXTINF:0, FILMBOX FANTASTIC
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/33571
-#EXTINF:0, FILMBOX DRAMA
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/33572
-#EXTINF:0, FILMBOX COMEDY
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/33573
-#EXTINF:0, FILMBOX HORROR
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/33574
-#EXTINF:0, FILMBOX FAMILY
-http://kemo.kaltv.eu:80/halobundesligaxfd@/PAL4gvnCTmxcsfs23223/33576
-#EXTINF:0, 2|TR| beIN FUTBOL HD
-http://37.221.122.86:8383/trspor.ts
-#EXTINF:0, 3|TR| BEINSPORTS 1 HD
-http://37.221.122.86:8383/trspor.ts
-#EXTINF:131, 4|TR| BEINSPORTS Vhttp://37.221.122.86:8383/hls/trspor/playlist.m3u8
+#EXTINF:-1,##TR: SPOR##
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70621
+#EXTINF:-1,TR: beIN Sports Haber HD+
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70622
+#EXTINF:-1,TR: beIN SPORTS 1 HD+
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70623
+#EXTINF:-1,TR: beIN SPORTS HD+
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70624
+#EXTINF:-1,TR: beIN SPORTS 1 FEED
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70625
+#EXTINF:-1,TR: beIN SPORTS 2 HD+
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70626
+#EXTINF:-1,TR: beIN SPORTS 2 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70627
+#EXTINF:-1,TR: beIN SPORTS 3 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70628
+#EXTINF:-1,TR: beIN SPORTS 3 HD+
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70629
+#EXTINF:-1,TR: beIN SPORTS 3 HD+
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70630
+#EXTINF:-1,TR: beIN SPORTS 4 HD+
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70631
+#EXTINF:-1,TR: beIN SPORTS 4 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70632
+#EXTINF:-1,TR: beIN SPORTS MAX 1 HD+
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70633
+#EXTINF:-1,TR: beIN SPORT 1 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70634
+#EXTINF:-1,TR: beIN SPORTS MAX 2 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70635
+#EXTINF:-1,TR: beIN SPORTS MAX 2 HD+
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70636
+#EXTINF:-1,TR: TIVIBU SPOR 1 HD+
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70637
+#EXTINF:-1,TR: TIVIBU SPOR 2 HD+
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70638
+#EXTINF:-1,TR: TIVIBU SPOR 3 HD+
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70639
+#EXTINF:-1,TR: Spor Smart HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70640
+#EXTINF:-1,TR: S Sport PLUS HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70641
+#EXTINF:-1,TR: S Sport 2 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70642
+#EXTINF:-1,TR: S Sport HD+
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70643
+#EXTINF:-1,TR: EUROSPORT 1 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70644
+#EXTINF:-1,TR: EUROSPORT 2
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70645
+#EXTINF:-1,TR: NBA TV HD+
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70646
+#EXTINF:-1,TR: TRT SPOR HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70647
+#EXTINF:-1,TR: TRT SPOR 2 HD+
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70648
+#EXTINF:-1,TR: A Spor HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70649
+#EXTINF:-1,TR: A SPOR HD+
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70650
+#EXTINF:-1,TR: GS TV
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70651
+#EXTINF:-1,TR: FB TV HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70652
+#EXTINF:-1,TR: TJK HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70653
+#EXTINF:-1,TR: Tivibu Spor 4
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70654
+#EXTINF:-1,TR: beIN SPORTS 1 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70655
+#EXTINF:-1,TR: TRT SPOR 2
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70656
+#EXTINF:-1,TR : Smart Spor 2
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70657
+#EXTINF:-1,EXXEN FEED
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70658
+#EXTINF:-1,TR: A Haber HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70659
+#EXTINF:-1,TR: CNN Turk HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70660
+#EXTINF:-1,TR: CNN Turk HD+
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70661
+#EXTINF:-1,TR: Haber Turk HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70662
+#EXTINF:-1,TR: TGRT Haber HD+
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70663
+#EXTINF:-1,TR: NTV HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70664
+#EXTINF:-1,TR: NTV Haber HD+
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70665
+#EXTINF:-1,TR: Ulke TV HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70666
+#EXTINF:-1,TR: Ulke TV HD+
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70667
+#EXTINF:-1,TR: TELE 1
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70668
+#EXTINF:-1,TR: A HABER HD+
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70669
+#EXTINF:-1,TR: A PARA HD+
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70670
+#EXTINF:-1,TR: A SPOR HD+
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70671
+#EXTINF:-1,TR: APARA HD+
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70672
+#EXTINF:-1,TR: BLOOMBERG HT HD+
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70673
+#EXTINF:-1,TR: BLOOMBERG HT HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70674
+#EXTINF:-1,TR: GLOBAL HABER HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70675
+#EXTINF:-1,TR: HABER GLOBAL HD+
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70676
+#EXTINF:-1,TR: HABER TURK HD+
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70677
+#EXTINF:-1,TR: HALK TV HD+
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70678
+#EXTINF:-1,TR: TGRT HABER HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70679
+#EXTINF:-1,TR: TRT HABER HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70680
+#EXTINF:-1,TR: TRT Haber HD+
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70681
+#EXTINF:-1,TR: TRT 1 4K
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70682
+#EXTINF:-1,TR: ATV Avrupa
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70683
+#EXTINF:-1,TR: Euro Star
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70684
+#EXTINF:-1,TR: Star TV HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70685
+#EXTINF:-1,TR: Show TV HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70686
+#EXTINF:-1,TR: Show Turk
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70687
+#EXTINF:-1,TR: Kanal D
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70688
+#EXTINF:-1,TR: Fox HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70689
+#EXTINF:-1,TR: Kanal 7 Avrupa
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70690
+#EXTINF:-1,TR: Kanal 7 HD+
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70691
+#EXTINF:-1,TR: Kanal 7 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70692
+#EXTINF:-1,TR: Beyaz HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70693
+#EXTINF:-1,TR: TV 8 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70694
+#EXTINF:-1,TR: TV 8 HD+
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70695
+#EXTINF:-1,TR: ATV HD+
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70696
+#EXTINF:-1,TR: ATV HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70697
+#EXTINF:-1,TR: BEYAZ TV HD+
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70698
+#EXTINF:-1,TR: FOX TV HD+
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70699
+#EXTINF:-1,TR: KANAL D HD+
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70700
+#EXTINF:-1,TR: SHOW TV HD+
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70701
+#EXTINF:-1,TR: STAR TV HD+
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70702
+#EXTINF:-1,TR: TRT 1 HD+
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70703
+#EXTINF:-1,TR: TRT TURK HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70704
+#EXTINF:-1,TR: TRT 4K
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70705
+#EXTINF:-1,TR: TRT 1 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70706
+#EXTINF:-1,TR: TV 8.5 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70707
+#EXTINF:-1,TR: ULUSAL TV HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70708
+#EXTINF:-1,TR: SKY 360 TV HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70709
+#EXTINF:-1,TR: A2 HD+
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70710
+#EXTINF:-1,TR: A2 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70711
+#EXTINF:-1,TR: SKY TURK 360 TV FHD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70712
+#EXTINF:-1,TR: TEVE 2 HD+
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70713
+#EXTINF:-1,TR: TEVE 2
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70714
+#EXTINF:-1,##TR: ULUSAL##
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70715
+#EXTINF:-1,TR: A Haber HD+
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70716
+#EXTINF:-1,TR: EURO D
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70717
+#EXTINF:-1,TR: TV 100
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70718
+#EXTINF:-1,TR: KRT
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70719
+#EXTINF:-1,TR: ARTI TV HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70720
+#EXTINF:-1,TR: TV 8.5 HD+
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70721
+#EXTINF:-1,TR: TV 8 INT
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70722
+#EXTINF:-1,TR: ATV Hevc
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70723
+#EXTINF:-1,TR: FOX TV Hevc
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70724
+#EXTINF:-1,TR: KANAL D Hevc
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70725
+#EXTINF:-1,TR: SHOW TV FHD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70726
+#EXTINF:-1,TR: TRT 1 FHD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70727
+#EXTINF:-1,TR: TV 8.5 Hevc
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70728
+#EXTINF:-1,TR: BEYAZ TV Hevc
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70729
+#EXTINF:-1,TR: TV8 Hevc
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70730
+#EXTINF:-1,TR: KANAL 7 Hevc
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70731
+#EXTINF:-1,TR: TV 100 FHD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70732
+#EXTINF:-1,TR: TEVE 2 Hevc
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70733
+#EXTINF:-1,TR: A2 Hevc
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70734
+#EXTINF:-1,TR: TRT 4K UHD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70735
+#EXTINF:-1,TR: STAR TV Hevc
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70736
+#EXTINF:-1,TR: TRT 2 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70737
+#EXTINF:-1,TR: YILDIZ TV EN
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70738
+#EXTINF:-1,TR: ANADOLU DERNEK TV
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70739
+#EXTINF:-1,TR: TRT AVAZ FHD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70740
+#EXTINF:-1,TR: IBB TV
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70741
+#EXTINF:-1,TR: Meclis TV HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70742
+#EXTINF:-1,TR: GAZIANTEP OLAY TV
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70743
+#EXTINF:-1,TR: KANAL 19
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70744
+#EXTINF:-1,TR: KANAL 56
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70745
+#EXTINF:-1,TR: KANAL 58
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70746
+#EXTINF:-1,TR: KANAL ANTALYA
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70747
+#EXTINF:-1,TR: KANAL YALOVA
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70748
+#EXTINF:-1,TR: TEMPO TV
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70749
+#EXTINF:-1,TR: 38 KENT TURK
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70750
+#EXTINF:-1,TR: Mekke TV
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70751
+#EXTINF:-1,TR: MEDINE TV
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70752
+#EXTINF:-1,TR: CINE5 TV
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70753
+#EXTINF:-1,TR: Yol Tv HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70754
+#EXTINF:-1,TR: CEM TV
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70755
+#EXTINF:-1,TR: Tom Ve Jerry Klasik
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70756
+#EXTINF:-1,TR: Heidi 3D
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70757
+#EXTINF:-1,TR: Sünger Bob
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70758
+#EXTINF:-1,TR: PAW Patrol
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70759
+#EXTINF:-1,TR: Peppa Pig HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70760
+#EXTINF:-1,TR: Pijamaskeliler 1 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70761
+#EXTINF:-1,TR: 80 Günde Devr-i Alem HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70762
+#EXTINF:-1,TR: Bin Bir Massal 1 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70763
+#EXTINF:-1,TR: Maşa ile Koca Ayı 1 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70764
+#EXTINF:-1,TR: Şirinler 1 FHD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70765
+#EXTINF:-1,TR: Rafadan Tayfa 1 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70766
+#EXTINF:-1,TR: Keloğlan 1 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70767
+#EXTINF:-1,TR: Oddbods HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70768
+#EXTINF:-1,TR: Kukuli 1 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70769
+#EXTINF:-1,TR: Pepee 1 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70770
+#EXTINF:-1,TR: Limon ile Zeytin 1 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70771
+#EXTINF:-1,TR: Canım Kardeşim 1 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70772
+#EXTINF:-1,TR: Niloya 2 FHD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70773
+#EXTINF:-1,TR: Temel Reis
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70774
+#EXTINF:-1,TR: Niloya TV HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70775
+#EXTINF:-1,TR: DISNEY CHANNEL HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70776
+#EXTINF:-1,TR: SMART COCUK HD+
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70777
+#EXTINF:-1,TR: TRT EBA iLKOKUL нᴅ
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70778
+#EXTINF:-1,TR: TRT EBA ORTAOKUL нᴅ
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70779
+#EXTINF:-1,TR: TRT EBA LiSE нᴅ
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70780
+#EXTINF:-1,TR: DA VINCI KIDS ғнᴅ
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70781
+#EXTINF:-1,TR: TRT COCUK нᴅ
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70782
+#EXTINF:-1,TR: BOOMERANG ғнᴅ
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70783
+#EXTINF:-1,TR: CARTOON NETWORK ѕᴅ
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70784
+#EXTINF:-1,TR: DISNEY CHANNEL ѕᴅ
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70785
+#EXTINF:-1,TR: DISNEY JUNIOR ѕᴅ
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70786
+#EXTINF:-1,TR: DISNEY XD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70787
+#EXTINF:-1,TR: MINIKA GO ѕᴅ
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70788
+#EXTINF:-1,TR: MINIKA COCUK ѕᴅ
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70789
+#EXTINF:-1,TR: NICKELODEON нᴅ
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70790
+#EXTINF:-1,TR: NICKELODEON JR ѕᴅ
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70791
+#EXTINF:-1,TR: SMART COCUK FHD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70792
+#EXTINF:-1,TR: BABY TV HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70793
+#EXTINF:-1,TR: CBEEBiES HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70794
+#EXTINF:-1,TR: HİSTORY HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70795
+#EXTINF:-1,TR: Discovery IDX
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70796
+#EXTINF:-1,TR: TRT Belgesel HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70797
+#EXTINF:-1,TR: TLC
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70798
+#EXTINF:-1,TR: Animal Planet HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70799
+#EXTINF:-1,TR: Discovery Channel
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70800
+#EXTINF:-1,TR: Discovery IDX HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70801
+#EXTINF:-1,TR: History Channel HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70802
+#EXTINF:-1,TR: Nat Geo HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70803
+#EXTINF:-1,TR: Nat Geo Wild HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70804
+#EXTINF:-1,TR: Yaban TV
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70805
+#EXTINF:-1,TR: DMAX
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70806
+#EXTINF:-1,TR: Fox Crime HD+
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70807
+#EXTINF:-1,TR: beIN IZ HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70808
+#EXTINF:-1,TR: Da Vinci Learning HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70809
+#EXTINF:-1,TR: DISCOVERY CHANNEL
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70810
+#EXTINF:-1,TR: VIASAT HISTORY
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70811
+#EXTINF:-1,TR: beIN GURME HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70812
+#EXTINF:-1,TR: DISCOVERY SCIENCE HD+
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70813
+#EXTINF:-1,TR: BBC EARTH
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70814
+#EXTINF:-1,TR: Discovery Turbo Extra HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70815
+#EXTINF:-1,##TR: SINEMA##
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70816
+#EXTINF:-1,TR: Kemal Sunal 1 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70817
+#EXTINF:-1,TR: Kemal Sunal 2 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70818
+#EXTINF:-1,TR: Kemal Sunal 3 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70819
+#EXTINF:-1,TR: Kemal Sunal 4 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70820
+#EXTINF:-1,TR: Kemal Sunal 5 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70821
+#EXTINF:-1,TR: Yesilcam Tv
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70822
+#EXTINF:-1,TR: Siyah Beyaz Yesilcam
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70823
+#EXTINF:-1,TR: Cine Gold Bilim Kurgu HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70824
+#EXTINF:-1,TR: Gine Gold Dram/Western HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70825
+#EXTINF:-1,TR: Cine Gold Polisiye HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70826
+#EXTINF:-1,TR: Cine Gold Dövüş HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70827
+#EXTINF:-1,TR: Cine Gold Dram HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70828
+#EXTINF:-1,TR: Gine Gold Gerilim HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70829
+#EXTINF:-1,TR: Cine Gold Animasyon HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70830
+#EXTINF:-1,TR: Cine Gold Komedi HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70831
+#EXTINF:-1,TR: Cine Gold Korku HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70832
+#EXTINF:-1,TR: Cine Gold Macera HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70833
+#EXTINF:-1,TR: Cine Gold Aksiyon 1 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70834
+#EXTINF:-1,TR: Cine Gold Yerli 5 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70835
+#EXTINF:-1,TR: Cine Gold Belgesel 1 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70836
+#EXTINF:-1,TR: Cine Gold Yerli 1 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70837
+#EXTINF:-1,TR: Cine Gold Yerli 2 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70838
+#EXTINF:-1,TR: Cine Gold Yerli 3 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70839
+#EXTINF:-1,TR: Cine Gold Yerli 4 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70840
+#EXTINF:-1,TR: Kurtlar Vadisi Pusu 1. Sezon
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70841
+#EXTINF:-1,TR: Kurtlar Vadisi Pusu 2. Sezon
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70842
+#EXTINF:-1,TR: Kurtlar Vadisi Pusu 3. Sezon
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70843
+#EXTINF:-1,TR: Kurtlar Vadisi Pusu 4. Sezon
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70844
+#EXTINF:-1,TR: Kurtlar Vadisi Pusu 5. Sezon
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70845
+#EXTINF:-1,TR: Kurtlar Vadisi Pusu 6. Sezon
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70846
+#EXTINF:-1,TR: Kurtlar Vadisi Pusu 7.Sezon
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70847
+#EXTINF:-1,TR: Kurtlar Vadisi Pusu 8. Sezon
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70848
+#EXTINF:-1,TR: CUKUR Sezon 1
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70849
+#EXTINF:-1,TR: Eşkıya Dünyaya Hükümdar Olmaz
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70850
+#EXTINF:-1,TR: HyperKids Prenses
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70851
+#EXTINF:-1,TR: dizi SMART
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70852
+#EXTINF:-1,TR: FX HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70853
+#EXTINF:-1,TR: FOX LIFE
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70854
+#EXTINF:-1,TR: FIGHT BOX HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70855
+#EXTINF:-1,TR: BEIN MOVIES PREMIERE HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70856
+#EXTINF:-1,TR: BEIN MOVIES ACTION HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70857
+#EXTINF:-1,TR: BEIN MOVIES ACTION 2 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70858
+#EXTINF:-1,TR: BEINMOVIES STARS HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70859
+#EXTINF:-1,TR: BEIN MOVIES FAMLY HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70860
+#EXTINF:-1,TR: BEIN MOVIES TURK HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70861
+#EXTINF:-1,TR: Moviesmart Premium 1 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70862
+#EXTINF:-1,TR: Moviesmart Classic HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70863
+#EXTINF:-1,TR: MovieSmart Turk
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70864
+#EXTINF:-1,TR: Sinema TV HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70865
+#EXTINF:-1,TR: Sinema TV Aile HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70866
+#EXTINF:-1,TR: Sinema TV Action HD 1080
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70867
+#EXTINF:-1,TR: Sinema TV Yerli
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70868
+#EXTINF:-1,TR: Sinema TV Comedy HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70869
+#EXTINF:-1,TR: MAXBOX 1 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70870
+#EXTINF:-1,TR: MAXBOX 2 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70871
+#EXTINF:-1,TR: MAXBOX 3 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70872
+#EXTINF:-1,TR: MAXBOX 4 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70873
+#EXTINF:-1,TR: MAXBOX 5 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70874
+#EXTINF:-1,TR: MAXBOX 6 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70875
+#EXTINF:-1,TR: MAXBOX 7 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70876
+#EXTINF:-1,TR: MAXBOX 8 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70877
+#EXTINF:-1,TR: MAXBOX 9 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70878
+#EXTINF:-1,TR: MAXBOX 10 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70879
+#EXTINF:-1,TR: MAXBOX 11 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70880
+#EXTINF:-1,TR: MAXBOX 12 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70881
+#EXTINF:-1,TR: MAXBOX 13 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70882
+#EXTINF:-1,TR: MAXBOX 14 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70883
+#EXTINF:-1,TR: MAXBOX 15 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70884
+#EXTINF:-1,TR: MAXBOX 16 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70885
+#EXTINF:-1,TR: MAXBOX 17 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70886
+#EXTINF:-1,TR: MAXBOX 18 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70887
+#EXTINF:-1,TR: MAXBOX 19 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70888
+#EXTINF:-1,TR: MAXBOX 20 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70889
+#EXTINF:-1,TR: MAXBOX YESILCAM 1 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70890
+#EXTINF:-1,TR: MAXBOX YESILCAM 2 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70891
+#EXTINF:-1,TR: MAXBOX YESILCAM 3 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70892
+#EXTINF:-1,TR: MAXBOX YESILCAM 4 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70893
+#EXTINF:-1,TR: MAXBOX YESILCAM 5 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70894
+#EXTINF:-1,TR: MAXBOX YESILCAM 6 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70895
+#EXTINF:-1,TR: MAXBOX YESILCAM 7 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70896
+#EXTINF:-1,TR: MAXBOX YESILCAM 8 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70897
+#EXTINF:-1,TR: MAXBOX YESILCAM 9 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70898
+#EXTINF:-1,TR: MAXBOX YESILCAM 10 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70899
+#EXTINF:-1,TR: MaxBox Turk 1 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70900
+#EXTINF:-1,TR: MaxBox Turk 2 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70901
+#EXTINF:-1,TR: MaxBox Turk 3 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70902
+#EXTINF:-1,TR: MaxBox Turk 4 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70903
+#EXTINF:-1,TR: MaxBox Turk 5 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70904
+#EXTINF:-1,TR: MaxBox Turk 6 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70905
+#EXTINF:-1,TR: MaxBox Turk 7 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70906
+#EXTINF:-1,TR: MaxBox Turk 8 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70907
+#EXTINF:-1,TR: MaxBox Turk 9 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70908
+#EXTINF:-1,TR: MaxBox Turk 10 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70909
+#EXTINF:-1,TR: MaxBox Netflix 1 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70910
+#EXTINF:-1,TR: MaxBox Netflix 2 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70911
+#EXTINF:-1,TR: MaxBox Netflix 3 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70912
+#EXTINF:-1,TR: MaxBox Netflix 4 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70913
+#EXTINF:-1,TR: MaxBox Netflix 5 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70914
+#EXTINF:-1,TR: MaxBox Netflix 6 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70915
+#EXTINF:-1,TR: MaxBox Netflix 7 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70916
+#EXTINF:-1,TR: MaxBox Netflix 8 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70917
+#EXTINF:-1,TR: MaxBox Netflix 9 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70918
+#EXTINF:-1,TR: MaxBox Netflix 10 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70919
+#EXTINF:-1,TR: MaxBox Cocuk 1 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70920
+#EXTINF:-1,TR: MaxBox Cocuk 2 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70921
+#EXTINF:-1,TR: MaxBox Cocuk 3 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70922
+#EXTINF:-1,TR: MaxBox Cocuk 4 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70923
+#EXTINF:-1,TR: MaxBox Cocuk 5 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70924
+#EXTINF:-1,TR: MaxBox Cocuk 6 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70925
+#EXTINF:-1,TR: MaxBox Cocuk 7 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70926
+#EXTINF:-1,TR: MaxBox Cocuk 8 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70927
+#EXTINF:-1,TR: MaxBox Cocuk 9 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70928
+#EXTINF:-1,TR: MaxBox Cocuk 10 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70929
+#EXTINF:-1,TR: BEIN SERIES SCI FI
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70930
+#EXTINF:-1,TR: BEIN SERIES COMEDY
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70931
+#EXTINF:-1,TR: BEIN SERIES VICE
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70932
+#EXTINF:-1,TR: BEIN MOVIES PREMIERE 2 HD
+http://dimapro.cz:8080/00:1A:79:16:FD:34/finalworksdksldks@/70933
