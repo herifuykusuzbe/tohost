@@ -1,483 +1,87 @@
 #EXTM3U
-#EXTINF:-1,(TR) TRT 1 FHD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6401.ts
-#EXTINF:-1,(TR) ATV FHD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6467.ts
-#EXTINF:-1,(TR) Kanal D FHD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6427.ts
-#EXTINF:-1,(TR) Star TV FHD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6407.ts
-#EXTINF:-1,(TR) Show TV FHD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6409.ts
-#EXTINF:-1,(TR) Fox TV FHD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6445.ts
-#EXTINF:-1,(TR) TV8 FHD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6382.ts
-#EXTINF:-1,(TR) TV8.5 HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6380.ts
-#EXTINF:-1,(TR) Beyaz TV HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6460.ts
-#EXTINF:-1,(TR) Kanal 7 HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6432.ts
-#EXTINF:-1,(TR) Teve 2 HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6405.ts
-#EXTINF:-1,(TR) DMAX HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6608.ts
-#EXTINF:-1,(TR) TLC HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6403.ts
-#EXTINF:-1,(TR) FX HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/20746.ts
-#EXTINF:-1,(TR) FOX LIFE HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/22464.ts
-#EXTINF:-1,(TR) FOX CRIME HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/22463.ts
-#EXTINF:-1,(TR) TV100
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/20694.ts
-#EXTINF:-1,(TR) A2
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6474.ts
-#EXTINF:-1,(TR) Uçankuş TV
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/22726.ts
-#EXTINF:-1,(TR) BengüTürk
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/21903.ts
-#EXTINF:-1,(TR) Tele 1
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6406.ts
-#EXTINF:-1,(TR) Ulke TV HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6377.ts
-#EXTINF:-1,(TR) Halk TV
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6444.ts
-#EXTINF:-1,(TR) Ulusal Kanal
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6376.ts
-#EXTINF:-1,(TR) Bloomberg HT HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6459.ts
-#EXTINF:-1,(TR) Teve 2
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/22195.ts
-#EXTINF:-1,(TR) TVnet
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6379.ts
-#EXTINF:-1,(TR) 360
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6475.ts
-#EXTINF:-1,(TR) TRT 2 HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/20756.ts
-#EXTINF:-1,(TR) TRT Turk
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6394.ts
-#EXTINF:-1,(TR) TRT Avaz
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6399.ts
-#EXTINF:-1,(TR) Dost TV
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6453.ts
-#EXTINF:-1,(TR) TRT World HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6476.ts
-#EXTINF:-1,(TR) Diyanet TV
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6397.ts
-#EXTINF:-1,(TR) Semerkand TV
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6412.ts
-#EXTINF:-1,(TR) Meltem Tv
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/22576.ts
-#EXTINF:-1,(TR) Kabe TV
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/22575.ts
-#EXTINF:-1,(TR) Ilahi TV
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6463.ts
-#EXTINF:-1,(TR) Dini ve Siir
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6400.ts
-#EXTINF:-1,(TR) Akit TV
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6470.ts
-#EXTINF:-1,(TR) TV 5
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6390.ts
-#EXTINF:-1,(TR) Euro D
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6449.ts
-#EXTINF:-1,(TR) Show Turk HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/16697.ts
-#EXTINF:-1,(TR) Showmax
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/22222.ts
-#EXTINF:-1,(TR) EuroStar HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/16384.ts
-#EXTINF:-1,***** TR - HABER *****
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/0.ts
-#EXTINF:-1,[LIVE] Coronavirus Pandemic
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6411.ts
-#EXTINF:-1,(TR) A HABER HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6489.ts
-#EXTINF:-1,(TR) CNN Turk HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6487.ts
-#EXTINF:-1,(TR) Haberturk HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6483.ts
-#EXTINF:-1,(TR) NTV HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/17812.ts
-#EXTINF:-1,(TR) TRT Haber HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/17811.ts
-#EXTINF:-1,(TR) 24 TV HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6491.ts
-#EXTINF:-1,(TR) HABER GLOBAL HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/20750.ts
-#EXTINF:-1,(TR) BengüTürk
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/21903.ts
-#EXTINF:-1,(TR) Tele 1
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6406.ts
-#EXTINF:-1,(TR) Halk TV
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6444.ts
-#EXTINF:-1,(TR) Ulusal
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/21852.ts
-#EXTINF:-1,(TR) Akit TV
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6470.ts
-#EXTINF:-1,(TR) KRT TV HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/20755.ts
-#EXTINF:-1,(TR) ARTI TV
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/21014.ts
-#EXTINF:-1,(TR) YOL TV
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/21467.ts
-#EXTINF:-1,(TR) CAN TV
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/21468.ts
-#EXTINF:-1,(TR) CEM TV
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/21851.ts
-#EXTINF:-1,(TR) YILDIZ TV
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/22564.ts
-#EXTINF:-1,(TR) TVnet
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6379.ts
-#EXTINF:-1,(TR) Bloomberg HT
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6488.ts
-#EXTINF:-1,(TR) TGRT Haber HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6480.ts
-#EXTINF:-1,(TR) A Para HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/20752.ts
-#EXTINF:-1,***** TR - MUZIK & COCUK *****
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/0.ts
-#EXTINF:-1,(TR) IKON ANIMASYON TV-1 HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/22286.ts
-#EXTINF:-1,(TR) IKON ANIMASYON TV-2 HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/22287.ts
-#EXTINF:-1,(TR) IKON TOM & JERRY TV
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/22446.ts
-#EXTINF:-1,(TR) IKON BUGS BUNNY TV
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/22449.ts
-#EXTINF:-1,(TR) IKON LOONEY TUNES TV
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/22722.ts
-#EXTINF:-1,(TR) IKON MASHA İLE KOCA AYI
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/22714.ts
-#EXTINF:-1,(TR) IKON Alvin ve Sincaplar TV
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/22218.ts
-#EXTINF:-1,(TR) IKON Kral Şakir TV-2
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/22199.ts
-#EXTINF:-1,(TR) IKON Kral Şakir TV-3
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/22200.ts
-#EXTINF:-1,(TR) IKON Kukuli TV
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/21244.ts
-#EXTINF:-1,(TR) IKON Buz Devri TV
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/22212.ts
-#EXTINF:-1,(TR) IKON The Boss Baby TV
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/22213.ts
-#EXTINF:-1,(TR) IKON The Boss Baby TV-2
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/22214.ts
-#EXTINF:-1,(TR) IKON Rafadan Tayfa TV-1
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/22216.ts
-#EXTINF:-1,(TR) IKON Niloya TV
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/22204.ts
-#EXTINF:-1,(TR) IKON Niloya TV-2
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/22211.ts
-#EXTINF:-1,(TR) IKON Pepe TV
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/22215.ts
-#EXTINF:-1,(TR) IKON Bebek Uyku 2
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/22223.ts
-#EXTINF:-1,(TR) Baby TV
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6576.ts
-#EXTINF:-1,(TR) Cartoon Network
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6575.ts
-#EXTINF:-1,(TR) Disney Channel
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6574.ts
-#EXTINF:-1,(TR) Disney Junior
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6573.ts
-#EXTINF:-1,(TR) Minika Cocuk
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6572.ts
-#EXTINF:-1,(TR) Minika Go
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6571.ts
-#EXTINF:-1,(TR) Nick JR
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6570.ts
-#EXTINF:-1,(TR) Nickelodeon
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6569.ts
-#EXTINF:-1,(TR) TRT Cocuk
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6567.ts
-#EXTINF:-1,(TR) Dream Turk
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6566.ts
-#EXTINF:-1,(TR) Dream TV
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6565.ts
-#EXTINF:-1,(TR) Kral POP
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6563.ts
-#EXTINF:-1,(TR) Kral TV
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6562.ts
-#EXTINF:-1,(TR) Power Turk
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6559.ts
-#EXTINF:-1,(TR) TRT Muzik
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6558.ts
-#EXTINF:-1,(TR) CEM TV
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/21851.ts
-#EXTINF:-1,(TR) Vatan TV
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/21904.ts
-#EXTINF:-1,IKON MUSIC - TÜRKÜLER İYİLEŞTİRİR
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/22659.ts
-#EXTINF:-1,IKON MUSIC - TÜRKÜLERLE TÜRKİYE 2
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/21844.ts
-#EXTINF:-1,IKON MUSIC - SOMINE TURKU
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/21849.ts
-#EXTINF:-1,***** TR - SINEMA *****
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/0.ts
-#EXTINF:-1,IKON TV - INFO CHANNEL
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/21453.ts
-#EXTINF:-1,(TR) IKON TV -  KEMAL SUNAL TV
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/21659.ts
-#EXTINF:-1,(TR) IKON TV -  KEMAL SUNAL TV 2
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6556.ts
-#EXTINF:-1,(TR) IKON TV - ŞENER ŞEN TV-1
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/22220.ts
-#EXTINF:-1,(TR) IKON TV - ŞENER ŞEN TV-2
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/22221.ts
-#EXTINF:-1,(TR) IKON HABABAM TV
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/22293.ts
-#EXTINF:-1,(TR) TOLGSHOW FİLTRESİZ
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/22660.ts
-#EXTINF:-1,(TR) KONUŞANLAR TV
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/22661.ts
-#EXTINF:-1,(TR) IKON RECEP IVEDIK TV HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/22294.ts
-#EXTINF:-1,(TR) IKON YERLI SINEMA TV-1 HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/22227.ts
-#EXTINF:-1,(TR) IKON 007 TV
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/22442.ts
-#EXTINF:-1,(TR) IKON FULL ACTION TV-1 HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/22285.ts
-#EXTINF:-1,(TR) IKON HIZLI ve ÖFKELİ TV HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/22224.ts
-#EXTINF:-1,(TR) IKON MISSION IMPOSIBLE TV HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/22225.ts
-#EXTINF:-1,(TR) IKON MARVEL FILMS TV-1 HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/22226.ts
-#EXTINF:-1,(TR) beIN BOX OFFICE HD 1
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/22297.ts
-#EXTINF:-1,(TR) beIN BOX OFFICE HD 2
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/22298.ts
-#EXTINF:-1,(TR) beIN BOX OFFICE HD 3
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/22299.ts
-#EXTINF:-1,(TR) beIN MOVIES ACTION HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/20717.ts
-#EXTINF:-1,(TR) beIN MOVIES ACTION 2 HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/22544.ts
-#EXTINF:-1,(TR) beIN MOVIES FAMILY HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/20719.ts
-#EXTINF:-1,(TR) beIN MOVIES PREMIERE 2 HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/20721.ts
-#EXTINF:-1,(TR) beIN MOVIES TURK HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/20723.ts
-#EXTINF:-1,(TR) beIN SERIES COMEDY HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/20724.ts
-#EXTINF:-1,(TR) beIN SERIES DRAMA HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/20725.ts
-#EXTINF:-1,(TR) beIN SERIES SCI-FI HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/20726.ts
-#EXTINF:-1,(TR) beIN SERIES VICE HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/20727.ts
-#EXTINF:-1,(TR) DIZI SMART PREMIUM HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/20744.ts
-#EXTINF:-1,(TR) FX HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/20746.ts
-#EXTINF:-1,(TR) FOX CRIME HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/22463.ts
-#EXTINF:-1,(TR) MOVIE SMART ACTION HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/20728.ts
-#EXTINF:-1,(TR) MOVIE SMART CLASSIC HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/20729.ts
-#EXTINF:-1,(TR) MOVIE SMART FAMILY HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/20730.ts
-#EXTINF:-1,(TR) MOVIE SMART FEST HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/20731.ts
-#EXTINF:-1,(TR) MOVIE SMART PREMIUM HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/20736.ts
-#EXTINF:-1,(TR) MOVIE SMART PREMIUM 2 HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/20735.ts
-#EXTINF:-1,(TR) MOVIE SMART TURK HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/20737.ts
-#EXTINF:-1,MAX Western HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/22018.ts
-#EXTINF:-1,MAX Vizyon HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/22019.ts
-#EXTINF:-1,MAX Vizyon 2 HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/22021.ts
-#EXTINF:-1,MAX Vizyon 3 HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/22020.ts
-#EXTINF:-1,MAX Vizyon 4 HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/22035.ts
-#EXTINF:-1,MAX Turk HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/22022.ts
-#EXTINF:-1,MAX Premier HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/22024.ts
-#EXTINF:-1,MAX PLUS HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/22025.ts
-#EXTINF:-1,MAX Orjinal HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/22034.ts
-#EXTINF:-1,MAX Gold HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/22026.ts
-#EXTINF:-1,MAX Animasyon HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/22028.ts
-#EXTINF:-1,MAX Animasyon 2 HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/22029.ts
-#EXTINF:-1,MAX Aksion HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/22036.ts
-#EXTINF:-1,MAX Aksiyon 2 HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/22037.ts
-#EXTINF:-1,MAX Hint Filimleri HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/22027.ts
-#EXTINF:-1,Max 4K UHD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/22033.ts
-#EXTINF:-1,MAX 007 HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/22030.ts
-#EXTINF:-1,***** TR - SPOR *****
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/0.ts
-#EXTINF:-1,(TR) Süper Lig TV - Week-1
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/22534.ts
-#EXTINF:-1,(TR) Bundesliga TV - Week-1
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/22536.ts
-#EXTINF:-1,(TR) TRT Spor HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6395.ts
-#EXTINF:-1,(TR) TRT Spor YILDIZ
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/20751.ts
-#EXTINF:-1,(TR) A Spor HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6615.ts
-#EXTINF:-1,(TR) S Sport HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6607.ts
-#EXTINF:-1,(TR) S Sport 2 HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/22185.ts
-#EXTINF:-1,(TR) Sports TV
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6603.ts
-#EXTINF:-1,(US) NBA HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/10481.ts
-#EXTINF:-1,(TR) TIVIBU Spor 1 HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6601.ts
-#EXTINF:-1,(TR) TIVIBU Spor 2 HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6600.ts
-#EXTINF:-1,(TR) TIVIBU Spor 3 HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6598.ts
-#EXTINF:-1,(TR) Smart Spor HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6605.ts
-#EXTINF:-1,(TR) FB TV
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/10359.ts
-#EXTINF:-1,(TR) GS TV
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6610.ts
-#EXTINF:-1,(TR) TJK TV HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/22720.ts
-#EXTINF:-1,***** TR - BEIN SPORTS *****
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/0.ts
-#EXTINF:-1,(TR) Süper Lig TV - Week-1
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/22534.ts
-#EXTINF:-1,(TR) Bundesliga TV - Week-1
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/22536.ts
-#EXTINF:-1,(TR) beIN SPORTS 1 HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/16386.ts
-#EXTINF:-1,(TR) beIN SPORTS 1 HD (Yedek 1)
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/16387.ts
-#EXTINF:-1,(TR) beIN SPORTS 1 HD (Yedek 2)
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/16388.ts
-#EXTINF:-1,(TR) beIN SPORTS 2 HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6585.ts
-#EXTINF:-1,(TR) beIN SPORTS 2 HD (Yedek 1)
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6587.ts
-#EXTINF:-1,(TR) beIN SPORTS 2 HD (Yedek 2)
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6586.ts
-#EXTINF:-1,(TR) beIN SPORTS 3 HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6582.ts
-#EXTINF:-1,(TR) beIN SPORTS 3 HD (Yedek 1)
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6584.ts
-#EXTINF:-1,(TR) beIN SPORTS 3 HD (Yedek 2)
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6583.ts
-#EXTINF:-1,(TR) beIN SPORTS 4 HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6581.ts
-#EXTINF:-1,(TR) beIN SPORTS 4 HD (Yedek)
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6580.ts
-#EXTINF:-1,(TR) beIN SPORTS Max 1 HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6579.ts
-#EXTINF:-1,(TR) beIN SPORTS Max 2 HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6578.ts
-#EXTINF:-1,(TR) beIN SPORTS HABER
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6577.ts
-#EXTINF:-1, ***** TR - YEREL *****
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/0.ts
-#EXTINF:-1,(TR) BRT 1 HD KKTC
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/20748.ts
-#EXTINF:-1,(TR) Kadirga TV
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6458.ts
-#EXTINF:-1,(TR) Cay TV
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/10360.ts
-#EXTINF:-1,(TR) Ciftci TV
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6456.ts
-#EXTINF:-1,(TR) DRT Denizli
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6452.ts
-#EXTINF:-1,(TR) Vatan TV
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/21904.ts
-#EXTINF:-1,(TR) EkinTurk TV
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/20781.ts
-#EXTINF:-1,(TR) ERT Erzincan TV
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/22194.ts
-#EXTINF:-1,(TR) KANAL URFA
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6564.ts
-#EXTINF:-1,(TR) HABER GLOBAL HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/20750.ts
-#EXTINF:-1,(TR) Sivas Vizyon 58
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6440.ts
-#EXTINF:-1,(TR) Kanal 3
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6439.ts
-#EXTINF:-1,(TR) Kanal 33
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6438.ts
-#EXTINF:-1,(TR) Kanal 52
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6436.ts
-#EXTINF:-1,(TR) Kanal 68
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6434.ts
-#EXTINF:-1,(TR) Kanal Avrupa
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6430.ts
-#EXTINF:-1,(TR) Kanal B
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6429.ts
-#EXTINF:-1,(TR) Kardelen TV
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6423.ts
-#EXTINF:-1,(TR) Kon TV
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6422.ts
-#EXTINF:-1,(TR) KRT TV HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/20755.ts
-#EXTINF:-1,(TR) Lalegül TV
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/17436.ts
-#EXTINF:-1,(TR) Mavi Karadeniz
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6419.ts
-#EXTINF:-1,(TR) Ucankus
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6413.ts
-#EXTINF:-1,(TR) Tele 1
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6406.ts
-#EXTINF:-1,(TR) TLC HD
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6403.ts
-#EXTINF:-1,(TR) Dini ve Siir
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6400.ts
-#EXTINF:-1,(TR) TV1 Kayseri
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6386.ts
-#EXTINF:-1,(TR) TV100
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/20694.ts
-#EXTINF:-1,(TR) TV79
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/6384.ts
-#EXTINF:-1,(TR) IKON TEST CHANNEL
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/22409.ts
-#EXTINF:-1,(RA) POWER FM
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/21430.ts
-#EXTINF:-1,(RA) ALEM FM
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/21431.ts
-#EXTINF:-1,(RA) ISTANBUL FM
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/21432.ts
-#EXTINF:-1,(RA) KRAL POP
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/21436.ts
-#EXTINF:-1,(RA) POWER POP
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/21437.ts
-#EXTINF:-1,(RA) KRAL FM
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/21438.ts
-#EXTINF:-1,(AR) RADYO TURKU
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/21440.ts
-#EXTINF:-1,(RA) RADYO AHMET KAYA
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/21441.ts
-#EXTINF:-1,(RA) POWER TURK AKUSTIK
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/21439.ts
-#EXTINF:-1,(RA) ERZİNCAN RADYO DOST
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/21442.ts
-#EXTINF:-1,(RA) SHOW RADYO
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/22209.ts
-#EXTINF:-1,(RA) Seymen FM
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/22210.ts
-#EXTINF:-1,(RA) FunX
-http://p.dtv.sx:80/live/HPqvctRhGQCaYfgh/617082/21443.ts
+#EXTINF:-1,TR: FOX HD
+http://srv-100.bluesite.club:2095/4vtqX5ytxe/QHFLAm5X7g/13985
+#EXTINF:-1,TR: A2 
+http://srv-100.bluesite.club:2095/4vtqX5ytxe/QHFLAm5X7g/13972
+#EXTINF:-1,TR: ANIMAUX
+http://srv-100.bluesite.club:2095/4vtqX5ytxe/QHFLAm5X7g/22528
+#EXTINF:-1,TR: ATV AVRUPA 
+http://srv-100.bluesite.club:2095/4vtqX5ytxe/QHFLAm5X7g/13973
+#EXTINF:-1,TR: AV TV 
+http://srv-100.bluesite.club:2095/4vtqX5ytxe/QHFLAm5X7g/22531
+#EXTINF:-1,TR: BEYAZ TV 
+http://srv-100.bluesite.club:2095/4vtqX5ytxe/QHFLAm5X7g/1632
+#EXTINF:-1,TR: CNN TURK
+http://srv-100.bluesite.club:2095/4vtqX5ytxe/QHFLAm5X7g/1642
+#EXTINF:-1,TR: DiSCOVERY CHANNEL HD
+http://srv-100.bluesite.club:2095/4vtqX5ytxe/QHFLAm5X7g/22526
+#EXTINF:-1,TR: DiSCOVERY IDX HD
+http://srv-100.bluesite.club:2095/4vtqX5ytxe/QHFLAm5X7g/22527
+#EXTINF:-1,TR: DMAX HD 
+http://srv-100.bluesite.club:2095/4vtqX5ytxe/QHFLAm5X7g/22532
+#EXTINF:-1,TR: DREAM TURK
+http://srv-100.bluesite.club:2095/4vtqX5ytxe/QHFLAm5X7g/1637
+#EXTINF:-1,TR: EURO STAR HD
+http://srv-100.bluesite.club:2095/4vtqX5ytxe/QHFLAm5X7g/26176
+#EXTINF:-1,TR: HISTORY HD
+http://srv-100.bluesite.club:2095/4vtqX5ytxe/QHFLAm5X7g/13986
+#EXTINF:-1,TR: KANAL 12 TV
+http://srv-100.bluesite.club:2095/4vtqX5ytxe/QHFLAm5X7g/22535
+#EXTINF:-1,TR: KANAL 15 TV
+http://srv-100.bluesite.club:2095/4vtqX5ytxe/QHFLAm5X7g/22536
+#EXTINF:-1,TR: KANAL 23 TV
+http://srv-100.bluesite.club:2095/4vtqX5ytxe/QHFLAm5X7g/22537
+#EXTINF:-1,TR: KANAL 26 TV
+http://srv-100.bluesite.club:2095/4vtqX5ytxe/QHFLAm5X7g/22538
+#EXTINF:-1,TR: KANAL 3 TV
+http://srv-100.bluesite.club:2095/4vtqX5ytxe/QHFLAm5X7g/22534
+#EXTINF:-1,TR: KANAL 7
+http://srv-100.bluesite.club:2095/4vtqX5ytxe/QHFLAm5X7g/13987
+#EXTINF:-1,TR: KANAL B
+http://srv-100.bluesite.club:2095/4vtqX5ytxe/QHFLAm5X7g/13980
+#EXTINF:-1,TR: KANAL D 
+http://srv-100.bluesite.club:2095/4vtqX5ytxe/QHFLAm5X7g/1638
+#EXTINF:-1,TR: KRAL POP
+http://srv-100.bluesite.club:2095/4vtqX5ytxe/QHFLAm5X7g/13989
+#EXTINF:-1,TR: Kral TV
+http://srv-100.bluesite.club:2095/4vtqX5ytxe/QHFLAm5X7g/26103
+#EXTINF:-1,TR: LOVE NATURE 
+http://srv-100.bluesite.club:2095/4vtqX5ytxe/QHFLAm5X7g/22530
+#EXTINF:-1,TR: Marmara Tv
+http://srv-100.bluesite.club:2095/4vtqX5ytxe/QHFLAm5X7g/22544
+#EXTINF:-1,TR: NATIONAL GEO WILD 
+http://srv-100.bluesite.club:2095/4vtqX5ytxe/QHFLAm5X7g/13992
+#EXTINF:-1,TR: NTV
+http://srv-100.bluesite.club:2095/4vtqX5ytxe/QHFLAm5X7g/26104
+#EXTINF:-1,TR: POWER TURK
+http://srv-100.bluesite.club:2095/4vtqX5ytxe/QHFLAm5X7g/13993
+#EXTINF:-1,TR: STAR TV 
+http://srv-100.bluesite.club:2095/4vtqX5ytxe/QHFLAm5X7g/1635
+#EXTINF:-1,TR: TGRT HABER
+http://srv-100.bluesite.club:2095/4vtqX5ytxe/QHFLAm5X7g/13999
+#EXTINF:-1,TR: TLC HD
+http://srv-100.bluesite.club:2095/4vtqX5ytxe/QHFLAm5X7g/13977
+#EXTINF:-1,TR: Ton TV
+http://srv-100.bluesite.club:2095/4vtqX5ytxe/QHFLAm5X7g/26178
+#EXTINF:-1,TR: TRT  4K
+http://srv-100.bluesite.club:2095/4vtqX5ytxe/QHFLAm5X7g/1643
+#EXTINF:-1,TR: TRT BELGESEL HD
+http://srv-100.bluesite.club:2095/4vtqX5ytxe/QHFLAm5X7g/14002
+#EXTINF:-1,TR: TRT Cocuk
+http://srv-100.bluesite.club:2095/4vtqX5ytxe/QHFLAm5X7g/22704
+#EXTINF:-1,TR: TRT HABER
+http://srv-100.bluesite.club:2095/4vtqX5ytxe/QHFLAm5X7g/1636
+#EXTINF:-1,TR: TRT Kurdi
+http://srv-100.bluesite.club:2095/4vtqX5ytxe/QHFLAm5X7g/22705
+#EXTINF:-1,TR: TRT MUZIK 
+http://srv-100.bluesite.club:2095/4vtqX5ytxe/QHFLAm5X7g/14003
+#EXTINF:-1,TR: TRT Türk
+http://srv-100.bluesite.club:2095/4vtqX5ytxe/QHFLAm5X7g/22706
+#EXTINF:-1,TR: TRT WORLD 
+http://srv-100.bluesite.club:2095/4vtqX5ytxe/QHFLAm5X7g/14005
+#EXTINF:-1,TR: TV 8
+http://srv-100.bluesite.club:2095/4vtqX5ytxe/QHFLAm5X7g/1633
+#EXTINF:-1,TR: TV 8,5
+http://srv-100.bluesite.club:2095/4vtqX5ytxe/QHFLAm5X7g/14006
+#EXTINF:-1,TR: YABAN TV
+http://srv-100.bluesite.club:2095/4vtqX5ytxe/QHFLAm5X7g/13982
